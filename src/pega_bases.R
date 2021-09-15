@@ -2,7 +2,7 @@ library(rvest)
 library(tidyverse)
 library(git2r)
 rm(list=ls())
-link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/'
+link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/#/15-09-2021'
 
 page <- read_html(link)
 page
@@ -11,6 +11,7 @@ dias_com_jogo <- page %>%
   html_nodes('.match-center-item')
 datas_dias = dias_com_jogo %>% 
   html_attr('data-ts')
+dia = dias_com_jogo[7]
 
 jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt') %>% 
   filter(!(Dia %in% datas_dias))
