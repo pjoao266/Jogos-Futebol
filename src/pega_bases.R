@@ -12,7 +12,7 @@ dias_com_jogo <- page %>%
 datas_dias = dias_com_jogo %>% 
   html_attr('data-ts')
 
-jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\base_tabelaDeJogos.txt') %>% 
+jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt') %>% 
   filter(!(Dia %in% datas_dias))
 
 for (indicedia in 1:length(dias_com_jogo)) {
@@ -42,5 +42,5 @@ for (indicedia in 1:length(dias_com_jogo)) {
   jogos = rbind(jogos,base_jogos_Dia)
 }
 
-write.table(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\base_tabelaDeJogos.txt')
-source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\atualiza_git.R')
+write.table(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
+source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_git.R')
