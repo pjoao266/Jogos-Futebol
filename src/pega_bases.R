@@ -1,12 +1,11 @@
-
 pega_bases = function(page){
   dias_com_jogo <- page %>% 
     html_nodes('.match-center-item')
+  
   datas_dias = dias_com_jogo %>% 
     html_attr('data-ts')
-  dia = dias_com_jogo[7]
   
-  jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt') %>% 
+  jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt',header = T) %>% 
     filter(!(Dia %in% datas_dias))
   
   for (indicedia in 1:length(dias_com_jogo)) {
@@ -14,26 +13,66 @@ pega_bases = function(page){
     data = dia %>% 
       html_attr('data-ts')
     
-    jogos_dia = dia %>% 
-      html_nodes('.team-score , .team-name') %>% 
-      html_text()
+    jogos_html =  dia %>% 
+      html_nodes('.match-wrap')
     
-    mandantes = jogos_dia[seq(from=1,to = length(jogos_dia),by = 4)]
-    golsmand = jogos_dia[seq(from=2,to = length(jogos_dia),by = 4)]
-    golsvisit = jogos_dia[seq(from=3,to = length(jogos_dia),by = 4)]
-    visitantes = jogos_dia[seq(from=4,to = length(jogos_dia),by = 4)]
-    
-    base_jogos_Dia = data.frame(Dia = data, Mandante = mandantes,GolsMandante = golsmand,
-                                GolsVisitante = golsvisit,Visitante = visitantes) %>% 
-      mutate_at(c('GolsVisitante','GolsMandante'),function(x) 
-        ifelse(x=='-',NA,as.numeric(x)))
-    
-    base_jogos_Dia = base_jogos_Dia %>% 
-      mutate(Resultado = case_when(is.na(GolsMandante)~'N',
-                                   GolsMandante>GolsVisitante~'M',
-                                   GolsMandante<GolsVisitante~'V',
-                                   GolsMandante==GolsVisitante~'E'))
-    jogos = rbind(jogos,base_jogos_Dia)
+    for (indice_jogos in 1:length(jogos_html)) {
+      jogo = jogos_html[indice_jogos]
+      
+      info_jogo = jogo %>% 
+        html_nodes('.team-score , .team-name, .match-label,.match-info') %>% 
+        html_text() %>% 
+        str_trim()
+      
+      infos_partida = (info_jogo[1] %>% 
+                         str_split('-'))[[1]]%>% 
+        str_trim()
+      infos_partida = infos_partida[length(infos_partida)-1]
+      
+      base_jogos_Dia = data.frame(Dia = data, Competição = infos_partida, Mandante = info_jogo[2],
+                                  GolsMandante = info_jogo[3],
+                                  GolsVisitante = info_jogo[4],Visitante = info_jogo[5]) %>% 
+        mutate_at(c('GolsVisitante','GolsMandante'),function(x) 
+          ifelse(x=='-',NA,as.numeric(x))) %>% 
+        mutate(Resultado = case_when(is.na(GolsMandante)~'N',
+                                     GolsMandante>GolsVisitante~'M',
+                                     GolsMandante<GolsVisitante~'V',
+                                     GolsMandante==GolsVisitante~'E'),
+               Situação = case_when(info_jogo[6]=='ao vivo'~'Ao Vivo',
+                                    info_jogo[6] %in% c('encerrado','pós-jogo')~'Encerrado',
+                                    T~'Não iniciado'))
+      minutos = NA
+      if(base_jogos_Dia$Situação =='Ao Vivo'){
+        proximo_link = jogo %>% 
+          html_nodes('.match-content-score') %>% 
+          html_attr('href') 
+        new_page = acessa_pagina(proximo_link)
+        texto = NULL
+        texto = new_page %>% 
+          html_nodes('.backgroundLabel > div') %>% 
+          html_text()
+        if(isTRUE(all.equal(texto,character(0)))){
+          minutos = new_page %>% 
+            html_nodes('.scoreboard_matchStage_label div') %>% 
+            html_text()
+        }else{
+          if( texto[2] %>% str_detect('[0-9]+')){
+            adiciona = ifelse(texto[1] == "2º Tempo",45,0)
+            minutos = (texto[2] %>% 
+                         str_split(pattern = '[\\+;]'))[[1]] %>% 
+              str_extract('[0-9]+') %>% 
+              as.numeric() %>%  sum()
+            minutos = minutos + adiciona  
+          }else{
+            minutos = texto[2]  
+          }
+        }
+        
+      }
+      base_jogos_Dia = base_jogos_Dia %>% 
+        mutate(Minutos = minutos)
+      jogos = rbind(jogos,base_jogos_Dia)
+    }
   }
   
   return(jogos)
