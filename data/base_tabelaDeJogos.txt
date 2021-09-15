@@ -111,7 +111,7 @@
 "110" "15-09-2021" "Liga dos Campeões" "Liverpool" 3 2 "Milan" "M" "Encerrado" NA
 "111" "15-09-2021" "Liga dos Campeões" "Sporting" 1 5 "Ajax" "V" "Encerrado" NA
 "112" "15-09-2021" "Liga dos Campeões" "Internazionale" 0 1 "Real Madrid" "V" "Encerrado" NA
-"113" "15-09-2021" "Copa do Brasil" "Atlético-MG" 0 0 "Fluminense" "E" "Ao Vivo" 54
+"113" "15-09-2021" "Copa do Brasil" "Atlético-MG" 0 0 "Fluminense" "E" "Ao Vivo" 55
 "114" "15-09-2021" "Copa do Brasil" "Flamengo" NA NA "Grêmio" "N" "Não iniciado" NA
 "115" "15-09-2021" "Copa do Brasil" "Fortaleza" NA NA "São Paulo" "N" "Não iniciado" NA
 "116" "16-09-2021" "Série B" "CRB" NA NA "Vasco" "N" "Não iniciado" NA
