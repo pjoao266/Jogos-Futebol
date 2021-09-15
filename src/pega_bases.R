@@ -1,10 +1,3 @@
-library(rvest)
-library(tidyverse)
-
-
-
-page <- read_html(link)
-page
 
 pega_bases = function(page){
   dias_com_jogo <- page %>% 
@@ -41,9 +34,7 @@ pega_bases = function(page){
                                    GolsMandante<GolsVisitante~'V',
                                    GolsMandante==GolsVisitante~'E'))
     jogos = rbind(jogos,base_jogos_Dia)
-    return(jogos)
   }
+  
+  return(jogos)
 }
-
-
-source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_git.R')
