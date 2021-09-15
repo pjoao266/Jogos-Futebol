@@ -119,7 +119,7 @@
 "118" "14-09-2021" "Malmö FF" 0 3 "Juventus" "V"
 "119" "14-09-2021" "Chelsea" 1 0 "Zenit" "M"
 "120" "14-09-2021" "Villarreal" 2 2 "Atalanta" "E"
-"121" "14-09-2021" "Santos" NA NA "Athletico" "N"
+"121" "14-09-2021" "Santos" 0 1 "Athletico" "V"
 "122" "15-09-2021" "Besiktas" NA NA "Borussia Dortmund" "N"
 "123" "15-09-2021" "Sheriff" NA NA "Shakhtar Donetsk" "N"
 "124" "15-09-2021" "Club Brugge" NA NA "PSG" "N"
