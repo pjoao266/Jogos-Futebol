@@ -36,7 +36,7 @@ roda_busca = function(){
 }
 while(1){
   roda_busca()
-  Sys.sleep(90)
+  Sys.sleep(20)
 }
 
 
