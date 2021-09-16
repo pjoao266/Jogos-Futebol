@@ -35,7 +35,10 @@ roda_busca = function(){
 }
 while(1){
   roda_busca()
-  Sys.sleep(20)
+  jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
+  if("Ao Vivo" %in% jogos$Situação){
+    Sys.sleep(30) 
+  }else{
+    break;
+  }
 }
-
-
