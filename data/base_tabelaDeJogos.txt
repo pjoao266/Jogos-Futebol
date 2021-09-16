@@ -114,8 +114,8 @@
 "1108" "15-09-2021" "Copa do Brasil" "Atlético-MG" 1 0 "Fluminense" "M" "Encerrado" NA
 "1109" "15-09-2021" "Copa do Brasil" "Flamengo" 2 0 "Grêmio" "M" "Encerrado" NA
 "1110" "15-09-2021" "Copa do Brasil" "Fortaleza" 3 1 "São Paulo" "M" "Encerrado" NA
-"1111" "16-09-2021" "Série B" "CRB" 0 1 "Vasco" "V" "Ao Vivo" 88
-"1112" "16-09-2021" "Série B" "Cruzeiro" 1 1 "Operário-PR" "E" "Ao Vivo" 88
+"1111" "16-09-2021" "Série B" "CRB" 0 1 "Vasco" "V" "Ao Vivo" 96
+"1112" "16-09-2021" "Série B" "Cruzeiro" 1 1 "Operário-PR" "E" "Ao Vivo" 97
 "1113" "16-09-2021" "Série B" "Remo" NA NA "Avaí" "N" "Não iniciado" NA
 "1114" "17-09-2021" "Alemão" "Hertha" NA NA "Greuther Fürth" "N" "Não iniciado" NA
 "1115" "17-09-2021" "Italiano" "Sassuolo" NA NA "Torino" "N" "Não iniciado" NA
