@@ -25,7 +25,7 @@ pega_bases = function(page){
         str_trim()
       
       infos_partida = (info_jogo[1] %>% 
-                         str_split('-'))[[1]]%>% 
+                         str_split(' - '))[[1]]%>% 
         str_trim()
       infos_partida = infos_partida[length(infos_partida)-1]
       
