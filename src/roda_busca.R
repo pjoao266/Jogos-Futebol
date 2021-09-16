@@ -34,5 +34,9 @@ roda_busca = function(){
   fim = Sys.time()
   fim-ini
 }
-roda_busca()
+while(1){
+  roda_busca()
+  Sys.sleep(90)
+}
+
 
