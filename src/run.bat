@@ -1,0 +1,1 @@
+"C:/Program Files/R/R-4.0.3/bin/x64/R.exe" -e source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\roda_busca.R')
