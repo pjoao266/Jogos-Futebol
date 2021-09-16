@@ -1,5 +1,5 @@
 acessa_pagina = function(link){
-  rd = rsDriver(browser = 'chrome',port=1234L,
+  rd = rsDriver(browser = 'chrome',port=1235L,
                 chromever = '93.0.4577.63')
   cliente = rd$client
   servidor = rd$server

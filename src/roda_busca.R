@@ -34,4 +34,5 @@ roda_busca = function(){
   fim = Sys.time()
   fim-ini
 }
+saveRDS(Sys.time(),'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\a.RDS')
 roda_busca()
