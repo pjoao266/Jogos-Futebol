@@ -4,261 +4,269 @@
 "3" "09-09-2021" "Eliminatórias Sul-Americanas" "Colômbia" 3 1 "Chile" "M" "Encerrado" NA
 "4" "09-09-2021" "Eliminatórias Sul-Americanas" "Argentina" 3 0 "Bolívia" "M" "Encerrado" NA
 "5" "09-09-2021" "Eliminatórias Sul-Americanas" "Brasil" 2 0 "Peru" "M" "Encerrado" NA
-"6" "10-09-2021" "Francês" "Lorient" 2 1 "Lille" "M" "Encerrado" NA
-"7" "10-09-2021" "Série B" "Vitória" 1 2 "Remo" "V" "Encerrado" NA
-"8" "10-09-2021" "Série B" "Vila Nova" 1 0 "Náutico" "M" "Encerrado" NA
-"9" "11-09-2021" "Inglês" "Crystal Palace" 3 0 "Tottenham" "M" "Encerrado" NA
-"10" "11-09-2021" "Italiano" "Empoli" 1 2 "Venezia" "V" "Encerrado" NA
-"11" "11-09-2021" "Alemão" "Bayer Leverkusen" 3 4 "Borussia Dortmund" "V" "Encerrado" NA
-"12" "11-09-2021" "Alemão" "Union Berlin" 0 0 "Augsburg" "E" "Encerrado" NA
-"13" "11-09-2021" "Alemão" "Freiburg" 1 1 "Colônia" "E" "Encerrado" NA
-"14" "11-09-2021" "Alemão" "Hoffenheim" 0 2 "Mainz 05" "V" "Encerrado" NA
-"15" "11-09-2021" "Alemão" "Greuther Fürth" 0 2 "Wolfsburg" "V" "Encerrado" NA
-"16" "11-09-2021" "Série B" "Cruzeiro" 1 0 "Ponte Preta" "M" "Encerrado" NA
-"17" "11-09-2021" "Série C" "São José-RS" 1 2 "Figueirense" "V" "Encerrado" NA
-"18" "11-09-2021" "Inglês" "Arsenal" 1 0 "Norwich" "M" "Encerrado" NA
-"19" "11-09-2021" "Inglês" "Brentford" 0 1 "Brighton" "V" "Encerrado" NA
-"20" "11-09-2021" "Inglês" "Leicester City" 0 1 "Manchester City" "V" "Encerrado" NA
-"21" "11-09-2021" "Inglês" "Manchester United" 4 1 "Newcastle United" "M" "Encerrado" NA
-"22" "11-09-2021" "Inglês" "Southampton" 0 0 "West Ham" "E" "Encerrado" NA
-"23" "11-09-2021" "Inglês" "Watford" 0 2 "Wolverhampton" "V" "Encerrado" NA
-"24" "11-09-2021" "Francês" "PSG" 4 0 "Clermont Foot" "M" "Encerrado" NA
-"25" "11-09-2021" "Italiano" "Napoli" 2 1 "Juventus" "M" "Encerrado" NA
-"26" "11-09-2021" "La Liga" "Levante" 1 1 "Rayo Vallecano" "E" "Encerrado" NA
-"27" "11-09-2021" "Inglês" "Chelsea" 3 0 "Aston Villa" "M" "Encerrado" NA
-"28" "11-09-2021" "Alemão" "RB Leipzig" 1 4 "Bayern de Munique" "V" "Encerrado" NA
-"29" "11-09-2021" "Série C" "Ituano" 2 1 "Oeste" "M" "Encerrado" NA
-"30" "11-09-2021" "Série D" "América-RN" 1 1 "Itabaiana" "E" "Encerrado" NA
-"31" "11-09-2021" "Série D" "Atlético-CE" 1 1 "Juazeirense-BA" "E" "Encerrado" NA
-"32" "11-09-2021" "Série D" "Bangu" 1 1 "Joinville" "E" "Encerrado" NA
-"33" "11-09-2021" "Italiano" "Atalanta" 1 2 "Fiorentina" "V" "Encerrado" NA
-"34" "11-09-2021" "Brasileirão" "América-MG" 2 0 "Athletico" "M" "Encerrado" NA
-"35" "11-09-2021" "La Liga" "Athletic Bilbao" 2 0 "Mallorca" "M" "Encerrado" NA
-"36" "11-09-2021" "Francês" "Monaco" 0 2 "Olympique" "V" "Encerrado" NA
-"37" "11-09-2021" "Série D" "Caldense-MG" 1 0 "Aparecidense" "M" "Encerrado" NA
-"38" "11-09-2021" "Série D" "União Rondonópolis" 2 0 "Boa Esporte" "M" "Encerrado" NA
-"39" "11-09-2021" "Série D" "Esportivo" 0 1 "Santo André" "V" "Encerrado" NA
-"40" "11-09-2021" "Série B" "Sampaio Corrêa-MA" 0 0 "Operário-PR" "E" "Encerrado" NA
-"41" "11-09-2021" "Série B" "Botafogo" 4 0 "Londrina" "M" "Encerrado" NA
-"42" "11-09-2021" "Brasileirão" "Juventude" 1 2 "Cuiabá" "V" "Encerrado" NA
-"43" "11-09-2021" "Série C" "Santa Cruz-PE" 0 1 "Altos-PI" "V" "Encerrado" NA
-"44" "11-09-2021" "Série C" "Novorizontino" 1 0 "Ypiranga-RS" "M" "Encerrado" NA
-"45" "11-09-2021" "Brasileirão" "Red Bull Bragantino" 1 2 "Chapecoense" "V" "Encerrado" NA
-"46" "11-09-2021" "Série C" "Criciúma" 0 0 "Botafogo-RP" "E" "Encerrado" NA
-"47" "11-09-2021" "Brasileirão" "Santos" 0 0 "Bahia" "E" "Encerrado" NA
-"48" "11-09-2021" "Série B" "CRB" 0 1 "Goiás" "V" "Encerrado" NA
-"49" "11-09-2021" "Série C" "Jacuipense-BA" 1 0 "Volta Redonda" "M" "Encerrado" NA
-"50" "12-09-2021" "Italiano" "Sampdoria" 2 2 "Internazionale" "E" "Encerrado" NA
-"51" "12-09-2021" "Francês" "Montpellier" 2 0 "Saint-Étienne" "M" "Encerrado" NA
-"52" "12-09-2021" "La Liga" "Espanyol" 1 2 "Atlético de Madri" "V" "Encerrado" NA
-"53" "12-09-2021" "Francês" "Bordeaux" 2 3 "Lens" "V" "Encerrado" NA
-"54" "12-09-2021" "Francês" "Brest" 1 1 "Angers" "E" "Encerrado" NA
-"55" "12-09-2021" "Francês" "Metz" 0 2 "Troyes" "V" "Encerrado" NA
-"56" "12-09-2021" "Francês" "Rennes" 0 2 "Reims" "V" "Encerrado" NA
-"57" "12-09-2021" "Italiano" "Cagliari" 2 3 "Genoa" "V" "Encerrado" NA
-"58" "12-09-2021" "Italiano" "Spezia" 0 1 "Udinese" "V" "Encerrado" NA
-"59" "12-09-2021" "Italiano" "Torino" 4 0 "Salernitana" "M" "Encerrado" NA
-"60" "12-09-2021" "Alemão" "Eintracht Frankfurt" 1 1 "Stuttgart" "E" "Encerrado" NA
-"61" "12-09-2021" "Brasileirão" "Grêmio" 2 0 "Ceará" "M" "Encerrado" NA
-"62" "12-09-2021" "Série C" "Tombense-MG" 0 0 "Floresta-CE" "E" "Encerrado" NA
-"63" "12-09-2021" "La Liga" "Osasuna" 1 4 "Valencia" "V" "Encerrado" NA
-"64" "12-09-2021" "Francês" "Nantes" 0 2 "Nice" "V" "Encerrado" NA
-"65" "12-09-2021" "Inglês" "Leeds United" 0 3 "Liverpool" "V" "Encerrado" NA
-"66" "12-09-2021" "Alemão" "Bochum" 1 3 "Hertha" "V" "Encerrado" NA
-"67" "12-09-2021" "Italiano" "Milan" 2 0 "Lazio" "M" "Encerrado" NA
-"68" "12-09-2021" "La Liga" "Cádiz" 0 2 "Real Sociedad" "V" "Encerrado" NA
-"69" "12-09-2021" "Alemão" "Borussia M'gladbach" 3 1 "Arminia Bielefeld" "M" "Encerrado" NA
-"70" "12-09-2021" "Série D" "Caxias" 1 0 "Portuguesa" "M" "Encerrado" NA
-"71" "12-09-2021" "Série D" "Brasiliense" 0 0 "Ferroviária" "E" "Encerrado" NA
-"72" "12-09-2021" "Série D" "Moto Club" 2 0 "Castanhal" "M" "Encerrado" NA
-"73" "12-09-2021" "Francês" "Lyon" 3 1 "Strasbourg" "M" "Encerrado" NA
-"74" "12-09-2021" "Italiano" "Roma" 2 1 "Sassuolo" "M" "Encerrado" NA
-"75" "12-09-2021" "Brasileirão" "Palmeiras" 1 3 "Flamengo" "V" "Encerrado" NA
-"76" "12-09-2021" "Brasileirão" "Fortaleza" 0 2 "Atlético-MG" "V" "Encerrado" NA
-"77" "12-09-2021" "Série C" "Manaus" 0 0 "Botafogo-PB" "E" "Encerrado" NA
-"78" "12-09-2021" "La Liga" "Real Madrid" 5 2 "Celta" "M" "Encerrado" NA
-"79" "12-09-2021" "Série D" "Penarol-AM" 1 0 "4 de Julho-PI" "M" "Encerrado" NA
-"80" "12-09-2021" "Série D" "Retrô" 1 1 "ABC" "E" "Encerrado" NA
-"81" "12-09-2021" "Série D" "Sergipe" 2 2 "Campinense" "E" "Encerrado" NA
-"82" "12-09-2021" "Série D" "Paragominas" 1 0 "São Raimundo-RR" "M" "Encerrado" NA
-"83" "12-09-2021" "Série D" "Cianorte" 0 0 "FC Cascavel" "E" "Encerrado" NA
-"84" "12-09-2021" "Série D" "Uberlândia" 1 1 "Nova Mutum" "E" "Encerrado" NA
-"85" "12-09-2021" "Série C" "Paraná Clube" 0 1 "Mirassol" "V" "Encerrado" NA
-"86" "12-09-2021" "Brasileirão" "Atlético-GO" 1 1 "Corinthians" "E" "Encerrado" NA
-"87" "12-09-2021" "Brasileirão" "Fluminense" 2 1 "São Paulo" "M" "Encerrado" NA
-"88" "12-09-2021" "Brasileirão Feminino A1" "Palmeiras" 0 1 "Corinthians" "V" "Encerrado" NA
-"89" "13-09-2021" "Série C" "Ferroviário" 5 1 "Paysandu" "M" "Encerrado" NA
-"90" "13-09-2021" "La Liga" "Getafe" 0 1 "Elche" "V" "Encerrado" NA
-"91" "13-09-2021" "Italiano" "Bologna" 1 0 "Hellas Verona" "M" "Encerrado" NA
-"92" "13-09-2021" "Inglês" "Everton" 3 1 "Burnley" "M" "Encerrado" NA
-"93" "13-09-2021" "La Liga" "Granada-ESP" 1 2 "Betis" "V" "Encerrado" NA
-"94" "13-09-2021" "Série D" "Galvez-AC" 0 0 "Guarany de Sobral" "E" "Encerrado" NA
-"95" "13-09-2021" "Brasileirão" "Sport" 0 1 "Internacional" "V" "Encerrado" NA
-"96" "14-09-2021" "Liga dos Campeões" "Young Boys" 2 1 "Manchester United" "M" "Encerrado" NA
-"97" "14-09-2021" "Liga dos Campeões" "Sevilla" 1 1 "Red Bull Salzburg" "E" "Encerrado" NA
-"98" "14-09-2021" "Liga dos Campeões" "Dynamo Kiev" 0 0 "Benfica" "E" "Encerrado" NA
-"99" "14-09-2021" "Liga dos Campeões" "Barcelona" 0 3 "Bayern de Munique" "V" "Encerrado" NA
-"100" "14-09-2021" "Liga dos Campeões" "Lille" 0 0 "Wolfsburg" "E" "Encerrado" NA
-"101" "14-09-2021" "Liga dos Campeões" "Malmö FF" 0 3 "Juventus" "V" "Encerrado" NA
-"102" "14-09-2021" "Liga dos Campeões" "Chelsea" 1 0 "Zenit" "M" "Encerrado" NA
-"103" "14-09-2021" "Liga dos Campeões" "Villarreal" 2 2 "Atalanta" "E" "Encerrado" NA
-"104" "14-09-2021" "Copa do Brasil" "Santos" 0 1 "Athletico" "V" "Encerrado" NA
-"105" "15-09-2021" "Liga dos Campeões" "Besiktas" 1 2 "Borussia Dortmund" "V" "Encerrado" NA
-"106" "15-09-2021" "Liga dos Campeões" "Sheriff" 2 0 "Shakhtar Donetsk" "M" "Encerrado" NA
-"107" "15-09-2021" "Liga dos Campeões" "Club Brugge" 1 1 "PSG" "E" "Encerrado" NA
-"108" "15-09-2021" "Liga dos Campeões" "Manchester City" 6 3 "RB Leipzig" "M" "Encerrado" NA
-"109" "15-09-2021" "Liga dos Campeões" "Atlético de Madri" 0 0 "Porto" "E" "Encerrado" NA
-"110" "15-09-2021" "Liga dos Campeões" "Liverpool" 3 2 "Milan" "M" "Encerrado" NA
-"111" "15-09-2021" "Liga dos Campeões" "Sporting" 1 5 "Ajax" "V" "Encerrado" NA
-"112" "15-09-2021" "Liga dos Campeões" "Internazionale" 0 1 "Real Madrid" "V" "Encerrado" NA
-"113" "15-09-2021" "Copa do Brasil" "Atlético-MG" 1 0 "Fluminense" "M" "Encerrado" NA
-"114" "15-09-2021" "Copa do Brasil" "Flamengo" 2 0 "Grêmio" "M" "Encerrado" NA
-"115" "15-09-2021" "Copa do Brasil" "Fortaleza" 3 1 "São Paulo" "M" "Encerrado" NA
-"116" "16-09-2021" "Série B" "CRB" NA NA "Vasco" "N" "Não iniciado" NA
-"117" "16-09-2021" "Série B" "Cruzeiro" NA NA "Operário-PR" "N" "Não iniciado" NA
-"118" "16-09-2021" "Série B" "Remo" NA NA "Avaí" "N" "Não iniciado" NA
-"119" "17-09-2021" "Alemão" "Hertha" NA NA "Greuther Fürth" "N" "Não iniciado" NA
-"120" "17-09-2021" "Italiano" "Sassuolo" NA NA "Torino" "N" "Não iniciado" NA
-"121" "17-09-2021" "Série B" "Brusque" NA NA "Vitória" "N" "Não iniciado" NA
-"122" "17-09-2021" "La Liga" "Celta" NA NA "Cádiz" "N" "Não iniciado" NA
-"123" "17-09-2021" "Inglês" "Newcastle United" NA NA "Leeds United" "N" "Não iniciado" NA
-"124" "17-09-2021" "Francês" "Strasbourg" NA NA "Metz" "N" "Não iniciado" NA
-"125" "17-09-2021" "Série D" "Aparecidense" NA NA "Caldense-MG" "N" "Não iniciado" NA
-"126" "17-09-2021" "Série B" "Coritiba" NA NA "Vila Nova" "N" "Não iniciado" NA
-"127" "17-09-2021" "Série B" "Confiança" NA NA "Sampaio Corrêa-MA" "N" "Não iniciado" NA
-"128" "17-09-2021" "Série B" "Ponte Preta" NA NA "Guarani" "N" "Não iniciado" NA
-"129" "18-09-2021" "Inglês" "Wolverhampton" NA NA "Brentford" "N" "Não iniciado" NA
-"130" "18-09-2021" "La Liga" "Rayo Vallecano" NA NA "Getafe" "N" "Não iniciado" NA
-"131" "18-09-2021" "Italiano" "Genoa" NA NA "Fiorentina" "N" "Não iniciado" NA
-"132" "18-09-2021" "Alemão" "Bayern de Munique" NA NA "Bochum" "N" "Não iniciado" NA
-"133" "18-09-2021" "Alemão" "Mainz 05" NA NA "Freiburg" "N" "Não iniciado" NA
-"134" "18-09-2021" "Alemão" "Augsburg" NA NA "Borussia M'gladbach" "N" "Não iniciado" NA
-"135" "18-09-2021" "Alemão" "Arminia Bielefeld" NA NA "Hoffenheim" "N" "Não iniciado" NA
-"136" "18-09-2021" "Série C" "Oeste" NA NA "São José-RS" "N" "Não iniciado" NA
-"137" "18-09-2021" "Inglês" "Burnley" NA NA "Arsenal" "N" "Não iniciado" NA
-"138" "18-09-2021" "Inglês" "Liverpool" NA NA "Crystal Palace" "N" "Não iniciado" NA
-"139" "18-09-2021" "Inglês" "Manchester City" NA NA "Southampton" "N" "Não iniciado" NA
-"140" "18-09-2021" "Inglês" "Norwich" NA NA "Watford" "N" "Não iniciado" NA
-"141" "18-09-2021" "La Liga" "Atlético de Madri" NA NA "Athletic Bilbao" "N" "Não iniciado" NA
-"142" "18-09-2021" "Francês" "Lens" NA NA "Lille" "N" "Não iniciado" NA
-"143" "18-09-2021" "Italiano" "Internazionale" NA NA "Bologna" "N" "Não iniciado" NA
-"144" "18-09-2021" "La Liga" "Elche" NA NA "Levante" "N" "Não iniciado" NA
-"145" "18-09-2021" "Inglês" "Aston Villa" NA NA "Everton" "N" "Não iniciado" NA
-"146" "18-09-2021" "Alemão" "Colônia" NA NA "RB Leipzig" "N" "Não iniciado" NA
-"147" "18-09-2021" "Série C" "Floresta-CE" NA NA "Volta Redonda" "N" "Não iniciado" NA
-"148" "18-09-2021" "Série D" "Campinense" NA NA "Sergipe" "N" "Não iniciado" NA
-"149" "18-09-2021" "Série D" "Santo André" NA NA "Esportivo" "N" "Não iniciado" NA
-"150" "18-09-2021" "Série D" "Joinville" NA NA "Bangu" "N" "Não iniciado" NA
-"151" "18-09-2021" "Italiano" "Salernitana" NA NA "Atalanta" "N" "Não iniciado" NA
-"152" "18-09-2021" "La Liga" "Alavés" NA NA "Osasuna" "N" "Não iniciado" NA
-"153" "18-09-2021" "Francês" "Saint-Étienne" NA NA "Bordeaux" "N" "Não iniciado" NA
-"154" "18-09-2021" "Série D" "4 de Julho-PI" NA NA "Penarol-AM" "N" "Não iniciado" NA
-"155" "18-09-2021" "Série D" "Juazeirense-BA" NA NA "Atlético-CE" "N" "Não iniciado" NA
-"156" "18-09-2021" "Série D" "FC Cascavel" NA NA "Cianorte" "N" "Não iniciado" NA
-"157" "18-09-2021" "Série D" "Portuguesa" NA NA "Caxias" "N" "Não iniciado" NA
-"158" "18-09-2021" "Série B" "Londrina" NA NA "CSA" "N" "Não iniciado" NA
-"159" "18-09-2021" "Série B" "Botafogo" NA NA "Náutico" "N" "Não iniciado" NA
-"160" "18-09-2021" "Brasileirão" "Chapecoense" NA NA "Palmeiras" "N" "Não iniciado" NA
-"161" "18-09-2021" "Série C" "Altos-PI" NA NA "Paysandu" "N" "Não iniciado" NA
-"162" "18-09-2021" "Série C" "Criciúma" NA NA "Mirassol" "N" "Não iniciado" NA
-"163" "18-09-2021" "Série D" "Boa Esporte" NA NA "União Rondonópolis" "N" "Não iniciado" NA
-"164" "18-09-2021" "Série D" "Ferroviária" NA NA "Brasiliense" "N" "Não iniciado" NA
-"165" "18-09-2021" "Brasileirão" "Athletico" NA NA "Juventude" "N" "Não iniciado" NA
-"166" "18-09-2021" "Brasileirão" "Atlético-MG" NA NA "Sport" "N" "Não iniciado" NA
-"167" "18-09-2021" "Série B" "Goiás" NA NA "Brasil de Pelotas" "N" "Não iniciado" NA
-"168" "18-09-2021" "Série C" "Novorizontino" NA NA "Paraná Clube" "N" "Não iniciado" NA
-"169" "18-09-2021" "Brasileirão" "Ceará" NA NA "Santos" "N" "Não iniciado" NA
-"170" "18-09-2021" "Brasileirão" "Bahia" NA NA "Red Bull Bragantino" "N" "Não iniciado" NA
-"171" "18-09-2021" "Série C" "Botafogo-RP" NA NA "Figueirense" "N" "Não iniciado" NA
-"172" "19-09-2021" "Italiano" "Empoli" NA NA "Sampdoria" "N" "Não iniciado" NA
-"173" "19-09-2021" "Francês" "Nice" NA NA "Monaco" "N" "Não iniciado" NA
-"174" "19-09-2021" "La Liga" "Mallorca" NA NA "Villarreal" "N" "Não iniciado" NA
-"175" "19-09-2021" "Inglês" "Brighton" NA NA "Leicester City" "N" "Não iniciado" NA
-"176" "19-09-2021" "Inglês" "West Ham" NA NA "Manchester United" "N" "Não iniciado" NA
-"177" "19-09-2021" "Francês" "Angers" NA NA "Nantes" "N" "Não iniciado" NA
-"178" "19-09-2021" "Francês" "Clermont Foot" NA NA "Brest" "N" "Não iniciado" NA
-"179" "19-09-2021" "Francês" "Reims" NA NA "Lorient" "N" "Não iniciado" NA
-"180" "19-09-2021" "Francês" "Troyes" NA NA "Montpellier" "N" "Não iniciado" NA
-"181" "19-09-2021" "Italiano" "Venezia" NA NA "Spezia" "N" "Não iniciado" NA
-"182" "19-09-2021" "Alemão" "Stuttgart" NA NA "Bayer Leverkusen" "N" "Não iniciado" NA
-"183" "19-09-2021" "Brasileirão" "Internacional" NA NA "Fortaleza" "N" "Não iniciado" NA
-"184" "19-09-2021" "Série C" "Ypiranga-RS" NA NA "Ituano" "N" "Não iniciado" NA
-"185" "19-09-2021" "La Liga" "Real Sociedad" NA NA "Sevilla" "N" "Não iniciado" NA
-"186" "19-09-2021" "Francês" "Olympique" NA NA "Rennes" "N" "Não iniciado" NA
-"187" "19-09-2021" "Inglês" "Tottenham" NA NA "Chelsea" "N" "Não iniciado" NA
-"188" "19-09-2021" "Alemão" "Borussia Dortmund" NA NA "Union Berlin" "N" "Não iniciado" NA
-"189" "19-09-2021" "Italiano" "Hellas Verona" NA NA "Roma" "N" "Não iniciado" NA
-"190" "19-09-2021" "Italiano" "Lazio" NA NA "Cagliari" "N" "Não iniciado" NA
-"191" "19-09-2021" "La Liga" "Betis" NA NA "Espanyol" "N" "Não iniciado" NA
-"192" "19-09-2021" "Alemão" "Wolfsburg" NA NA "Eintracht Frankfurt" "N" "Não iniciado" NA
-"193" "19-09-2021" "Série D" "Castanhal" NA NA "Moto Club" "N" "Não iniciado" NA
-"194" "19-09-2021" "Francês" "PSG" NA NA "Lyon" "N" "Não iniciado" NA
-"195" "19-09-2021" "Italiano" "Juventus" NA NA "Milan" "N" "Não iniciado" NA
-"196" "19-09-2021" "Brasileirão" "São Paulo" NA NA "Atlético-GO" "N" "Não iniciado" NA
-"197" "19-09-2021" "Série B" "Vasco" NA NA "Cruzeiro" "N" "Não iniciado" NA
-"198" "19-09-2021" "Série C" "Manaus" NA NA "Ferroviário" "N" "Não iniciado" NA
-"199" "19-09-2021" "La Liga" "Valencia" NA NA "Real Madrid" "N" "Não iniciado" NA
-"200" "19-09-2021" "Série D" "Itabaiana" NA NA "América-RN" "N" "Não iniciado" NA
-"201" "19-09-2021" "Série D" "ABC" NA NA "Retrô" "N" "Não iniciado" NA
-"202" "19-09-2021" "Série D" "Nova Mutum" NA NA "Uberlândia" "N" "Não iniciado" NA
-"203" "19-09-2021" "Série D" "São Raimundo-RR" NA NA "Paragominas" "N" "Não iniciado" NA
-"204" "19-09-2021" "Série C" "Tombense-MG" NA NA "Santa Cruz-PE" "N" "Não iniciado" NA
-"205" "19-09-2021" "Brasileirão" "Corinthians" NA NA "América-MG" "N" "Não iniciado" NA
-"206" "19-09-2021" "Série C" "Botafogo-PB" NA NA "Jacuipense-BA" "N" "Não iniciado" NA
-"207" "19-09-2021" "Brasileirão" "Flamengo" NA NA "Grêmio" "N" "Não iniciado" NA
-"208" "20-09-2021" "Série D" "Guarany de Sobral" NA NA "Galvez-AC" "N" "Não iniciado" NA
-"209" "20-09-2021" "Italiano" "Udinese" NA NA "Napoli" "N" "Não iniciado" NA
-"210" "20-09-2021" "La Liga" "Barcelona" NA NA "Granada-ESP" "N" "Não iniciado" NA
-"211" "20-09-2021" "Brasileirão" "Cuiabá" NA NA "Fluminense" "N" "Não iniciado" NA
-"212" "21-09-2021" "Italiano" "Bologna" NA NA "Genoa" "N" "Não iniciado" NA
-"213" "21-09-2021" "La Liga" "Getafe" NA NA "Atlético de Madri" "N" "Não iniciado" NA
-"214" "21-09-2021" "Italiano" "Atalanta" NA NA "Sassuolo" "N" "Não iniciado" NA
-"215" "21-09-2021" "Italiano" "Fiorentina" NA NA "Internazionale" "N" "Não iniciado" NA
-"216" "21-09-2021" "Copa da Liga Inglesa" "Brentford" NA NA "Oldham Athletic" "N" "Não iniciado" NA
-"217" "21-09-2021" "Copa da Liga Inglesa" "Burnley" NA NA "Rochdale" "N" "Não iniciado" NA
-"218" "21-09-2021" "Copa da Liga Inglesa" "Fulham" NA NA "Leeds United" "N" "Não iniciado" NA
-"219" "21-09-2021" "Copa da Liga Inglesa" "Manchester City" NA NA "Wycombe" "N" "Não iniciado" NA
-"220" "21-09-2021" "Copa da Liga Inglesa" "Norwich" NA NA "Liverpool" "N" "Não iniciado" NA
-"221" "21-09-2021" "Copa da Liga Inglesa" "Preston North End" NA NA "Cheltenham Town" "N" "Não iniciado" NA
-"222" "21-09-2021" "Copa da Liga Inglesa" "Queens Park Rangers" NA NA "Everton" "N" "Não iniciado" NA
-"223" "21-09-2021" "Copa da Liga Inglesa" "Sheffield United" NA NA "Southampton" "N" "Não iniciado" NA
-"224" "21-09-2021" "Copa da Liga Inglesa" "Watford" NA NA "Stoke City" "N" "Não iniciado" NA
-"225" "21-09-2021" "Copa da Liga Inglesa" "Wigan" NA NA "Sunderland" "N" "Não iniciado" NA
-"226" "21-09-2021" "Série B" "Guarani" NA NA "Remo" "N" "Não iniciado" NA
-"227" "21-09-2021" "La Liga" "Athletic Bilbao" NA NA "Rayo Vallecano" "N" "Não iniciado" NA
-"228" "21-09-2021" "La Liga" "Levante" NA NA "Celta" "N" "Não iniciado" NA
-"229" "21-09-2021" "Série B" "Sampaio Corrêa-MA" NA NA "Brusque" "N" "Não iniciado" NA
-"230" "21-09-2021" "Série B" "Avaí" NA NA "Goiás" "N" "Não iniciado" NA
-"231" "21-09-2021" "Série B" "Brasil de Pelotas" NA NA "CRB" "N" "Não iniciado" NA
-"232" "21-09-2021" "Série B" "Náutico" NA NA "Londrina" "N" "Não iniciado" NA
-"233" "21-09-2021" "Série B" "Vila Nova" NA NA "Confiança" "N" "Não iniciado" NA
-"234" "21-09-2021" "Libertadores" "Palmeiras" NA NA "Atlético-MG" "N" "Não iniciado" NA
-"235" "22-09-2021" "Italiano" "Salernitana" NA NA "Hellas Verona" "N" "Não iniciado" NA
-"236" "22-09-2021" "Italiano" "Spezia" NA NA "Juventus" "N" "Não iniciado" NA
-"237" "22-09-2021" "Francês" "Lille" NA NA "Reims" "N" "Não iniciado" NA
-"238" "22-09-2021" "Francês" "Monaco" NA NA "Saint-Étienne" "N" "Não iniciado" NA
-"239" "22-09-2021" "Francês" "Montpellier" NA NA "Bordeaux" "N" "Não iniciado" NA
-"240" "22-09-2021" "Francês" "Nantes" NA NA "Brest" "N" "Não iniciado" NA
-"241" "22-09-2021" "Francês" "Rennes" NA NA "Clermont Foot" "N" "Não iniciado" NA
-"242" "22-09-2021" "La Liga" "Espanyol" NA NA "Alavés" "N" "Não iniciado" NA
-"243" "22-09-2021" "La Liga" "Sevilla" NA NA "Valencia" "N" "Não iniciado" NA
-"244" "22-09-2021" "Copa da Liga Inglesa" "Brighton" NA NA "Swansea City" "N" "Não iniciado" NA
-"245" "22-09-2021" "Italiano" "Cagliari" NA NA "Empoli" "N" "Não iniciado" NA
-"246" "22-09-2021" "Italiano" "Milan" NA NA "Venezia" "N" "Não iniciado" NA
-"247" "22-09-2021" "Copa da Liga Inglesa" "Arsenal" NA NA "AFC Wimbledon" "N" "Não iniciado" NA
-"248" "22-09-2021" "Copa da Liga Inglesa" "Chelsea" NA NA "Aston Villa" "N" "Não iniciado" NA
-"249" "22-09-2021" "Copa da Liga Inglesa" "Manchester United" NA NA "West Ham" "N" "Não iniciado" NA
-"250" "22-09-2021" "Copa da Liga Inglesa" "Millwall" NA NA "Leicester City" "N" "Não iniciado" NA
-"251" "22-09-2021" "Copa da Liga Inglesa" "Wolverhampton" NA NA "Tottenham" "N" "Não iniciado" NA
-"252" "22-09-2021" "Francês" "Angers" NA NA "Olympique" "N" "Não iniciado" NA
-"253" "22-09-2021" "Francês" "Lens" NA NA "Strasbourg" "N" "Não iniciado" NA
-"254" "22-09-2021" "Francês" "Lorient" NA NA "Nice" "N" "Não iniciado" NA
-"255" "22-09-2021" "Francês" "Lyon" NA NA "Troyes" "N" "Não iniciado" NA
-"256" "22-09-2021" "Francês" "Metz" NA NA "PSG" "N" "Não iniciado" NA
-"257" "22-09-2021" "La Liga" "Real Madrid" NA NA "Mallorca" "N" "Não iniciado" NA
-"258" "22-09-2021" "La Liga" "Villarreal" NA NA "Elche" "N" "Não iniciado" NA
-"259" "22-09-2021" "Série B" "Vitória" NA NA "Coritiba" "N" "Não iniciado" NA
-"260" "22-09-2021" "Copa Sul-Americana" "Red Bull Bragantino" NA NA "Libertad-PAR" "N" "Não iniciado" NA
-"261" "22-09-2021" "Brasileirão" "São Paulo" NA NA "América-MG" "N" "Não iniciado" NA
-"262" "22-09-2021" "Série B" "Operário-PR" NA NA "Ponte Preta" "N" "Não iniciado" NA
-"263" "22-09-2021" "Libertadores" "Flamengo" NA NA "Barcelona-EQU" "N" "Não iniciado" NA
+"11" "10-09-2021" "Francês" "Lorient" 2 1 "Lille" "M" "Encerrado" NA
+"12" "10-09-2021" "Série B" "Vitória" 1 2 "Remo" "V" "Encerrado" NA
+"13" "10-09-2021" "Série B" "Vila Nova" 1 0 "Náutico" "M" "Encerrado" NA
+"14" "11-09-2021" "Inglês" "Crystal Palace" 3 0 "Tottenham" "M" "Encerrado" NA
+"15" "11-09-2021" "Italiano" "Empoli" 1 2 "Venezia" "V" "Encerrado" NA
+"16" "11-09-2021" "Alemão" "Bayer Leverkusen" 3 4 "Borussia Dortmund" "V" "Encerrado" NA
+"17" "11-09-2021" "Alemão" "Union Berlin" 0 0 "Augsburg" "E" "Encerrado" NA
+"18" "11-09-2021" "Alemão" "Freiburg" 1 1 "Colônia" "E" "Encerrado" NA
+"19" "11-09-2021" "Alemão" "Hoffenheim" 0 2 "Mainz 05" "V" "Encerrado" NA
+"110" "11-09-2021" "Alemão" "Greuther Fürth" 0 2 "Wolfsburg" "V" "Encerrado" NA
+"111" "11-09-2021" "Série B" "Cruzeiro" 1 0 "Ponte Preta" "M" "Encerrado" NA
+"112" "11-09-2021" "Série C" "São José-RS" 1 2 "Figueirense" "V" "Encerrado" NA
+"113" "11-09-2021" "Inglês" "Arsenal" 1 0 "Norwich" "M" "Encerrado" NA
+"114" "11-09-2021" "Inglês" "Brentford" 0 1 "Brighton" "V" "Encerrado" NA
+"115" "11-09-2021" "Inglês" "Leicester City" 0 1 "Manchester City" "V" "Encerrado" NA
+"116" "11-09-2021" "Inglês" "Manchester United" 4 1 "Newcastle United" "M" "Encerrado" NA
+"117" "11-09-2021" "Inglês" "Southampton" 0 0 "West Ham" "E" "Encerrado" NA
+"118" "11-09-2021" "Inglês" "Watford" 0 2 "Wolverhampton" "V" "Encerrado" NA
+"119" "11-09-2021" "Francês" "PSG" 4 0 "Clermont Foot" "M" "Encerrado" NA
+"120" "11-09-2021" "Italiano" "Napoli" 2 1 "Juventus" "M" "Encerrado" NA
+"121" "11-09-2021" "La Liga" "Levante" 1 1 "Rayo Vallecano" "E" "Encerrado" NA
+"122" "11-09-2021" "Inglês" "Chelsea" 3 0 "Aston Villa" "M" "Encerrado" NA
+"123" "11-09-2021" "Alemão" "RB Leipzig" 1 4 "Bayern de Munique" "V" "Encerrado" NA
+"124" "11-09-2021" "Série C" "Ituano" 2 1 "Oeste" "M" "Encerrado" NA
+"125" "11-09-2021" "Série D" "América-RN" 1 1 "Itabaiana" "E" "Encerrado" NA
+"126" "11-09-2021" "Série D" "Atlético-CE" 1 1 "Juazeirense-BA" "E" "Encerrado" NA
+"127" "11-09-2021" "Série D" "Bangu" 1 1 "Joinville" "E" "Encerrado" NA
+"128" "11-09-2021" "Italiano" "Atalanta" 1 2 "Fiorentina" "V" "Encerrado" NA
+"129" "11-09-2021" "Brasileirão" "América-MG" 2 0 "Athletico" "M" "Encerrado" NA
+"130" "11-09-2021" "La Liga" "Athletic Bilbao" 2 0 "Mallorca" "M" "Encerrado" NA
+"131" "11-09-2021" "Francês" "Monaco" 0 2 "Olympique" "V" "Encerrado" NA
+"132" "11-09-2021" "Série D" "Caldense-MG" 1 0 "Aparecidense" "M" "Encerrado" NA
+"133" "11-09-2021" "Série D" "União Rondonópolis" 2 0 "Boa Esporte" "M" "Encerrado" NA
+"134" "11-09-2021" "Série D" "Esportivo" 0 1 "Santo André" "V" "Encerrado" NA
+"135" "11-09-2021" "Série B" "Sampaio Corrêa-MA" 0 0 "Operário-PR" "E" "Encerrado" NA
+"136" "11-09-2021" "Série B" "Botafogo" 4 0 "Londrina" "M" "Encerrado" NA
+"137" "11-09-2021" "Brasileirão" "Juventude" 1 2 "Cuiabá" "V" "Encerrado" NA
+"138" "11-09-2021" "Série C" "Santa Cruz-PE" 0 1 "Altos-PI" "V" "Encerrado" NA
+"139" "11-09-2021" "Série C" "Novorizontino" 1 0 "Ypiranga-RS" "M" "Encerrado" NA
+"140" "11-09-2021" "Brasileirão" "Red Bull Bragantino" 1 2 "Chapecoense" "V" "Encerrado" NA
+"141" "11-09-2021" "Série C" "Criciúma" 0 0 "Botafogo-RP" "E" "Encerrado" NA
+"142" "11-09-2021" "Brasileirão" "Santos" 0 0 "Bahia" "E" "Encerrado" NA
+"143" "11-09-2021" "Série B" "CRB" 0 1 "Goiás" "V" "Encerrado" NA
+"144" "11-09-2021" "Série C" "Jacuipense-BA" 1 0 "Volta Redonda" "M" "Encerrado" NA
+"145" "12-09-2021" "Italiano" "Sampdoria" 2 2 "Internazionale" "E" "Encerrado" NA
+"146" "12-09-2021" "Francês" "Montpellier" 2 0 "Saint-Étienne" "M" "Encerrado" NA
+"147" "12-09-2021" "La Liga" "Espanyol" 1 2 "Atlético de Madri" "V" "Encerrado" NA
+"148" "12-09-2021" "Francês" "Bordeaux" 2 3 "Lens" "V" "Encerrado" NA
+"149" "12-09-2021" "Francês" "Brest" 1 1 "Angers" "E" "Encerrado" NA
+"150" "12-09-2021" "Francês" "Metz" 0 2 "Troyes" "V" "Encerrado" NA
+"151" "12-09-2021" "Francês" "Rennes" 0 2 "Reims" "V" "Encerrado" NA
+"152" "12-09-2021" "Italiano" "Cagliari" 2 3 "Genoa" "V" "Encerrado" NA
+"153" "12-09-2021" "Italiano" "Spezia" 0 1 "Udinese" "V" "Encerrado" NA
+"154" "12-09-2021" "Italiano" "Torino" 4 0 "Salernitana" "M" "Encerrado" NA
+"155" "12-09-2021" "Alemão" "Eintracht Frankfurt" 1 1 "Stuttgart" "E" "Encerrado" NA
+"156" "12-09-2021" "Brasileirão" "Grêmio" 2 0 "Ceará" "M" "Encerrado" NA
+"157" "12-09-2021" "Série C" "Tombense-MG" 0 0 "Floresta-CE" "E" "Encerrado" NA
+"158" "12-09-2021" "La Liga" "Osasuna" 1 4 "Valencia" "V" "Encerrado" NA
+"159" "12-09-2021" "Francês" "Nantes" 0 2 "Nice" "V" "Encerrado" NA
+"160" "12-09-2021" "Inglês" "Leeds United" 0 3 "Liverpool" "V" "Encerrado" NA
+"161" "12-09-2021" "Alemão" "Bochum" 1 3 "Hertha" "V" "Encerrado" NA
+"162" "12-09-2021" "Italiano" "Milan" 2 0 "Lazio" "M" "Encerrado" NA
+"163" "12-09-2021" "La Liga" "Cádiz" 0 2 "Real Sociedad" "V" "Encerrado" NA
+"164" "12-09-2021" "Alemão" "Borussia M'gladbach" 3 1 "Arminia Bielefeld" "M" "Encerrado" NA
+"165" "12-09-2021" "Série D" "Caxias" 1 0 "Portuguesa" "M" "Encerrado" NA
+"166" "12-09-2021" "Série D" "Brasiliense" 0 0 "Ferroviária" "E" "Encerrado" NA
+"167" "12-09-2021" "Série D" "Moto Club" 2 0 "Castanhal" "M" "Encerrado" NA
+"168" "12-09-2021" "Francês" "Lyon" 3 1 "Strasbourg" "M" "Encerrado" NA
+"169" "12-09-2021" "Italiano" "Roma" 2 1 "Sassuolo" "M" "Encerrado" NA
+"170" "12-09-2021" "Brasileirão" "Palmeiras" 1 3 "Flamengo" "V" "Encerrado" NA
+"171" "12-09-2021" "Brasileirão" "Fortaleza" 0 2 "Atlético-MG" "V" "Encerrado" NA
+"172" "12-09-2021" "Série C" "Manaus" 0 0 "Botafogo-PB" "E" "Encerrado" NA
+"173" "12-09-2021" "La Liga" "Real Madrid" 5 2 "Celta" "M" "Encerrado" NA
+"174" "12-09-2021" "Série D" "Penarol-AM" 1 0 "4 de Julho-PI" "M" "Encerrado" NA
+"175" "12-09-2021" "Série D" "Retrô" 1 1 "ABC" "E" "Encerrado" NA
+"176" "12-09-2021" "Série D" "Sergipe" 2 2 "Campinense" "E" "Encerrado" NA
+"177" "12-09-2021" "Série D" "Paragominas" 1 0 "São Raimundo-RR" "M" "Encerrado" NA
+"178" "12-09-2021" "Série D" "Cianorte" 0 0 "FC Cascavel" "E" "Encerrado" NA
+"179" "12-09-2021" "Série D" "Uberlândia" 1 1 "Nova Mutum" "E" "Encerrado" NA
+"180" "12-09-2021" "Série C" "Paraná Clube" 0 1 "Mirassol" "V" "Encerrado" NA
+"181" "12-09-2021" "Brasileirão" "Atlético-GO" 1 1 "Corinthians" "E" "Encerrado" NA
+"182" "12-09-2021" "Brasileirão" "Fluminense" 2 1 "São Paulo" "M" "Encerrado" NA
+"183" "12-09-2021" "Brasileirão Feminino A1" "Palmeiras" 0 1 "Corinthians" "V" "Encerrado" NA
+"184" "13-09-2021" "Série C" "Ferroviário" 5 1 "Paysandu" "M" "Encerrado" NA
+"185" "13-09-2021" "La Liga" "Getafe" 0 1 "Elche" "V" "Encerrado" NA
+"186" "13-09-2021" "Italiano" "Bologna" 1 0 "Hellas Verona" "M" "Encerrado" NA
+"187" "13-09-2021" "Inglês" "Everton" 3 1 "Burnley" "M" "Encerrado" NA
+"188" "13-09-2021" "La Liga" "Granada-ESP" 1 2 "Betis" "V" "Encerrado" NA
+"189" "13-09-2021" "Série D" "Galvez-AC" 0 0 "Guarany de Sobral" "E" "Encerrado" NA
+"190" "13-09-2021" "Brasileirão" "Sport" 0 1 "Internacional" "V" "Encerrado" NA
+"191" "14-09-2021" "Liga dos Campeões" "Young Boys" 2 1 "Manchester United" "M" "Encerrado" NA
+"192" "14-09-2021" "Liga dos Campeões" "Sevilla" 1 1 "Red Bull Salzburg" "E" "Encerrado" NA
+"193" "14-09-2021" "Liga dos Campeões" "Dynamo Kiev" 0 0 "Benfica" "E" "Encerrado" NA
+"194" "14-09-2021" "Liga dos Campeões" "Barcelona" 0 3 "Bayern de Munique" "V" "Encerrado" NA
+"195" "14-09-2021" "Liga dos Campeões" "Lille" 0 0 "Wolfsburg" "E" "Encerrado" NA
+"196" "14-09-2021" "Liga dos Campeões" "Malmö FF" 0 3 "Juventus" "V" "Encerrado" NA
+"197" "14-09-2021" "Liga dos Campeões" "Chelsea" 1 0 "Zenit" "M" "Encerrado" NA
+"198" "14-09-2021" "Liga dos Campeões" "Villarreal" 2 2 "Atalanta" "E" "Encerrado" NA
+"199" "14-09-2021" "Copa do Brasil" "Santos" 0 1 "Athletico" "V" "Encerrado" NA
+"1100" "15-09-2021" "Liga dos Campeões" "Besiktas" 1 2 "Borussia Dortmund" "V" "Encerrado" NA
+"1101" "15-09-2021" "Liga dos Campeões" "Sheriff" 2 0 "Shakhtar Donetsk" "M" "Encerrado" NA
+"1102" "15-09-2021" "Liga dos Campeões" "Club Brugge" 1 1 "PSG" "E" "Encerrado" NA
+"1103" "15-09-2021" "Liga dos Campeões" "Manchester City" 6 3 "RB Leipzig" "M" "Encerrado" NA
+"1104" "15-09-2021" "Liga dos Campeões" "Atlético de Madri" 0 0 "Porto" "E" "Encerrado" NA
+"1105" "15-09-2021" "Liga dos Campeões" "Liverpool" 3 2 "Milan" "M" "Encerrado" NA
+"1106" "15-09-2021" "Liga dos Campeões" "Sporting" 1 5 "Ajax" "V" "Encerrado" NA
+"1107" "15-09-2021" "Liga dos Campeões" "Internazionale" 0 1 "Real Madrid" "V" "Encerrado" NA
+"1108" "15-09-2021" "Copa do Brasil" "Atlético-MG" 1 0 "Fluminense" "M" "Encerrado" NA
+"1109" "15-09-2021" "Copa do Brasil" "Flamengo" 2 0 "Grêmio" "M" "Encerrado" NA
+"1110" "15-09-2021" "Copa do Brasil" "Fortaleza" 3 1 "São Paulo" "M" "Encerrado" NA
+"1111" "16-09-2021" "Série B" "CRB" NA NA "Vasco" "N" "Não iniciado" NA
+"1112" "16-09-2021" "Série B" "Cruzeiro" NA NA "Operário-PR" "N" "Não iniciado" NA
+"1113" "16-09-2021" "Série B" "Remo" NA NA "Avaí" "N" "Não iniciado" NA
+"1114" "17-09-2021" "Alemão" "Hertha" NA NA "Greuther Fürth" "N" "Não iniciado" NA
+"1115" "17-09-2021" "Italiano" "Sassuolo" NA NA "Torino" "N" "Não iniciado" NA
+"1116" "17-09-2021" "Série B" "Brusque" NA NA "Vitória" "N" "Não iniciado" NA
+"1117" "17-09-2021" "La Liga" "Celta" NA NA "Cádiz" "N" "Não iniciado" NA
+"1118" "17-09-2021" "Inglês" "Newcastle United" NA NA "Leeds United" "N" "Não iniciado" NA
+"1119" "17-09-2021" "Francês" "Strasbourg" NA NA "Metz" "N" "Não iniciado" NA
+"1120" "17-09-2021" "Série D" "Aparecidense" NA NA "Caldense-MG" "N" "Não iniciado" NA
+"1121" "17-09-2021" "Série B" "Coritiba" NA NA "Vila Nova" "N" "Não iniciado" NA
+"1122" "17-09-2021" "Série B" "Confiança" NA NA "Sampaio Corrêa-MA" "N" "Não iniciado" NA
+"1123" "17-09-2021" "Série B" "Ponte Preta" NA NA "Guarani" "N" "Não iniciado" NA
+"1124" "18-09-2021" "Inglês" "Wolverhampton" NA NA "Brentford" "N" "Não iniciado" NA
+"1125" "18-09-2021" "La Liga" "Rayo Vallecano" NA NA "Getafe" "N" "Não iniciado" NA
+"1126" "18-09-2021" "Italiano" "Genoa" NA NA "Fiorentina" "N" "Não iniciado" NA
+"1127" "18-09-2021" "Alemão" "Bayern de Munique" NA NA "Bochum" "N" "Não iniciado" NA
+"1128" "18-09-2021" "Alemão" "Mainz 05" NA NA "Freiburg" "N" "Não iniciado" NA
+"1129" "18-09-2021" "Alemão" "Augsburg" NA NA "Borussia M'gladbach" "N" "Não iniciado" NA
+"1130" "18-09-2021" "Alemão" "Arminia Bielefeld" NA NA "Hoffenheim" "N" "Não iniciado" NA
+"1131" "18-09-2021" "Série C" "Oeste" NA NA "São José-RS" "N" "Não iniciado" NA
+"1132" "18-09-2021" "Inglês" "Burnley" NA NA "Arsenal" "N" "Não iniciado" NA
+"1133" "18-09-2021" "Inglês" "Liverpool" NA NA "Crystal Palace" "N" "Não iniciado" NA
+"1134" "18-09-2021" "Inglês" "Manchester City" NA NA "Southampton" "N" "Não iniciado" NA
+"1135" "18-09-2021" "Inglês" "Norwich" NA NA "Watford" "N" "Não iniciado" NA
+"1136" "18-09-2021" "La Liga" "Atlético de Madri" NA NA "Athletic Bilbao" "N" "Não iniciado" NA
+"1137" "18-09-2021" "Francês" "Lens" NA NA "Lille" "N" "Não iniciado" NA
+"1138" "18-09-2021" "Italiano" "Internazionale" NA NA "Bologna" "N" "Não iniciado" NA
+"1139" "18-09-2021" "La Liga" "Elche" NA NA "Levante" "N" "Não iniciado" NA
+"1140" "18-09-2021" "Inglês" "Aston Villa" NA NA "Everton" "N" "Não iniciado" NA
+"1141" "18-09-2021" "Alemão" "Colônia" NA NA "RB Leipzig" "N" "Não iniciado" NA
+"1142" "18-09-2021" "Série C" "Floresta-CE" NA NA "Volta Redonda" "N" "Não iniciado" NA
+"1143" "18-09-2021" "Série D" "Campinense" NA NA "Sergipe" "N" "Não iniciado" NA
+"1144" "18-09-2021" "Série D" "Santo André" NA NA "Esportivo" "N" "Não iniciado" NA
+"1145" "18-09-2021" "Série D" "Joinville" NA NA "Bangu" "N" "Não iniciado" NA
+"1146" "18-09-2021" "Italiano" "Salernitana" NA NA "Atalanta" "N" "Não iniciado" NA
+"1147" "18-09-2021" "La Liga" "Alavés" NA NA "Osasuna" "N" "Não iniciado" NA
+"1148" "18-09-2021" "Francês" "Saint-Étienne" NA NA "Bordeaux" "N" "Não iniciado" NA
+"1149" "18-09-2021" "Série D" "4 de Julho-PI" NA NA "Penarol-AM" "N" "Não iniciado" NA
+"1150" "18-09-2021" "Série D" "Juazeirense-BA" NA NA "Atlético-CE" "N" "Não iniciado" NA
+"1151" "18-09-2021" "Série D" "FC Cascavel" NA NA "Cianorte" "N" "Não iniciado" NA
+"1152" "18-09-2021" "Série D" "Portuguesa" NA NA "Caxias" "N" "Não iniciado" NA
+"1153" "18-09-2021" "Série B" "Londrina" NA NA "CSA" "N" "Não iniciado" NA
+"1154" "18-09-2021" "Série B" "Botafogo" NA NA "Náutico" "N" "Não iniciado" NA
+"1155" "18-09-2021" "Brasileirão" "Chapecoense" NA NA "Palmeiras" "N" "Não iniciado" NA
+"1156" "18-09-2021" "Série C" "Altos-PI" NA NA "Paysandu" "N" "Não iniciado" NA
+"1157" "18-09-2021" "Série C" "Criciúma" NA NA "Mirassol" "N" "Não iniciado" NA
+"1158" "18-09-2021" "Série D" "Boa Esporte" NA NA "União Rondonópolis" "N" "Não iniciado" NA
+"1159" "18-09-2021" "Série D" "Ferroviária" NA NA "Brasiliense" "N" "Não iniciado" NA
+"1160" "18-09-2021" "Brasileirão" "Athletico" NA NA "Juventude" "N" "Não iniciado" NA
+"1161" "18-09-2021" "Brasileirão" "Atlético-MG" NA NA "Sport" "N" "Não iniciado" NA
+"1162" "18-09-2021" "Série B" "Goiás" NA NA "Brasil de Pelotas" "N" "Não iniciado" NA
+"1163" "18-09-2021" "Série C" "Novorizontino" NA NA "Paraná Clube" "N" "Não iniciado" NA
+"1164" "18-09-2021" "Brasileirão" "Ceará" NA NA "Santos" "N" "Não iniciado" NA
+"1165" "18-09-2021" "Brasileirão" "Bahia" NA NA "Red Bull Bragantino" "N" "Não iniciado" NA
+"1166" "18-09-2021" "Série C" "Botafogo-RP" NA NA "Figueirense" "N" "Não iniciado" NA
+"1167" "19-09-2021" "Italiano" "Empoli" NA NA "Sampdoria" "N" "Não iniciado" NA
+"1168" "19-09-2021" "Francês" "Nice" NA NA "Monaco" "N" "Não iniciado" NA
+"1169" "19-09-2021" "La Liga" "Mallorca" NA NA "Villarreal" "N" "Não iniciado" NA
+"1170" "19-09-2021" "Inglês" "Brighton" NA NA "Leicester City" "N" "Não iniciado" NA
+"1171" "19-09-2021" "Inglês" "West Ham" NA NA "Manchester United" "N" "Não iniciado" NA
+"1172" "19-09-2021" "Francês" "Angers" NA NA "Nantes" "N" "Não iniciado" NA
+"1173" "19-09-2021" "Francês" "Clermont Foot" NA NA "Brest" "N" "Não iniciado" NA
+"1174" "19-09-2021" "Francês" "Reims" NA NA "Lorient" "N" "Não iniciado" NA
+"1175" "19-09-2021" "Francês" "Troyes" NA NA "Montpellier" "N" "Não iniciado" NA
+"1176" "19-09-2021" "Italiano" "Venezia" NA NA "Spezia" "N" "Não iniciado" NA
+"1177" "19-09-2021" "Alemão" "Stuttgart" NA NA "Bayer Leverkusen" "N" "Não iniciado" NA
+"1178" "19-09-2021" "Brasileirão" "Internacional" NA NA "Fortaleza" "N" "Não iniciado" NA
+"1179" "19-09-2021" "Série C" "Ypiranga-RS" NA NA "Ituano" "N" "Não iniciado" NA
+"1180" "19-09-2021" "La Liga" "Real Sociedad" NA NA "Sevilla" "N" "Não iniciado" NA
+"1181" "19-09-2021" "Francês" "Olympique" NA NA "Rennes" "N" "Não iniciado" NA
+"1182" "19-09-2021" "Inglês" "Tottenham" NA NA "Chelsea" "N" "Não iniciado" NA
+"1183" "19-09-2021" "Alemão" "Borussia Dortmund" NA NA "Union Berlin" "N" "Não iniciado" NA
+"1184" "19-09-2021" "Italiano" "Hellas Verona" NA NA "Roma" "N" "Não iniciado" NA
+"1185" "19-09-2021" "Italiano" "Lazio" NA NA "Cagliari" "N" "Não iniciado" NA
+"1186" "19-09-2021" "La Liga" "Betis" NA NA "Espanyol" "N" "Não iniciado" NA
+"1187" "19-09-2021" "Alemão" "Wolfsburg" NA NA "Eintracht Frankfurt" "N" "Não iniciado" NA
+"1188" "19-09-2021" "Série D" "Castanhal" NA NA "Moto Club" "N" "Não iniciado" NA
+"1189" "19-09-2021" "Francês" "PSG" NA NA "Lyon" "N" "Não iniciado" NA
+"1190" "19-09-2021" "Italiano" "Juventus" NA NA "Milan" "N" "Não iniciado" NA
+"1191" "19-09-2021" "Brasileirão" "São Paulo" NA NA "Atlético-GO" "N" "Não iniciado" NA
+"1192" "19-09-2021" "Série B" "Vasco" NA NA "Cruzeiro" "N" "Não iniciado" NA
+"1193" "19-09-2021" "Série C" "Manaus" NA NA "Ferroviário" "N" "Não iniciado" NA
+"1194" "19-09-2021" "La Liga" "Valencia" NA NA "Real Madrid" "N" "Não iniciado" NA
+"1195" "19-09-2021" "Série D" "Itabaiana" NA NA "América-RN" "N" "Não iniciado" NA
+"1196" "19-09-2021" "Série D" "ABC" NA NA "Retrô" "N" "Não iniciado" NA
+"1197" "19-09-2021" "Série D" "Nova Mutum" NA NA "Uberlândia" "N" "Não iniciado" NA
+"1198" "19-09-2021" "Série D" "São Raimundo-RR" NA NA "Paragominas" "N" "Não iniciado" NA
+"1199" "19-09-2021" "Série C" "Tombense-MG" NA NA "Santa Cruz-PE" "N" "Não iniciado" NA
+"1200" "19-09-2021" "Brasileirão" "Corinthians" NA NA "América-MG" "N" "Não iniciado" NA
+"1201" "19-09-2021" "Série C" "Botafogo-PB" NA NA "Jacuipense-BA" "N" "Não iniciado" NA
+"1202" "19-09-2021" "Brasileirão" "Flamengo" NA NA "Grêmio" "N" "Não iniciado" NA
+"1203" "20-09-2021" "Série D" "Guarany de Sobral" NA NA "Galvez-AC" "N" "Não iniciado" NA
+"1204" "20-09-2021" "Italiano" "Udinese" NA NA "Napoli" "N" "Não iniciado" NA
+"1205" "20-09-2021" "La Liga" "Barcelona" NA NA "Granada-ESP" "N" "Não iniciado" NA
+"1206" "20-09-2021" "Brasileirão" "Cuiabá" NA NA "Fluminense" "N" "Não iniciado" NA
+"1207" "21-09-2021" "Italiano" "Bologna" NA NA "Genoa" "N" "Não iniciado" NA
+"1208" "21-09-2021" "La Liga" "Getafe" NA NA "Atlético de Madri" "N" "Não iniciado" NA
+"1209" "21-09-2021" "Italiano" "Atalanta" NA NA "Sassuolo" "N" "Não iniciado" NA
+"1210" "21-09-2021" "Italiano" "Fiorentina" NA NA "Internazionale" "N" "Não iniciado" NA
+"1211" "21-09-2021" "Copa da Liga Inglesa" "Brentford" NA NA "Oldham Athletic" "N" "Não iniciado" NA
+"1212" "21-09-2021" "Copa da Liga Inglesa" "Burnley" NA NA "Rochdale" "N" "Não iniciado" NA
+"1213" "21-09-2021" "Copa da Liga Inglesa" "Fulham" NA NA "Leeds United" "N" "Não iniciado" NA
+"1214" "21-09-2021" "Copa da Liga Inglesa" "Manchester City" NA NA "Wycombe" "N" "Não iniciado" NA
+"1215" "21-09-2021" "Copa da Liga Inglesa" "Norwich" NA NA "Liverpool" "N" "Não iniciado" NA
+"1216" "21-09-2021" "Copa da Liga Inglesa" "Preston North End" NA NA "Cheltenham Town" "N" "Não iniciado" NA
+"1217" "21-09-2021" "Copa da Liga Inglesa" "Queens Park Rangers" NA NA "Everton" "N" "Não iniciado" NA
+"1218" "21-09-2021" "Copa da Liga Inglesa" "Sheffield United" NA NA "Southampton" "N" "Não iniciado" NA
+"1219" "21-09-2021" "Copa da Liga Inglesa" "Watford" NA NA "Stoke City" "N" "Não iniciado" NA
+"1220" "21-09-2021" "Copa da Liga Inglesa" "Wigan" NA NA "Sunderland" "N" "Não iniciado" NA
+"1221" "21-09-2021" "Série B" "Guarani" NA NA "Remo" "N" "Não iniciado" NA
+"1222" "21-09-2021" "La Liga" "Athletic Bilbao" NA NA "Rayo Vallecano" "N" "Não iniciado" NA
+"1223" "21-09-2021" "La Liga" "Levante" NA NA "Celta" "N" "Não iniciado" NA
+"1224" "21-09-2021" "Série B" "Sampaio Corrêa-MA" NA NA "Brusque" "N" "Não iniciado" NA
+"1225" "21-09-2021" "Série B" "Avaí" NA NA "Goiás" "N" "Não iniciado" NA
+"1226" "21-09-2021" "Série B" "Brasil de Pelotas" NA NA "CRB" "N" "Não iniciado" NA
+"1227" "21-09-2021" "Série B" "Náutico" NA NA "Londrina" "N" "Não iniciado" NA
+"1228" "21-09-2021" "Série B" "Vila Nova" NA NA "Confiança" "N" "Não iniciado" NA
+"1229" "21-09-2021" "Libertadores" "Palmeiras" NA NA "Atlético-MG" "N" "Não iniciado" NA
+"1230" "22-09-2021" "Italiano" "Salernitana" NA NA "Hellas Verona" "N" "Não iniciado" NA
+"1231" "22-09-2021" "Italiano" "Spezia" NA NA "Juventus" "N" "Não iniciado" NA
+"1232" "22-09-2021" "Francês" "Lille" NA NA "Reims" "N" "Não iniciado" NA
+"1233" "22-09-2021" "Francês" "Monaco" NA NA "Saint-Étienne" "N" "Não iniciado" NA
+"1234" "22-09-2021" "Francês" "Montpellier" NA NA "Bordeaux" "N" "Não iniciado" NA
+"1235" "22-09-2021" "Francês" "Nantes" NA NA "Brest" "N" "Não iniciado" NA
+"1236" "22-09-2021" "Francês" "Rennes" NA NA "Clermont Foot" "N" "Não iniciado" NA
+"1237" "22-09-2021" "La Liga" "Espanyol" NA NA "Alavés" "N" "Não iniciado" NA
+"1238" "22-09-2021" "La Liga" "Sevilla" NA NA "Valencia" "N" "Não iniciado" NA
+"1239" "22-09-2021" "Copa da Liga Inglesa" "Brighton" NA NA "Swansea City" "N" "Não iniciado" NA
+"1240" "22-09-2021" "Italiano" "Cagliari" NA NA "Empoli" "N" "Não iniciado" NA
+"1241" "22-09-2021" "Italiano" "Milan" NA NA "Venezia" "N" "Não iniciado" NA
+"1242" "22-09-2021" "Copa da Liga Inglesa" "Arsenal" NA NA "AFC Wimbledon" "N" "Não iniciado" NA
+"1243" "22-09-2021" "Copa da Liga Inglesa" "Chelsea" NA NA "Aston Villa" "N" "Não iniciado" NA
+"1244" "22-09-2021" "Copa da Liga Inglesa" "Manchester United" NA NA "West Ham" "N" "Não iniciado" NA
+"1245" "22-09-2021" "Copa da Liga Inglesa" "Millwall" NA NA "Leicester City" "N" "Não iniciado" NA
+"1246" "22-09-2021" "Copa da Liga Inglesa" "Wolverhampton" NA NA "Tottenham" "N" "Não iniciado" NA
+"1247" "22-09-2021" "Francês" "Angers" NA NA "Olympique" "N" "Não iniciado" NA
+"1248" "22-09-2021" "Francês" "Lens" NA NA "Strasbourg" "N" "Não iniciado" NA
+"1249" "22-09-2021" "Francês" "Lorient" NA NA "Nice" "N" "Não iniciado" NA
+"1250" "22-09-2021" "Francês" "Lyon" NA NA "Troyes" "N" "Não iniciado" NA
+"1251" "22-09-2021" "Francês" "Metz" NA NA "PSG" "N" "Não iniciado" NA
+"1252" "22-09-2021" "La Liga" "Real Madrid" NA NA "Mallorca" "N" "Não iniciado" NA
+"1253" "22-09-2021" "La Liga" "Villarreal" NA NA "Elche" "N" "Não iniciado" NA
+"1254" "22-09-2021" "Série B" "Vitória" NA NA "Coritiba" "N" "Não iniciado" NA
+"1255" "22-09-2021" "Copa Sul-Americana" "Red Bull Bragantino" NA NA "Libertad-PAR" "N" "Não iniciado" NA
+"1256" "22-09-2021" "Brasileirão" "São Paulo" NA NA "América-MG" "N" "Não iniciado" NA
+"1257" "22-09-2021" "Série B" "Operário-PR" NA NA "Ponte Preta" "N" "Não iniciado" NA
+"1258" "22-09-2021" "Libertadores" "Flamengo" NA NA "Barcelona-EQU" "N" "Não iniciado" NA
+"1259" "23-09-2021" "Italiano" "Sampdoria" NA NA "Napoli" "N" "Não iniciado" NA
+"1260" "23-09-2021" "Italiano" "Torino" NA NA "Lazio" "N" "Não iniciado" NA
+"1261" "23-09-2021" "La Liga" "Granada-ESP" NA NA "Real Sociedad" "N" "Não iniciado" NA
+"1262" "23-09-2021" "La Liga" "Osasuna" NA NA "Betis" "N" "Não iniciado" NA
+"1263" "23-09-2021" "Italiano" "Roma" NA NA "Udinese" "N" "Não iniciado" NA
+"1264" "23-09-2021" "La Liga" "Cádiz" NA NA "Barcelona" "N" "Não iniciado" NA
+"1265" "23-09-2021" "Série B" "CSA" NA NA "Botafogo" "N" "Não iniciado" NA
+"1266" "23-09-2021" "Copa Sul-Americana" "Peñarol" NA NA "Athletico" "N" "Não iniciado" NA
