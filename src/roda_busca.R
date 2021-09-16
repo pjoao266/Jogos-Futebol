@@ -18,7 +18,6 @@ roda_busca = function(){
   jogos = pega_bases(page)
   write.table(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
   
-  saveRDS(Sys.time(),'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\hora_atualizacao.RDS')
   dir = 'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol'
   repo <- repository(discover_repository(dir))
   git2r::config(repo = repo,
