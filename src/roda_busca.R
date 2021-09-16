@@ -34,3 +34,4 @@ roda_busca = function(){
   fim = Sys.time()
   fim-ini
 }
+roda_busca()
