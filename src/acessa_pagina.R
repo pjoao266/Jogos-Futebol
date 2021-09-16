@@ -1,6 +1,7 @@
 acessa_pagina = function(link){
   rd = rsDriver(browser = 'chrome',port=1235L,
-                chromever = '93.0.4577.63')
+                chromever = '93.0.4577.63',
+                extraCapabilities = list("chromeOptions" = list(args = list('--headless'))))
   cliente = rd$client
   servidor = rd$server
   cliente$navigate(link)
