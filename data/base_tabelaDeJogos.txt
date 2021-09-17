@@ -117,7 +117,7 @@
 "116" "17-09-2021" "Francês" "Strasbourg" 3 0 "Metz" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/strasbourg.png" "https://e.imguol.com/futebol/brasoes/40x40/metz.png"
 "117" "17-09-2021" "Série D" "Aparecidense" 3 1 "Caldense-MG" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/aparecidense.png" "https://e.imguol.com/futebol/brasoes/40x40/caldense-mg.png"
 "118" "17-09-2021" "Amistosos" "Brasil" 3 1 "Argentina (F)" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/brasil.png" "https://e.imguol.com/futebol/brasoes/40x40/argentina-f.png"
-"119" "17-09-2021" "Série B" "Coritiba" 1 0 "Vila Nova" "M" "Ao Vivo" "Encerrado" "https://e.imguol.com/futebol/brasoes/40x40/coritiba.png" "https://e.imguol.com/futebol/brasoes/40x40/vila-nova.png"
+"119" "17-09-2021" "Série B" "Coritiba" 1 0 "Vila Nova" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coritiba.png" "https://e.imguol.com/futebol/brasoes/40x40/vila-nova.png"
 "120" "17-09-2021" "Série B" "Confiança" 0 0 "Sampaio Corrêa-MA" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/confianca.png" "https://e.imguol.com/futebol/brasoes/40x40/sampaio-correa-ma.png"
 "121" "17-09-2021" "Série B" "Ponte Preta" NA NA "Guarani" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/ponte-preta.png" "https://e.imguol.com/futebol/brasoes/40x40/guarani.png"
 "122" "18-09-2021" "Inglês" "Wolverhampton" NA NA "Brentford" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/wolverhampton.png" "https://e.imguol.com/futebol/brasoes/40x40/brentford.png"
