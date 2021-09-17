@@ -112,7 +112,7 @@
 "111" "17-09-2021" "Alemão" "Hertha" 0 0 "Greuther Fürth" "E" "Ao Vivo" "Pré-Jogo" "https://e.imguol.com/futebol/brasoes/40x40/hertha.png" "https://e.imguol.com/futebol/brasoes/40x40/greuther-furth.png"
 "112" "17-09-2021" "Italiano" "Sassuolo" 0 0 "Torino" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/sassuolo.png" "https://e.imguol.com/futebol/brasoes/40x40/torino.png"
 "113" "17-09-2021" "Série B" "Brusque" NA NA "Vitória" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/brusque.png" "https://e.imguol.com/futebol/brasoes/40x40/vitoria.png"
-"114" "17-09-2021" "La Liga" "Celta" NA NA "Cádiz" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/celta.png" "https://e.imguol.com/futebol/brasoes/40x40/cadiz.png"
+"114" "17-09-2021" "La Liga" "Celta" 0 0 "Cádiz" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/celta.png" "https://e.imguol.com/futebol/brasoes/40x40/cadiz.png"
 "115" "17-09-2021" "Inglês" "Newcastle United" NA NA "Leeds United" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/newcastle-united.png" "https://e.imguol.com/futebol/brasoes/40x40/leeds-united.png"
 "116" "17-09-2021" "Francês" "Strasbourg" NA NA "Metz" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/strasbourg.png" "https://e.imguol.com/futebol/brasoes/40x40/metz.png"
 "117" "17-09-2021" "Série D" "Aparecidense" NA NA "Caldense-MG" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/aparecidense.png" "https://e.imguol.com/futebol/brasoes/40x40/caldense-mg.png"
