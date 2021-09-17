@@ -6,7 +6,6 @@ pega_bases = function(page){
   
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt',header = T) %>% 
     filter(!(Dia %in% datas_dias))
-  
   for (indicedia in 1:length(dias_com_jogo)) {
     dia = dias_com_jogo[indicedia]
     data = dia %>% 
@@ -24,8 +23,10 @@ pega_bases = function(page){
         str_trim()
       
       images = jogo %>% 
-        html_nodes('.loaded') %>% 
+        html_nodes('.team-brasao') %>% 
+        html_nodes('img') %>% 
         html_attr('src')
+      images
       
       infos_partida = (info_jogo[1] %>% 
                          str_split(' - '))[[1]]%>% 

@@ -4,108 +4,108 @@
 "3" "11-09-2021" "Alemão" "Bayer Leverkusen" 3 4 "Borussia Dortmund" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/bayer-leverkusen.png" "https://e.imguol.com/futebol/brasoes/40x40/borussia-dortmund.png"
 "4" "11-09-2021" "Alemão" "Union Berlin" 0 0 "Augsburg" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/union-berlin.png" "https://e.imguol.com/futebol/brasoes/40x40/augsburg.png"
 "5" "11-09-2021" "Alemão" "Freiburg" 1 1 "Colônia" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/freiburg.png" "https://e.imguol.com/futebol/brasoes/40x40/colonia.png"
-"6" "11-09-2021" "Alemão" "Hoffenheim" 0 2 "Mainz 05" "V" "Encerrado" NA NA NA
-"7" "11-09-2021" "Alemão" "Greuther Fürth" 0 2 "Wolfsburg" "V" "Encerrado" NA NA NA
-"8" "11-09-2021" "Série B" "Cruzeiro" 1 0 "Ponte Preta" "M" "Encerrado" NA NA NA
-"9" "11-09-2021" "Série C" "São José-RS" 1 2 "Figueirense" "V" "Encerrado" NA NA NA
-"10" "11-09-2021" "Inglês" "Arsenal" 1 0 "Norwich" "M" "Encerrado" NA NA NA
-"11" "11-09-2021" "Inglês" "Brentford" 0 1 "Brighton" "V" "Encerrado" NA NA NA
-"12" "11-09-2021" "Inglês" "Leicester City" 0 1 "Manchester City" "V" "Encerrado" NA NA NA
-"13" "11-09-2021" "Inglês" "Manchester United" 4 1 "Newcastle United" "M" "Encerrado" NA NA NA
-"14" "11-09-2021" "Inglês" "Southampton" 0 0 "West Ham" "E" "Encerrado" NA NA NA
-"15" "11-09-2021" "Inglês" "Watford" 0 2 "Wolverhampton" "V" "Encerrado" NA NA NA
-"16" "11-09-2021" "Francês" "PSG" 4 0 "Clermont Foot" "M" "Encerrado" NA NA NA
-"17" "11-09-2021" "Italiano" "Napoli" 2 1 "Juventus" "M" "Encerrado" NA NA NA
-"18" "11-09-2021" "La Liga" "Levante" 1 1 "Rayo Vallecano" "E" "Encerrado" NA NA NA
-"19" "11-09-2021" "Inglês" "Chelsea" 3 0 "Aston Villa" "M" "Encerrado" NA NA NA
-"20" "11-09-2021" "Alemão" "RB Leipzig" 1 4 "Bayern de Munique" "V" "Encerrado" NA NA NA
-"21" "11-09-2021" "Série C" "Ituano" 2 1 "Oeste" "M" "Encerrado" NA NA NA
-"22" "11-09-2021" "Série D" "América-RN" 1 1 "Itabaiana" "E" "Encerrado" NA NA NA
-"23" "11-09-2021" "Série D" "Atlético-CE" 1 1 "Juazeirense-BA" "E" "Encerrado" NA NA NA
-"24" "11-09-2021" "Série D" "Bangu" 1 1 "Joinville" "E" "Encerrado" NA NA NA
-"25" "11-09-2021" "Italiano" "Atalanta" 1 2 "Fiorentina" "V" "Encerrado" NA NA NA
-"26" "11-09-2021" "Brasileirão" "América-MG" 2 0 "Athletico" "M" "Encerrado" NA NA NA
-"27" "11-09-2021" "La Liga" "Athletic Bilbao" 2 0 "Mallorca" "M" "Encerrado" NA NA NA
-"28" "11-09-2021" "Francês" "Monaco" 0 2 "Olympique" "V" "Encerrado" NA NA NA
-"29" "11-09-2021" "Série D" "Caldense-MG" 1 0 "Aparecidense" "M" "Encerrado" NA NA NA
-"30" "11-09-2021" "Série D" "União Rondonópolis" 2 0 "Boa Esporte" "M" "Encerrado" NA NA NA
-"31" "11-09-2021" "Série D" "Esportivo" 0 1 "Santo André" "V" "Encerrado" NA NA NA
-"32" "11-09-2021" "Série B" "Sampaio Corrêa-MA" 0 0 "Operário-PR" "E" "Encerrado" NA NA NA
-"33" "11-09-2021" "Série B" "Botafogo" 4 0 "Londrina" "M" "Encerrado" NA NA NA
-"34" "11-09-2021" "Brasileirão" "Juventude" 1 2 "Cuiabá" "V" "Encerrado" NA NA NA
-"35" "11-09-2021" "Série C" "Santa Cruz-PE" 0 1 "Altos-PI" "V" "Encerrado" NA NA NA
-"36" "11-09-2021" "Série C" "Novorizontino" 1 0 "Ypiranga-RS" "M" "Encerrado" NA NA NA
-"37" "11-09-2021" "Brasileirão" "Red Bull Bragantino" 1 2 "Chapecoense" "V" "Encerrado" NA NA NA
-"38" "11-09-2021" "Série C" "Criciúma" 0 0 "Botafogo-RP" "E" "Encerrado" NA NA NA
-"39" "11-09-2021" "Brasileirão" "Santos" 0 0 "Bahia" "E" "Encerrado" NA NA NA
-"40" "11-09-2021" "Série B" "CRB" 0 1 "Goiás" "V" "Encerrado" NA NA NA
-"41" "11-09-2021" "Série C" "Jacuipense-BA" 1 0 "Volta Redonda" "M" "Encerrado" NA NA NA
+"6" "11-09-2021" "Alemão" "Hoffenheim" 0 2 "Mainz 05" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"7" "11-09-2021" "Alemão" "Greuther Fürth" 0 2 "Wolfsburg" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"8" "11-09-2021" "Série B" "Cruzeiro" 1 0 "Ponte Preta" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"9" "11-09-2021" "Série C" "São José-RS" 1 2 "Figueirense" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"10" "11-09-2021" "Inglês" "Arsenal" 1 0 "Norwich" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"11" "11-09-2021" "Inglês" "Brentford" 0 1 "Brighton" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"12" "11-09-2021" "Inglês" "Leicester City" 0 1 "Manchester City" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"13" "11-09-2021" "Inglês" "Manchester United" 4 1 "Newcastle United" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"14" "11-09-2021" "Inglês" "Southampton" 0 0 "West Ham" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"15" "11-09-2021" "Inglês" "Watford" 0 2 "Wolverhampton" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"16" "11-09-2021" "Francês" "PSG" 4 0 "Clermont Foot" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"17" "11-09-2021" "Italiano" "Napoli" 2 1 "Juventus" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"18" "11-09-2021" "La Liga" "Levante" 1 1 "Rayo Vallecano" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"19" "11-09-2021" "Inglês" "Chelsea" 3 0 "Aston Villa" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"20" "11-09-2021" "Alemão" "RB Leipzig" 1 4 "Bayern de Munique" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"21" "11-09-2021" "Série C" "Ituano" 2 1 "Oeste" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"22" "11-09-2021" "Série D" "América-RN" 1 1 "Itabaiana" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"23" "11-09-2021" "Série D" "Atlético-CE" 1 1 "Juazeirense-BA" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"24" "11-09-2021" "Série D" "Bangu" 1 1 "Joinville" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"25" "11-09-2021" "Italiano" "Atalanta" 1 2 "Fiorentina" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"26" "11-09-2021" "Brasileirão" "América-MG" 2 0 "Athletico" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"27" "11-09-2021" "La Liga" "Athletic Bilbao" 2 0 "Mallorca" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"28" "11-09-2021" "Francês" "Monaco" 0 2 "Olympique" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"29" "11-09-2021" "Série D" "Caldense-MG" 1 0 "Aparecidense" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"30" "11-09-2021" "Série D" "União Rondonópolis" 2 0 "Boa Esporte" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"31" "11-09-2021" "Série D" "Esportivo" 0 1 "Santo André" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"32" "11-09-2021" "Série B" "Sampaio Corrêa-MA" 0 0 "Operário-PR" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"33" "11-09-2021" "Série B" "Botafogo" 4 0 "Londrina" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"34" "11-09-2021" "Brasileirão" "Juventude" 1 2 "Cuiabá" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"35" "11-09-2021" "Série C" "Santa Cruz-PE" 0 1 "Altos-PI" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"36" "11-09-2021" "Série C" "Novorizontino" 1 0 "Ypiranga-RS" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"37" "11-09-2021" "Brasileirão" "Red Bull Bragantino" 1 2 "Chapecoense" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"38" "11-09-2021" "Série C" "Criciúma" 0 0 "Botafogo-RP" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"39" "11-09-2021" "Brasileirão" "Santos" 0 0 "Bahia" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"40" "11-09-2021" "Série B" "CRB" 0 1 "Goiás" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"41" "11-09-2021" "Série C" "Jacuipense-BA" 1 0 "Volta Redonda" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "42" "12-09-2021" "Italiano" "Sampdoria" 2 2 "Internazionale" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/sampdoria.png" "https://e.imguol.com/futebol/brasoes/40x40/internazionale.png"
 "43" "12-09-2021" "Francês" "Montpellier" 2 0 "Saint-Étienne" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/montpellier.png" "https://e.imguol.com/futebol/brasoes/40x40/saint-etienne.png"
 "44" "12-09-2021" "La Liga" "Espanyol" 1 2 "Atlético de Madri" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/espanyol.png" "https://e.imguol.com/futebol/brasoes/40x40/atletico-de-madri.png"
 "45" "12-09-2021" "Francês" "Bordeaux" 2 3 "Lens" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/bordeaux.png" "https://e.imguol.com/futebol/brasoes/40x40/lens.png"
 "46" "12-09-2021" "Francês" "Brest" 1 1 "Angers" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/brest.png" "https://e.imguol.com/futebol/brasoes/40x40/angers.png"
-"47" "12-09-2021" "Francês" "Metz" 0 2 "Troyes" "V" "Encerrado" NA NA NA
-"48" "12-09-2021" "Francês" "Rennes" 0 2 "Reims" "V" "Encerrado" NA NA NA
-"49" "12-09-2021" "Italiano" "Cagliari" 2 3 "Genoa" "V" "Encerrado" NA NA NA
-"50" "12-09-2021" "Italiano" "Spezia" 0 1 "Udinese" "V" "Encerrado" NA NA NA
-"51" "12-09-2021" "Italiano" "Torino" 4 0 "Salernitana" "M" "Encerrado" NA NA NA
-"52" "12-09-2021" "Alemão" "Eintracht Frankfurt" 1 1 "Stuttgart" "E" "Encerrado" NA NA NA
-"53" "12-09-2021" "Brasileirão" "Grêmio" 2 0 "Ceará" "M" "Encerrado" NA NA NA
-"54" "12-09-2021" "Série C" "Tombense-MG" 0 0 "Floresta-CE" "E" "Encerrado" NA NA NA
-"55" "12-09-2021" "La Liga" "Osasuna" 1 4 "Valencia" "V" "Encerrado" NA NA NA
-"56" "12-09-2021" "Francês" "Nantes" 0 2 "Nice" "V" "Encerrado" NA NA NA
-"57" "12-09-2021" "Inglês" "Leeds United" 0 3 "Liverpool" "V" "Encerrado" NA NA NA
-"58" "12-09-2021" "Alemão" "Bochum" 1 3 "Hertha" "V" "Encerrado" NA NA NA
-"59" "12-09-2021" "Italiano" "Milan" 2 0 "Lazio" "M" "Encerrado" NA NA NA
-"60" "12-09-2021" "La Liga" "Cádiz" 0 2 "Real Sociedad" "V" "Encerrado" NA NA NA
-"61" "12-09-2021" "Alemão" "Borussia M'gladbach" 3 1 "Arminia Bielefeld" "M" "Encerrado" NA NA NA
-"62" "12-09-2021" "Série D" "Caxias" 1 0 "Portuguesa" "M" "Encerrado" NA NA NA
-"63" "12-09-2021" "Série D" "Brasiliense" 0 0 "Ferroviária" "E" "Encerrado" NA NA NA
-"64" "12-09-2021" "Série D" "Moto Club" 2 0 "Castanhal" "M" "Encerrado" NA NA NA
-"65" "12-09-2021" "Francês" "Lyon" 3 1 "Strasbourg" "M" "Encerrado" NA NA NA
-"66" "12-09-2021" "Italiano" "Roma" 2 1 "Sassuolo" "M" "Encerrado" NA NA NA
-"67" "12-09-2021" "Brasileirão" "Palmeiras" 1 3 "Flamengo" "V" "Encerrado" NA NA NA
-"68" "12-09-2021" "Brasileirão" "Fortaleza" 0 2 "Atlético-MG" "V" "Encerrado" NA NA NA
-"69" "12-09-2021" "Série C" "Manaus" 0 0 "Botafogo-PB" "E" "Encerrado" NA NA NA
-"70" "12-09-2021" "La Liga" "Real Madrid" 5 2 "Celta" "M" "Encerrado" NA NA NA
-"71" "12-09-2021" "Série D" "Penarol-AM" 1 0 "4 de Julho-PI" "M" "Encerrado" NA NA NA
-"72" "12-09-2021" "Série D" "Retrô" 1 1 "ABC" "E" "Encerrado" NA NA NA
-"73" "12-09-2021" "Série D" "Sergipe" 2 2 "Campinense" "E" "Encerrado" NA NA NA
-"74" "12-09-2021" "Série D" "Paragominas" 1 0 "São Raimundo-RR" "M" "Encerrado" NA NA NA
-"75" "12-09-2021" "Série D" "Cianorte" 0 0 "FC Cascavel" "E" "Encerrado" NA NA NA
-"76" "12-09-2021" "Série D" "Uberlândia" 1 1 "Nova Mutum" "E" "Encerrado" NA NA NA
-"77" "12-09-2021" "Série C" "Paraná Clube" 0 1 "Mirassol" "V" "Encerrado" NA NA NA
-"78" "12-09-2021" "Brasileirão" "Atlético-GO" 1 1 "Corinthians" "E" "Encerrado" NA NA NA
-"79" "12-09-2021" "Brasileirão" "Fluminense" 2 1 "São Paulo" "M" "Encerrado" NA NA NA
-"80" "12-09-2021" "Brasileirão Feminino A1" "Palmeiras" 0 1 "Corinthians" "V" "Encerrado" NA NA NA
+"47" "12-09-2021" "Francês" "Metz" 0 2 "Troyes" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"48" "12-09-2021" "Francês" "Rennes" 0 2 "Reims" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"49" "12-09-2021" "Italiano" "Cagliari" 2 3 "Genoa" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"50" "12-09-2021" "Italiano" "Spezia" 0 1 "Udinese" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"51" "12-09-2021" "Italiano" "Torino" 4 0 "Salernitana" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"52" "12-09-2021" "Alemão" "Eintracht Frankfurt" 1 1 "Stuttgart" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"53" "12-09-2021" "Brasileirão" "Grêmio" 2 0 "Ceará" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"54" "12-09-2021" "Série C" "Tombense-MG" 0 0 "Floresta-CE" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"55" "12-09-2021" "La Liga" "Osasuna" 1 4 "Valencia" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"56" "12-09-2021" "Francês" "Nantes" 0 2 "Nice" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"57" "12-09-2021" "Inglês" "Leeds United" 0 3 "Liverpool" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"58" "12-09-2021" "Alemão" "Bochum" 1 3 "Hertha" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"59" "12-09-2021" "Italiano" "Milan" 2 0 "Lazio" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"60" "12-09-2021" "La Liga" "Cádiz" 0 2 "Real Sociedad" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"61" "12-09-2021" "Alemão" "Borussia M'gladbach" 3 1 "Arminia Bielefeld" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"62" "12-09-2021" "Série D" "Caxias" 1 0 "Portuguesa" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"63" "12-09-2021" "Série D" "Brasiliense" 0 0 "Ferroviária" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"64" "12-09-2021" "Série D" "Moto Club" 2 0 "Castanhal" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"65" "12-09-2021" "Francês" "Lyon" 3 1 "Strasbourg" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"66" "12-09-2021" "Italiano" "Roma" 2 1 "Sassuolo" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"67" "12-09-2021" "Brasileirão" "Palmeiras" 1 3 "Flamengo" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"68" "12-09-2021" "Brasileirão" "Fortaleza" 0 2 "Atlético-MG" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"69" "12-09-2021" "Série C" "Manaus" 0 0 "Botafogo-PB" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"70" "12-09-2021" "La Liga" "Real Madrid" 5 2 "Celta" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"71" "12-09-2021" "Série D" "Penarol-AM" 1 0 "4 de Julho-PI" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"72" "12-09-2021" "Série D" "Retrô" 1 1 "ABC" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"73" "12-09-2021" "Série D" "Sergipe" 2 2 "Campinense" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"74" "12-09-2021" "Série D" "Paragominas" 1 0 "São Raimundo-RR" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"75" "12-09-2021" "Série D" "Cianorte" 0 0 "FC Cascavel" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"76" "12-09-2021" "Série D" "Uberlândia" 1 1 "Nova Mutum" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"77" "12-09-2021" "Série C" "Paraná Clube" 0 1 "Mirassol" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"78" "12-09-2021" "Brasileirão" "Atlético-GO" 1 1 "Corinthians" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"79" "12-09-2021" "Brasileirão" "Fluminense" 2 1 "São Paulo" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"80" "12-09-2021" "Brasileirão Feminino A1" "Palmeiras" 0 1 "Corinthians" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "81" "13-09-2021" "Série C" "Ferroviário" 5 1 "Paysandu" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/ferroviario.png" "https://e.imguol.com/futebol/brasoes/40x40/paysandu-.png"
 "82" "13-09-2021" "La Liga" "Getafe" 0 1 "Elche" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/getafe.png" "https://e.imguol.com/futebol/brasoes/40x40/elche.png"
 "83" "13-09-2021" "Italiano" "Bologna" 1 0 "Hellas Verona" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/bologna.png" "https://e.imguol.com/futebol/brasoes/40x40/hellas-verona.png"
 "84" "13-09-2021" "Inglês" "Everton" 3 1 "Burnley" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/everton.png" "https://e.imguol.com/futebol/brasoes/40x40/burnley.png"
 "85" "13-09-2021" "La Liga" "Granada-ESP" 1 2 "Betis" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/granada-esp.png" "https://e.imguol.com/futebol/brasoes/40x40/betis.png"
-"86" "13-09-2021" "Série D" "Galvez-AC" 0 0 "Guarany de Sobral" "E" "Encerrado" NA NA NA
-"87" "13-09-2021" "Brasileirão" "Sport" 0 1 "Internacional" "V" "Encerrado" NA NA NA
+"86" "13-09-2021" "Série D" "Galvez-AC" 0 0 "Guarany de Sobral" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"87" "13-09-2021" "Brasileirão" "Sport" 0 1 "Internacional" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "88" "14-09-2021" "Liga dos Campeões" "Young Boys" 2 1 "Manchester United" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/young-boys.png" "https://e.imguol.com/futebol/brasoes/40x40/manchester-united.png"
 "89" "14-09-2021" "Liga dos Campeões" "Sevilla" 1 1 "Red Bull Salzburg" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/sevilla.png" "https://e.imguol.com/futebol/brasoes/40x40/red-bull-salzburg.png"
 "90" "14-09-2021" "Liga dos Campeões" "Dynamo Kiev" 0 0 "Benfica" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/dynamo-kiev.png" "https://e.imguol.com/futebol/brasoes/40x40/benfica.png"
 "91" "14-09-2021" "Liga dos Campeões" "Barcelona" 0 3 "Bayern de Munique" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/barcelona.png" "https://e.imguol.com/futebol/brasoes/40x40/bayern-de-munique.png"
 "92" "14-09-2021" "Liga dos Campeões" "Lille" 0 0 "Wolfsburg" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/lille.png" "https://e.imguol.com/futebol/brasoes/40x40/wolfsburg.png"
-"93" "14-09-2021" "Liga dos Campeões" "Malmö FF" 0 3 "Juventus" "V" "Encerrado" NA NA NA
-"94" "14-09-2021" "Liga dos Campeões" "Chelsea" 1 0 "Zenit" "M" "Encerrado" NA NA NA
-"95" "14-09-2021" "Liga dos Campeões" "Villarreal" 2 2 "Atalanta" "E" "Encerrado" NA NA NA
-"96" "14-09-2021" "Copa do Brasil" "Santos" 0 1 "Athletico" "V" "Encerrado" NA NA NA
+"93" "14-09-2021" "Liga dos Campeões" "Malmö FF" 0 3 "Juventus" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"94" "14-09-2021" "Liga dos Campeões" "Chelsea" 1 0 "Zenit" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"95" "14-09-2021" "Liga dos Campeões" "Villarreal" 2 2 "Atalanta" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"96" "14-09-2021" "Copa do Brasil" "Santos" 0 1 "Athletico" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "97" "15-09-2021" "Liga dos Campeões" "Besiktas" 1 2 "Borussia Dortmund" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/besiktas.png" "https://e.imguol.com/futebol/brasoes/40x40/borussia-dortmund.png"
 "98" "15-09-2021" "Liga dos Campeões" "Sheriff" 2 0 "Shakhtar Donetsk" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/sheriff.png" "https://e.imguol.com/futebol/brasoes/40x40/shakhtar-donetsk.png"
 "99" "15-09-2021" "Liga dos Campeões" "Club Brugge" 1 1 "PSG" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/club-brugge.png" "https://e.imguol.com/futebol/brasoes/40x40/psg.png"
 "100" "15-09-2021" "Liga dos Campeões" "Manchester City" 6 3 "RB Leipzig" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/manchester-city.png" "https://e.imguol.com/futebol/brasoes/40x40/rb-leipzig-.png"
 "101" "15-09-2021" "Liga dos Campeões" "Atlético de Madri" 0 0 "Porto" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/atletico-de-madri.png" "https://e.imguol.com/futebol/brasoes/40x40/porto.png"
-"102" "15-09-2021" "Liga dos Campeões" "Liverpool" 3 2 "Milan" "M" "Encerrado" NA NA NA
-"103" "15-09-2021" "Liga dos Campeões" "Sporting" 1 5 "Ajax" "V" "Encerrado" NA NA NA
-"104" "15-09-2021" "Liga dos Campeões" "Internazionale" 0 1 "Real Madrid" "V" "Encerrado" NA NA NA
-"105" "15-09-2021" "Copa do Brasil" "Atlético-MG" 1 0 "Fluminense" "M" "Encerrado" NA NA NA
-"106" "15-09-2021" "Copa do Brasil" "Flamengo" 2 0 "Grêmio" "M" "Encerrado" NA NA NA
-"107" "15-09-2021" "Copa do Brasil" "Fortaleza" 3 1 "São Paulo" "M" "Encerrado" NA NA NA
+"102" "15-09-2021" "Liga dos Campeões" "Liverpool" 3 2 "Milan" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"103" "15-09-2021" "Liga dos Campeões" "Sporting" 1 5 "Ajax" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"104" "15-09-2021" "Liga dos Campeões" "Internazionale" 0 1 "Real Madrid" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"105" "15-09-2021" "Copa do Brasil" "Atlético-MG" 1 0 "Fluminense" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"106" "15-09-2021" "Copa do Brasil" "Flamengo" 2 0 "Grêmio" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"107" "15-09-2021" "Copa do Brasil" "Fortaleza" 3 1 "São Paulo" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "108" "16-09-2021" "Série B" "CRB" 1 1 "Vasco" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/crb.png" "https://e.imguol.com/futebol/brasoes/40x40/vasco.png"
 "109" "16-09-2021" "Série B" "Cruzeiro" 1 1 "Operário-PR" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/cruzeiro.png" "https://e.imguol.com/futebol/brasoes/40x40/operario-pr.png"
 "110" "16-09-2021" "Série B" "Remo" 2 1 "Avaí" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/remo-.png" "https://e.imguol.com/futebol/brasoes/40x40/avai-.png"
@@ -114,91 +114,91 @@
 "113" "17-09-2021" "Série B" "Brusque" NA NA "Vitória" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/brusque-.png" "https://e.imguol.com/futebol/brasoes/40x40/vitoria.png"
 "114" "17-09-2021" "La Liga" "Celta" NA NA "Cádiz" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/celta.png" "https://e.imguol.com/futebol/brasoes/40x40/cadiz.png"
 "115" "17-09-2021" "Inglês" "Newcastle United" NA NA "Leeds United" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/newcastle-united.png" "https://e.imguol.com/futebol/brasoes/40x40/leeds-united.png"
-"116" "17-09-2021" "Francês" "Strasbourg" NA NA "Metz" "N" "Não iniciado" NA NA NA
-"117" "17-09-2021" "Série D" "Aparecidense" NA NA "Caldense-MG" "N" "Não iniciado" NA NA NA
-"118" "17-09-2021" "Amistosos" "Brasil" NA NA "Argentina (F)" "N" "Não iniciado" NA NA NA
-"119" "17-09-2021" "Série B" "Coritiba" NA NA "Vila Nova" "N" "Não iniciado" NA NA NA
-"120" "17-09-2021" "Série B" "Confiança" NA NA "Sampaio Corrêa-MA" "N" "Não iniciado" NA NA NA
-"121" "17-09-2021" "Série B" "Ponte Preta" NA NA "Guarani" "N" "Não iniciado" NA NA NA
+"116" "17-09-2021" "Francês" "Strasbourg" NA NA "Metz" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"117" "17-09-2021" "Série D" "Aparecidense" NA NA "Caldense-MG" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"118" "17-09-2021" "Amistosos" "Brasil" NA NA "Argentina (F)" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"119" "17-09-2021" "Série B" "Coritiba" NA NA "Vila Nova" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"120" "17-09-2021" "Série B" "Confiança" NA NA "Sampaio Corrêa-MA" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"121" "17-09-2021" "Série B" "Ponte Preta" NA NA "Guarani" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "122" "18-09-2021" "Inglês" "Wolverhampton" NA NA "Brentford" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/wolverhampton.png" "https://e.imguol.com/futebol/brasoes/40x40/brentford-.png"
 "123" "18-09-2021" "La Liga" "Rayo Vallecano" NA NA "Getafe" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/rayo-vallecano.png" "https://e.imguol.com/futebol/brasoes/40x40/getafe.png"
 "124" "18-09-2021" "Italiano" "Genoa" NA NA "Fiorentina" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/genoa.png" "https://e.imguol.com/futebol/brasoes/40x40/fiorentina.png"
 "125" "18-09-2021" "Alemão" "Bayern de Munique" NA NA "Bochum" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/bayern-de-munique.png" "https://e.imguol.com/futebol/brasoes/40x40/bochum.png"
 "126" "18-09-2021" "Alemão" "Mainz 05" NA NA "Freiburg" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/mainz-05.png" "https://e.imguol.com/futebol/brasoes/40x40/freiburg.png"
-"127" "18-09-2021" "Alemão" "Augsburg" NA NA "Borussia M'gladbach" "N" "Não iniciado" NA NA NA
-"128" "18-09-2021" "Alemão" "Arminia Bielefeld" NA NA "Hoffenheim" "N" "Não iniciado" NA NA NA
-"129" "18-09-2021" "Série C" "Oeste" NA NA "São José-RS" "N" "Não iniciado" NA NA NA
-"130" "18-09-2021" "Inglês" "Burnley" NA NA "Arsenal" "N" "Não iniciado" NA NA NA
-"131" "18-09-2021" "Inglês" "Liverpool" NA NA "Crystal Palace" "N" "Não iniciado" NA NA NA
-"132" "18-09-2021" "Inglês" "Manchester City" NA NA "Southampton" "N" "Não iniciado" NA NA NA
-"133" "18-09-2021" "Inglês" "Norwich" NA NA "Watford" "N" "Não iniciado" NA NA NA
-"134" "18-09-2021" "La Liga" "Atlético de Madri" NA NA "Athletic Bilbao" "N" "Não iniciado" NA NA NA
-"135" "18-09-2021" "Francês" "Lens" NA NA "Lille" "N" "Não iniciado" NA NA NA
-"136" "18-09-2021" "Italiano" "Internazionale" NA NA "Bologna" "N" "Não iniciado" NA NA NA
-"137" "18-09-2021" "La Liga" "Elche" NA NA "Levante" "N" "Não iniciado" NA NA NA
-"138" "18-09-2021" "Inglês" "Aston Villa" NA NA "Everton" "N" "Não iniciado" NA NA NA
-"139" "18-09-2021" "Alemão" "Colônia" NA NA "RB Leipzig" "N" "Não iniciado" NA NA NA
-"140" "18-09-2021" "Série C" "Floresta-CE" NA NA "Volta Redonda" "N" "Não iniciado" NA NA NA
-"141" "18-09-2021" "Série D" "Campinense" NA NA "Sergipe" "N" "Não iniciado" NA NA NA
-"142" "18-09-2021" "Série D" "Santo André" NA NA "Esportivo" "N" "Não iniciado" NA NA NA
-"143" "18-09-2021" "Série D" "Joinville" NA NA "Bangu" "N" "Não iniciado" NA NA NA
-"144" "18-09-2021" "Italiano" "Salernitana" NA NA "Atalanta" "N" "Não iniciado" NA NA NA
-"145" "18-09-2021" "La Liga" "Alavés" NA NA "Osasuna" "N" "Não iniciado" NA NA NA
-"146" "18-09-2021" "Francês" "Saint-Étienne" NA NA "Bordeaux" "N" "Não iniciado" NA NA NA
-"147" "18-09-2021" "Série D" "4 de Julho-PI" NA NA "Penarol-AM" "N" "Não iniciado" NA NA NA
-"148" "18-09-2021" "Série D" "Juazeirense-BA" NA NA "Atlético-CE" "N" "Não iniciado" NA NA NA
-"149" "18-09-2021" "Série D" "FC Cascavel" NA NA "Cianorte" "N" "Não iniciado" NA NA NA
-"150" "18-09-2021" "Série D" "Portuguesa" NA NA "Caxias" "N" "Não iniciado" NA NA NA
-"151" "18-09-2021" "Série B" "Londrina" NA NA "CSA" "N" "Não iniciado" NA NA NA
-"152" "18-09-2021" "Série B" "Botafogo" NA NA "Náutico" "N" "Não iniciado" NA NA NA
-"153" "18-09-2021" "Brasileirão" "Chapecoense" NA NA "Palmeiras" "N" "Não iniciado" NA NA NA
-"154" "18-09-2021" "Série C" "Altos-PI" NA NA "Paysandu" "N" "Não iniciado" NA NA NA
-"155" "18-09-2021" "Série C" "Criciúma" NA NA "Mirassol" "N" "Não iniciado" NA NA NA
-"156" "18-09-2021" "Série C" "Botafogo-RP" NA NA "Figueirense" "N" "Não iniciado" NA NA NA
-"157" "18-09-2021" "Série D" "Boa Esporte" NA NA "União Rondonópolis" "N" "Não iniciado" NA NA NA
-"158" "18-09-2021" "Série D" "Ferroviária" NA NA "Brasiliense" "N" "Não iniciado" NA NA NA
-"159" "18-09-2021" "Brasileirão" "Athletico" NA NA "Juventude" "N" "Não iniciado" NA NA NA
-"160" "18-09-2021" "Brasileirão" "Atlético-MG" NA NA "Sport" "N" "Não iniciado" NA NA NA
-"161" "18-09-2021" "Série B" "Goiás" NA NA "Brasil de Pelotas" "N" "Não iniciado" NA NA NA
-"162" "18-09-2021" "Série C" "Novorizontino" NA NA "Paraná Clube" "N" "Não iniciado" NA NA NA
-"163" "18-09-2021" "Brasileirão" "Ceará" NA NA "Santos" "N" "Não iniciado" NA NA NA
-"164" "18-09-2021" "Brasileirão" "Bahia" NA NA "Red Bull Bragantino" "N" "Não iniciado" NA NA NA
+"127" "18-09-2021" "Alemão" "Augsburg" NA NA "Borussia M'gladbach" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"128" "18-09-2021" "Alemão" "Arminia Bielefeld" NA NA "Hoffenheim" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"129" "18-09-2021" "Série C" "Oeste" NA NA "São José-RS" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"130" "18-09-2021" "Inglês" "Burnley" NA NA "Arsenal" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"131" "18-09-2021" "Inglês" "Liverpool" NA NA "Crystal Palace" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"132" "18-09-2021" "Inglês" "Manchester City" NA NA "Southampton" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"133" "18-09-2021" "Inglês" "Norwich" NA NA "Watford" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"134" "18-09-2021" "La Liga" "Atlético de Madri" NA NA "Athletic Bilbao" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"135" "18-09-2021" "Francês" "Lens" NA NA "Lille" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"136" "18-09-2021" "Italiano" "Internazionale" NA NA "Bologna" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"137" "18-09-2021" "La Liga" "Elche" NA NA "Levante" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"138" "18-09-2021" "Inglês" "Aston Villa" NA NA "Everton" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"139" "18-09-2021" "Alemão" "Colônia" NA NA "RB Leipzig" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"140" "18-09-2021" "Série C" "Floresta-CE" NA NA "Volta Redonda" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"141" "18-09-2021" "Série D" "Campinense" NA NA "Sergipe" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"142" "18-09-2021" "Série D" "Santo André" NA NA "Esportivo" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"143" "18-09-2021" "Série D" "Joinville" NA NA "Bangu" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"144" "18-09-2021" "Italiano" "Salernitana" NA NA "Atalanta" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"145" "18-09-2021" "La Liga" "Alavés" NA NA "Osasuna" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"146" "18-09-2021" "Francês" "Saint-Étienne" NA NA "Bordeaux" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"147" "18-09-2021" "Série D" "4 de Julho-PI" NA NA "Penarol-AM" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"148" "18-09-2021" "Série D" "Juazeirense-BA" NA NA "Atlético-CE" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"149" "18-09-2021" "Série D" "FC Cascavel" NA NA "Cianorte" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"150" "18-09-2021" "Série D" "Portuguesa" NA NA "Caxias" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"151" "18-09-2021" "Série B" "Londrina" NA NA "CSA" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"152" "18-09-2021" "Série B" "Botafogo" NA NA "Náutico" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"153" "18-09-2021" "Brasileirão" "Chapecoense" NA NA "Palmeiras" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"154" "18-09-2021" "Série C" "Altos-PI" NA NA "Paysandu" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"155" "18-09-2021" "Série C" "Criciúma" NA NA "Mirassol" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"156" "18-09-2021" "Série C" "Botafogo-RP" NA NA "Figueirense" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"157" "18-09-2021" "Série D" "Boa Esporte" NA NA "União Rondonópolis" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"158" "18-09-2021" "Série D" "Ferroviária" NA NA "Brasiliense" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"159" "18-09-2021" "Brasileirão" "Athletico" NA NA "Juventude" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"160" "18-09-2021" "Brasileirão" "Atlético-MG" NA NA "Sport" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"161" "18-09-2021" "Série B" "Goiás" NA NA "Brasil de Pelotas" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"162" "18-09-2021" "Série C" "Novorizontino" NA NA "Paraná Clube" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"163" "18-09-2021" "Brasileirão" "Ceará" NA NA "Santos" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"164" "18-09-2021" "Brasileirão" "Bahia" NA NA "Red Bull Bragantino" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "165" "19-09-2021" "Italiano" "Empoli" NA NA "Sampdoria" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/empoli.png" "https://e.imguol.com/futebol/brasoes/40x40/sampdoria.png"
 "166" "19-09-2021" "Francês" "Nice" NA NA "Monaco" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/nice.png" "https://e.imguol.com/futebol/brasoes/40x40/monaco.png"
 "167" "19-09-2021" "La Liga" "Mallorca" NA NA "Villarreal" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/mallorca.png" "https://e.imguol.com/futebol/brasoes/40x40/villarreal.png"
 "168" "19-09-2021" "Inglês" "Brighton" NA NA "Leicester City" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/brighton.png" "https://e.imguol.com/futebol/brasoes/40x40/leicester-city.png"
 "169" "19-09-2021" "Inglês" "West Ham" NA NA "Manchester United" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/west-ham-.png" "https://e.imguol.com/futebol/brasoes/40x40/manchester-united.png"
-"170" "19-09-2021" "Francês" "Angers" NA NA "Nantes" "N" "Não iniciado" NA NA NA
-"171" "19-09-2021" "Francês" "Clermont Foot" NA NA "Brest" "N" "Não iniciado" NA NA NA
-"172" "19-09-2021" "Francês" "Reims" NA NA "Lorient" "N" "Não iniciado" NA NA NA
-"173" "19-09-2021" "Francês" "Troyes" NA NA "Montpellier" "N" "Não iniciado" NA NA NA
-"174" "19-09-2021" "Italiano" "Venezia" NA NA "Spezia" "N" "Não iniciado" NA NA NA
-"175" "19-09-2021" "Alemão" "Stuttgart" NA NA "Bayer Leverkusen" "N" "Não iniciado" NA NA NA
-"176" "19-09-2021" "Brasileirão" "Internacional" NA NA "Fortaleza" "N" "Não iniciado" NA NA NA
-"177" "19-09-2021" "Série C" "Ypiranga-RS" NA NA "Ituano" "N" "Não iniciado" NA NA NA
-"178" "19-09-2021" "La Liga" "Real Sociedad" NA NA "Sevilla" "N" "Não iniciado" NA NA NA
-"179" "19-09-2021" "Francês" "Olympique" NA NA "Rennes" "N" "Não iniciado" NA NA NA
-"180" "19-09-2021" "Inglês" "Tottenham" NA NA "Chelsea" "N" "Não iniciado" NA NA NA
-"181" "19-09-2021" "Alemão" "Borussia Dortmund" NA NA "Union Berlin" "N" "Não iniciado" NA NA NA
-"182" "19-09-2021" "Italiano" "Hellas Verona" NA NA "Roma" "N" "Não iniciado" NA NA NA
-"183" "19-09-2021" "Italiano" "Lazio" NA NA "Cagliari" "N" "Não iniciado" NA NA NA
-"184" "19-09-2021" "La Liga" "Betis" NA NA "Espanyol" "N" "Não iniciado" NA NA NA
-"185" "19-09-2021" "Alemão" "Wolfsburg" NA NA "Eintracht Frankfurt" "N" "Não iniciado" NA NA NA
-"186" "19-09-2021" "Série D" "Castanhal" NA NA "Moto Club" "N" "Não iniciado" NA NA NA
-"187" "19-09-2021" "Francês" "PSG" NA NA "Lyon" "N" "Não iniciado" NA NA NA
-"188" "19-09-2021" "Italiano" "Juventus" NA NA "Milan" "N" "Não iniciado" NA NA NA
-"189" "19-09-2021" "Brasileirão" "São Paulo" NA NA "Atlético-GO" "N" "Não iniciado" NA NA NA
-"190" "19-09-2021" "Série B" "Vasco" NA NA "Cruzeiro" "N" "Não iniciado" NA NA NA
-"191" "19-09-2021" "Série C" "Manaus" NA NA "Ferroviário" "N" "Não iniciado" NA NA NA
-"192" "19-09-2021" "La Liga" "Valencia" NA NA "Real Madrid" "N" "Não iniciado" NA NA NA
-"193" "19-09-2021" "Série D" "Itabaiana" NA NA "América-RN" "N" "Não iniciado" NA NA NA
-"194" "19-09-2021" "Série D" "ABC" NA NA "Retrô" "N" "Não iniciado" NA NA NA
-"195" "19-09-2021" "Série D" "Nova Mutum" NA NA "Uberlândia" "N" "Não iniciado" NA NA NA
-"196" "19-09-2021" "Série D" "São Raimundo-RR" NA NA "Paragominas" "N" "Não iniciado" NA NA NA
-"197" "19-09-2021" "Série C" "Tombense-MG" NA NA "Santa Cruz-PE" "N" "Não iniciado" NA NA NA
-"198" "19-09-2021" "Brasileirão" "Corinthians" NA NA "América-MG" "N" "Não iniciado" NA NA NA
-"199" "19-09-2021" "Série C" "Botafogo-PB" NA NA "Jacuipense-BA" "N" "Não iniciado" NA NA NA
-"200" "19-09-2021" "Brasileirão" "Flamengo" NA NA "Grêmio" "N" "Não iniciado" NA NA NA
+"170" "19-09-2021" "Francês" "Angers" NA NA "Nantes" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"171" "19-09-2021" "Francês" "Clermont Foot" NA NA "Brest" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"172" "19-09-2021" "Francês" "Reims" NA NA "Lorient" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"173" "19-09-2021" "Francês" "Troyes" NA NA "Montpellier" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"174" "19-09-2021" "Italiano" "Venezia" NA NA "Spezia" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"175" "19-09-2021" "Alemão" "Stuttgart" NA NA "Bayer Leverkusen" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"176" "19-09-2021" "Brasileirão" "Internacional" NA NA "Fortaleza" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"177" "19-09-2021" "Série C" "Ypiranga-RS" NA NA "Ituano" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"178" "19-09-2021" "La Liga" "Real Sociedad" NA NA "Sevilla" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"179" "19-09-2021" "Francês" "Olympique" NA NA "Rennes" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"180" "19-09-2021" "Inglês" "Tottenham" NA NA "Chelsea" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"181" "19-09-2021" "Alemão" "Borussia Dortmund" NA NA "Union Berlin" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"182" "19-09-2021" "Italiano" "Hellas Verona" NA NA "Roma" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"183" "19-09-2021" "Italiano" "Lazio" NA NA "Cagliari" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"184" "19-09-2021" "La Liga" "Betis" NA NA "Espanyol" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"185" "19-09-2021" "Alemão" "Wolfsburg" NA NA "Eintracht Frankfurt" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"186" "19-09-2021" "Série D" "Castanhal" NA NA "Moto Club" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"187" "19-09-2021" "Francês" "PSG" NA NA "Lyon" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"188" "19-09-2021" "Italiano" "Juventus" NA NA "Milan" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"189" "19-09-2021" "Brasileirão" "São Paulo" NA NA "Atlético-GO" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"190" "19-09-2021" "Série B" "Vasco" NA NA "Cruzeiro" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"191" "19-09-2021" "Série C" "Manaus" NA NA "Ferroviário" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"192" "19-09-2021" "La Liga" "Valencia" NA NA "Real Madrid" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"193" "19-09-2021" "Série D" "Itabaiana" NA NA "América-RN" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"194" "19-09-2021" "Série D" "ABC" NA NA "Retrô" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"195" "19-09-2021" "Série D" "Nova Mutum" NA NA "Uberlândia" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"196" "19-09-2021" "Série D" "São Raimundo-RR" NA NA "Paragominas" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"197" "19-09-2021" "Série C" "Tombense-MG" NA NA "Santa Cruz-PE" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"198" "19-09-2021" "Brasileirão" "Corinthians" NA NA "América-MG" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"199" "19-09-2021" "Série C" "Botafogo-PB" NA NA "Jacuipense-BA" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"200" "19-09-2021" "Brasileirão" "Flamengo" NA NA "Grêmio" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "201" "20-09-2021" "Série D" "Guarany de Sobral" NA NA "Galvez-AC" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/guarany-de-sobral.png" "https://e.imguol.com/futebol/brasoes/40x40/galvez-ac.png"
 "202" "20-09-2021" "Italiano" "Udinese" NA NA "Napoli" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/udinese.png" "https://e.imguol.com/futebol/brasoes/40x40/napoli.png"
 "203" "20-09-2021" "La Liga" "Barcelona" NA NA "Granada-ESP" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/barcelona.png" "https://e.imguol.com/futebol/brasoes/40x40/granada-esp.png"
@@ -209,61 +209,61 @@
 "208" "21-09-2021" "Italiano" "Atalanta" NA NA "Sassuolo" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/atalanta.png" "https://e.imguol.com/futebol/brasoes/40x40/sassuolo.png"
 "209" "21-09-2021" "Italiano" "Fiorentina" NA NA "Internazionale" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/fiorentina.png" "https://e.imguol.com/futebol/brasoes/40x40/internazionale.png"
 "210" "21-09-2021" "Copa da Liga Inglesa" "Brentford" NA NA "Oldham Athletic" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/brentford-.png" "https://e.imguol.com/futebol/brasoes/40x40/oldham-athletic.png"
-"211" "21-09-2021" "Copa da Liga Inglesa" "Burnley" NA NA "Rochdale" "N" "Não iniciado" NA NA NA
-"212" "21-09-2021" "Copa da Liga Inglesa" "Fulham" NA NA "Leeds United" "N" "Não iniciado" NA NA NA
-"213" "21-09-2021" "Copa da Liga Inglesa" "Manchester City" NA NA "Wycombe" "N" "Não iniciado" NA NA NA
-"214" "21-09-2021" "Copa da Liga Inglesa" "Norwich" NA NA "Liverpool" "N" "Não iniciado" NA NA NA
-"215" "21-09-2021" "Copa da Liga Inglesa" "Preston North End" NA NA "Cheltenham Town" "N" "Não iniciado" NA NA NA
-"216" "21-09-2021" "Copa da Liga Inglesa" "Queens Park Rangers" NA NA "Everton" "N" "Não iniciado" NA NA NA
-"217" "21-09-2021" "Copa da Liga Inglesa" "Sheffield United" NA NA "Southampton" "N" "Não iniciado" NA NA NA
-"218" "21-09-2021" "Copa da Liga Inglesa" "Watford" NA NA "Stoke City" "N" "Não iniciado" NA NA NA
-"219" "21-09-2021" "Copa da Liga Inglesa" "Wigan" NA NA "Sunderland" "N" "Não iniciado" NA NA NA
-"220" "21-09-2021" "Série B" "Guarani" NA NA "Remo" "N" "Não iniciado" NA NA NA
-"221" "21-09-2021" "La Liga" "Athletic Bilbao" NA NA "Rayo Vallecano" "N" "Não iniciado" NA NA NA
-"222" "21-09-2021" "La Liga" "Levante" NA NA "Celta" "N" "Não iniciado" NA NA NA
-"223" "21-09-2021" "Série B" "Sampaio Corrêa-MA" NA NA "Brusque" "N" "Não iniciado" NA NA NA
-"224" "21-09-2021" "Série B" "Avaí" NA NA "Goiás" "N" "Não iniciado" NA NA NA
-"225" "21-09-2021" "Série B" "Brasil de Pelotas" NA NA "CRB" "N" "Não iniciado" NA NA NA
-"226" "21-09-2021" "Série B" "Náutico" NA NA "Londrina" "N" "Não iniciado" NA NA NA
-"227" "21-09-2021" "Série B" "Vila Nova" NA NA "Confiança" "N" "Não iniciado" NA NA NA
-"228" "21-09-2021" "Libertadores" "Palmeiras" NA NA "Atlético-MG" "N" "Não iniciado" NA NA NA
+"211" "21-09-2021" "Copa da Liga Inglesa" "Burnley" NA NA "Rochdale" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"212" "21-09-2021" "Copa da Liga Inglesa" "Fulham" NA NA "Leeds United" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"213" "21-09-2021" "Copa da Liga Inglesa" "Manchester City" NA NA "Wycombe" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"214" "21-09-2021" "Copa da Liga Inglesa" "Norwich" NA NA "Liverpool" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"215" "21-09-2021" "Copa da Liga Inglesa" "Preston North End" NA NA "Cheltenham Town" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"216" "21-09-2021" "Copa da Liga Inglesa" "Queens Park Rangers" NA NA "Everton" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"217" "21-09-2021" "Copa da Liga Inglesa" "Sheffield United" NA NA "Southampton" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"218" "21-09-2021" "Copa da Liga Inglesa" "Watford" NA NA "Stoke City" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"219" "21-09-2021" "Copa da Liga Inglesa" "Wigan" NA NA "Sunderland" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"220" "21-09-2021" "Série B" "Guarani" NA NA "Remo" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"221" "21-09-2021" "La Liga" "Athletic Bilbao" NA NA "Rayo Vallecano" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"222" "21-09-2021" "La Liga" "Levante" NA NA "Celta" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"223" "21-09-2021" "Série B" "Sampaio Corrêa-MA" NA NA "Brusque" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"224" "21-09-2021" "Série B" "Avaí" NA NA "Goiás" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"225" "21-09-2021" "Série B" "Brasil de Pelotas" NA NA "CRB" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"226" "21-09-2021" "Série B" "Náutico" NA NA "Londrina" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"227" "21-09-2021" "Série B" "Vila Nova" NA NA "Confiança" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"228" "21-09-2021" "Libertadores" "Palmeiras" NA NA "Atlético-MG" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "229" "22-09-2021" "Italiano" "Salernitana" NA NA "Hellas Verona" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/salernitana.png" "https://e.imguol.com/futebol/brasoes/40x40/hellas-verona.png"
 "230" "22-09-2021" "Italiano" "Spezia" NA NA "Juventus" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/spezia.png" "https://e.imguol.com/futebol/brasoes/40x40/juventus.png"
 "231" "22-09-2021" "Francês" "Lille" NA NA "Reims" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/lille.png" "https://e.imguol.com/futebol/brasoes/40x40/reims.png"
 "232" "22-09-2021" "Francês" "Monaco" NA NA "Saint-Étienne" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/monaco.png" "https://e.imguol.com/futebol/brasoes/40x40/saint-etienne.png"
 "233" "22-09-2021" "Francês" "Montpellier" NA NA "Bordeaux" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/montpellier.png" "https://e.imguol.com/futebol/brasoes/40x40/bordeaux.png"
-"234" "22-09-2021" "Francês" "Nantes" NA NA "Brest" "N" "Não iniciado" NA NA NA
-"235" "22-09-2021" "Francês" "Rennes" NA NA "Clermont Foot" "N" "Não iniciado" NA NA NA
-"236" "22-09-2021" "La Liga" "Espanyol" NA NA "Alavés" "N" "Não iniciado" NA NA NA
-"237" "22-09-2021" "La Liga" "Sevilla" NA NA "Valencia" "N" "Não iniciado" NA NA NA
-"238" "22-09-2021" "Copa da Liga Inglesa" "Brighton" NA NA "Swansea City" "N" "Não iniciado" NA NA NA
-"239" "22-09-2021" "Italiano" "Cagliari" NA NA "Empoli" "N" "Não iniciado" NA NA NA
-"240" "22-09-2021" "Italiano" "Milan" NA NA "Venezia" "N" "Não iniciado" NA NA NA
-"241" "22-09-2021" "Copa da Liga Inglesa" "Arsenal" NA NA "AFC Wimbledon" "N" "Não iniciado" NA NA NA
-"242" "22-09-2021" "Copa da Liga Inglesa" "Chelsea" NA NA "Aston Villa" "N" "Não iniciado" NA NA NA
-"243" "22-09-2021" "Copa da Liga Inglesa" "Manchester United" NA NA "West Ham" "N" "Não iniciado" NA NA NA
-"244" "22-09-2021" "Copa da Liga Inglesa" "Millwall" NA NA "Leicester City" "N" "Não iniciado" NA NA NA
-"245" "22-09-2021" "Copa da Liga Inglesa" "Wolverhampton" NA NA "Tottenham" "N" "Não iniciado" NA NA NA
-"246" "22-09-2021" "Francês" "Angers" NA NA "Olympique" "N" "Não iniciado" NA NA NA
-"247" "22-09-2021" "Francês" "Lens" NA NA "Strasbourg" "N" "Não iniciado" NA NA NA
-"248" "22-09-2021" "Francês" "Lorient" NA NA "Nice" "N" "Não iniciado" NA NA NA
-"249" "22-09-2021" "Francês" "Lyon" NA NA "Troyes" "N" "Não iniciado" NA NA NA
-"250" "22-09-2021" "Francês" "Metz" NA NA "PSG" "N" "Não iniciado" NA NA NA
-"251" "22-09-2021" "La Liga" "Real Madrid" NA NA "Mallorca" "N" "Não iniciado" NA NA NA
-"252" "22-09-2021" "La Liga" "Villarreal" NA NA "Elche" "N" "Não iniciado" NA NA NA
-"253" "22-09-2021" "Série B" "Vitória" NA NA "Coritiba" "N" "Não iniciado" NA NA NA
-"254" "22-09-2021" "Copa Sul-Americana" "Red Bull Bragantino" NA NA "Libertad-PAR" "N" "Não iniciado" NA NA NA
-"255" "22-09-2021" "Brasileirão" "São Paulo" NA NA "América-MG" "N" "Não iniciado" NA NA NA
-"256" "22-09-2021" "Série B" "Operário-PR" NA NA "Ponte Preta" "N" "Não iniciado" NA NA NA
-"257" "22-09-2021" "Libertadores" "Flamengo" NA NA "Barcelona-EQU" "N" "Não iniciado" NA NA NA
+"234" "22-09-2021" "Francês" "Nantes" NA NA "Brest" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"235" "22-09-2021" "Francês" "Rennes" NA NA "Clermont Foot" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"236" "22-09-2021" "La Liga" "Espanyol" NA NA "Alavés" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"237" "22-09-2021" "La Liga" "Sevilla" NA NA "Valencia" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"238" "22-09-2021" "Copa da Liga Inglesa" "Brighton" NA NA "Swansea City" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"239" "22-09-2021" "Italiano" "Cagliari" NA NA "Empoli" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"240" "22-09-2021" "Italiano" "Milan" NA NA "Venezia" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"241" "22-09-2021" "Copa da Liga Inglesa" "Arsenal" NA NA "AFC Wimbledon" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"242" "22-09-2021" "Copa da Liga Inglesa" "Chelsea" NA NA "Aston Villa" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"243" "22-09-2021" "Copa da Liga Inglesa" "Manchester United" NA NA "West Ham" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"244" "22-09-2021" "Copa da Liga Inglesa" "Millwall" NA NA "Leicester City" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"245" "22-09-2021" "Copa da Liga Inglesa" "Wolverhampton" NA NA "Tottenham" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"246" "22-09-2021" "Francês" "Angers" NA NA "Olympique" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"247" "22-09-2021" "Francês" "Lens" NA NA "Strasbourg" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"248" "22-09-2021" "Francês" "Lorient" NA NA "Nice" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"249" "22-09-2021" "Francês" "Lyon" NA NA "Troyes" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"250" "22-09-2021" "Francês" "Metz" NA NA "PSG" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"251" "22-09-2021" "La Liga" "Real Madrid" NA NA "Mallorca" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"252" "22-09-2021" "La Liga" "Villarreal" NA NA "Elche" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"253" "22-09-2021" "Série B" "Vitória" NA NA "Coritiba" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"254" "22-09-2021" "Copa Sul-Americana" "Red Bull Bragantino" NA NA "Libertad-PAR" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"255" "22-09-2021" "Brasileirão" "São Paulo" NA NA "América-MG" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"256" "22-09-2021" "Série B" "Operário-PR" NA NA "Ponte Preta" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"257" "22-09-2021" "Libertadores" "Flamengo" NA NA "Barcelona-EQU" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "258" "23-09-2021" "Italiano" "Sampdoria" NA NA "Napoli" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/sampdoria.png" "https://e.imguol.com/futebol/brasoes/40x40/napoli.png"
 "259" "23-09-2021" "Italiano" "Torino" NA NA "Lazio" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/torino.png" "https://e.imguol.com/futebol/brasoes/40x40/lazio.png"
 "260" "23-09-2021" "La Liga" "Granada-ESP" NA NA "Real Sociedad" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/granada-esp.png" "https://e.imguol.com/futebol/brasoes/40x40/real-sociedad.png"
 "261" "23-09-2021" "La Liga" "Osasuna" NA NA "Betis" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/osasuna.png" "https://e.imguol.com/futebol/brasoes/40x40/betis.png"
 "262" "23-09-2021" "Italiano" "Roma" NA NA "Udinese" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/roma.png" "https://e.imguol.com/futebol/brasoes/40x40/udinese.png"
-"263" "23-09-2021" "La Liga" "Cádiz" NA NA "Barcelona" "N" "Não iniciado" NA NA NA
-"264" "23-09-2021" "Série B" "CSA" NA NA "Botafogo" "N" "Não iniciado" NA NA NA
-"265" "23-09-2021" "Copa Sul-Americana" "Peñarol" NA NA "Athletico" "N" "Não iniciado" NA NA NA
+"263" "23-09-2021" "La Liga" "Cádiz" NA NA "Barcelona" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"264" "23-09-2021" "Série B" "CSA" NA NA "Botafogo" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
+"265" "23-09-2021" "Copa Sul-Americana" "Peñarol" NA NA "Athletico" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/coringa.png" "https://e.imguol.com/futebol/brasoes/40x40/coringa.png"
 "266" "24-09-2021" "Alemão" "Greuther Fürth" NA NA "Bayern de Munique" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/greuther-furth-.png" "https://e.imguol.com/futebol/brasoes/40x40/bayern-de-munique.png"
 "267" "24-09-2021" "Série B" "Goiás" NA NA "Vila Nova" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/goias.png" "https://e.imguol.com/futebol/brasoes/40x40/vila-nova.png"
 "268" "24-09-2021" "Série B" "Remo" NA NA "Náutico" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/remo-.png" "https://e.imguol.com/futebol/brasoes/40x40/nautico.png"
