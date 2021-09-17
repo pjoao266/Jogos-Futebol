@@ -4,6 +4,7 @@ roda_busca = function(){
   library(tidyverse)
   library(git2r)
   library(stringi)
+  library(audio)
   rm(list=ls())
   ini = Sys.time()
   source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_git.R')
@@ -32,22 +33,24 @@ roda_busca = function(){
   fim = Sys.time()
   fim-ini
 }
+args = readline(prompt="Quer audio? 1->sim, 0-> não ")
 cont = 1
+audio_b = ifelse(args=='1',T,F)
 while(1){
   roda_busca()
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
   if("Ao Vivo" %in% jogos$Situação){
+    if(audio_b) play(load.wave("www//audio1.wav"))
     print(cont)
     Sys.sleep(30) 
   }else{
-    #Sys.sleep(period(minute=10,units = 'seconds') %>% as.numeric())
+    if(audio_b) play(load.wave("www//audio1.wav"))
     print(cont)
-    Sys.sleep(40)
-    
+    Sys.sleep(period(minute=20,units = 'seconds') %>% as.numeric())
   }
   
   cont = cont+1
 }
-library(lubridate)
+
 
 
