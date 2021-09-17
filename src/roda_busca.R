@@ -2,6 +2,7 @@ roda_busca = function(){
   library(RSelenium)
   library(rvest)
   library(tidyverse)
+  library(lubridate)
   library(git2r)
   library(stringi)
   library(audio)
