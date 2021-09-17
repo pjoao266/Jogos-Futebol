@@ -38,7 +38,8 @@ while(1){
   if("Ao Vivo" %in% jogos$Situação){
     Sys.sleep(30) 
   }else{
-    Sys.sleep(period(minute=10,units = 'seconds') %>% as.numeric())
+    #Sys.sleep(period(minute=10,units = 'seconds') %>% as.numeric())
+    Sys.sleep(30) 
   }
 }
 library(lubridate)
