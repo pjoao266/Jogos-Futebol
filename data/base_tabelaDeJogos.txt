@@ -109,7 +109,7 @@
 "108" "16-09-2021" "Série B" "CRB" 1 1 "Vasco" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/crb.png" "https://e.imguol.com/futebol/brasoes/40x40/vasco.png"
 "109" "16-09-2021" "Série B" "Cruzeiro" 1 1 "Operário-PR" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/cruzeiro.png" "https://e.imguol.com/futebol/brasoes/40x40/operario-pr.png"
 "110" "16-09-2021" "Série B" "Remo" 2 1 "Avaí" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/remo.png" "https://e.imguol.com/futebol/brasoes/40x40/avai.png"
-"111" "17-09-2021" "Alemão" "Hertha" NA NA "Greuther Fürth" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/hertha.png" "https://e.imguol.com/futebol/brasoes/40x40/greuther-furth.png"
+"111" "17-09-2021" "Alemão" "Hertha" 0 0 "Greuther Fürth" "E" "Ao Vivo" "Pré-Jogo" "https://e.imguol.com/futebol/brasoes/40x40/hertha.png" "https://e.imguol.com/futebol/brasoes/40x40/greuther-furth.png"
 "112" "17-09-2021" "Italiano" "Sassuolo" NA NA "Torino" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/sassuolo.png" "https://e.imguol.com/futebol/brasoes/40x40/torino.png"
 "113" "17-09-2021" "Série B" "Brusque" NA NA "Vitória" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/brusque.png" "https://e.imguol.com/futebol/brasoes/40x40/vitoria.png"
 "114" "17-09-2021" "La Liga" "Celta" NA NA "Cádiz" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/celta.png" "https://e.imguol.com/futebol/brasoes/40x40/cadiz.png"

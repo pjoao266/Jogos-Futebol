@@ -44,7 +44,7 @@ while(1){
   if("Ao Vivo" %in% jogos$Situação){
     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
     print(cont)
-    Sys.sleep(30)
+    Sys.sleep(period(minute=3,units = 'seconds') %>% as.numeric())
   }else{
     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
     print(cont)
