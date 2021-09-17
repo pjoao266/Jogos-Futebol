@@ -116,7 +116,7 @@
 "1110" "15-09-2021" "Copa do Brasil" "Fortaleza" 3 1 "São Paulo" "M" "Encerrado" NA
 "1111" "16-09-2021" "Série B" "CRB" 1 1 "Vasco" "E" "Encerrado" NA
 "1112" "16-09-2021" "Série B" "Cruzeiro" 1 1 "Operário-PR" "E" "Encerrado" NA
-"1113" "16-09-2021" "Série B" "Remo" 0 0 "Avaí" "E" "Ao Vivo" NA
+"1113" "16-09-2021" "Série B" "Remo" 0 0 "Avaí" "E" "Ao Vivo" "1º Tempo"
 "1114" "17-09-2021" "Alemão" "Hertha" NA NA "Greuther Fürth" "N" "Não iniciado" NA
 "1115" "17-09-2021" "Italiano" "Sassuolo" NA NA "Torino" "N" "Não iniciado" NA
 "1116" "17-09-2021" "Série B" "Brusque" NA NA "Vitória" "N" "Não iniciado" NA

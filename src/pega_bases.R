@@ -69,7 +69,7 @@ pega_bases = function(page){
           }
           }
           else{
-            minutos = texto[1]
+            minutos = texto
           }
         }
         
