@@ -115,7 +115,7 @@
 "114" "17-09-2021" "La Liga" "Celta" 1 2 "Cádiz" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/celta.png" "https://e.imguol.com/futebol/brasoes/40x40/cadiz.png"
 "115" "17-09-2021" "Inglês" "Newcastle United" 1 1 "Leeds United" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/newcastle-united.png" "https://e.imguol.com/futebol/brasoes/40x40/leeds-united.png"
 "116" "17-09-2021" "Francês" "Strasbourg" 3 0 "Metz" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/strasbourg.png" "https://e.imguol.com/futebol/brasoes/40x40/metz.png"
-"117" "17-09-2021" "Série D" "Aparecidense" NA NA "Caldense-MG" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/aparecidense.png" "https://e.imguol.com/futebol/brasoes/40x40/caldense-mg.png"
+"117" "17-09-2021" "Série D" "Aparecidense" 3 1 "Caldense-MG" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/aparecidense.png" "https://e.imguol.com/futebol/brasoes/40x40/caldense-mg.png"
 "118" "17-09-2021" "Amistosos" "Brasil" 3 1 "Argentina (F)" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/brasil.png" "https://e.imguol.com/futebol/brasoes/40x40/argentina-f.png"
 "119" "17-09-2021" "Série B" "Coritiba" 0 0 "Vila Nova" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/coritiba.png" "https://e.imguol.com/futebol/brasoes/40x40/vila-nova.png"
 "120" "17-09-2021" "Série B" "Confiança" NA NA "Sampaio Corrêa-MA" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/confianca.png" "https://e.imguol.com/futebol/brasoes/40x40/sampaio-correa-ma.png"
