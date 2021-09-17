@@ -3,6 +3,7 @@ roda_busca = function(){
   library(rvest)
   library(tidyverse)
   library(git2r)
+  library(stringi)
   rm(list=ls())
   ini = Sys.time()
   source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_git.R')

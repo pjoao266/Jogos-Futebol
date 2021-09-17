@@ -10,7 +10,6 @@ acessa_pagina = function(link){
   while(!wait){
     wait = cliente$executeScript("return document.readyState == 'complete';")[[1]]
   }
-  Sys.sleep(10)
   page = read_html(cliente$getPageSource()[[1]])
   cliente$close()
   servidor$stop()

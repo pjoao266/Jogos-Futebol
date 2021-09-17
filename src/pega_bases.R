@@ -22,11 +22,13 @@ pega_bases = function(page){
         html_text() %>% 
         str_trim()
       
-      images = jogo %>% 
-        html_nodes('.team-brasao') %>% 
-        html_nodes('img') %>% 
-        html_attr('src')
-      images
+      image_pre = 'https://e.imguol.com/futebol/brasoes/40x40/'
+       
+      imagens = info_jogo[c(2,5)] %>% 
+        str_to_lower() %>% 
+        str_replace_all(' ','-') %>% 
+        stri_trans_general(str = ., id = "Latin-ASCII") %>% 
+        paste0(image_pre,.,'.png')
       
       infos_partida = (info_jogo[1] %>% 
                          str_split(' - '))[[1]]%>% 
@@ -36,8 +38,8 @@ pega_bases = function(page){
       base_jogos_Dia = data.frame(Dia = data, Competição = infos_partida, Mandante = info_jogo[2],
                                   GolsMandante = info_jogo[3],
                                   GolsVisitante = info_jogo[4],Visitante = info_jogo[5],
-                                  ImagemMandante = images[1],
-                                  ImagemVisitante = images[2]) %>% 
+                                  ImagemMandante = imagens[1],
+                                  ImagemVisitante = imagens[2]) %>% 
         mutate_at(c('GolsVisitante','GolsMandante'),function(x) 
           ifelse(x=='-',NA,as.numeric(x))) %>% 
         mutate(Resultado = case_when(is.na(GolsMandante)~'N',
