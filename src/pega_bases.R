@@ -56,7 +56,8 @@ pega_bases = function(page){
             html_nodes('.scoreboard_matchStage_label div') %>% 
             html_text()
         }else{
-          if( texto[2] %>% str_detect('[0-9]+')){
+          if(length(texto)>1){
+            if(texto[2] %>% str_detect('[0-9]+')){
             adiciona = ifelse(texto[1] == "2º Tempo",45,0)
             minutos = (texto[2] %>% 
                          str_split(pattern = '[\\+;]'))[[1]] %>% 
@@ -65,6 +66,10 @@ pega_bases = function(page){
             minutos = minutos + adiciona  
           }else{
             minutos = texto[2]  
+          }
+          }
+          else{
+            minutos = texto[1]
           }
         }
         
