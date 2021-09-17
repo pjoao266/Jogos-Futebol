@@ -1,7 +1,6 @@
 pega_bases = function(page){
   dias_com_jogo <- page %>% 
     html_nodes('.match-center-item')
-  
   datas_dias = dias_com_jogo %>% 
     html_attr('data-ts')
   
@@ -24,6 +23,10 @@ pega_bases = function(page){
         html_text() %>% 
         str_trim()
       
+      images = jogo %>% 
+        html_nodes('.loaded') %>% 
+        html_attr('src')
+      
       infos_partida = (info_jogo[1] %>% 
                          str_split(' - '))[[1]]%>% 
         str_trim()
@@ -31,7 +34,9 @@ pega_bases = function(page){
       
       base_jogos_Dia = data.frame(Dia = data, Competição = infos_partida, Mandante = info_jogo[2],
                                   GolsMandante = info_jogo[3],
-                                  GolsVisitante = info_jogo[4],Visitante = info_jogo[5]) %>% 
+                                  GolsVisitante = info_jogo[4],Visitante = info_jogo[5],
+                                  ImagemMandante = images[1],
+                                  ImagemVisitante = images[2]) %>% 
         mutate_at(c('GolsVisitante','GolsMandante'),function(x) 
           ifelse(x=='-',NA,as.numeric(x))) %>% 
         mutate(Resultado = case_when(is.na(GolsMandante)~'N',
@@ -75,10 +80,11 @@ pega_bases = function(page){
         
       }
       base_jogos_Dia = base_jogos_Dia %>% 
-        mutate(Minutos = minutos)
+        mutate(Minutos = minutos) %>% 
+        relocate(c('ImagemMandante','ImagemVisitante'),.after='Minutos')
       jogos = rbind(jogos,base_jogos_Dia)
     }
   }
-  
+  jogos
   return(jogos)
 }

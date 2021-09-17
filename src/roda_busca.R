@@ -10,8 +10,6 @@ roda_busca = function(){
   source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\acessa_pagina.R')
   
   link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/#/'
-  
-  
   page = acessa_pagina(link)
   
   
