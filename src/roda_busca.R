@@ -32,6 +32,7 @@ roda_busca = function(){
   fim = Sys.time()
   fim-ini
 }
+cont = 1
 while(1){
   roda_busca()
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
@@ -39,8 +40,11 @@ while(1){
     Sys.sleep(30) 
   }else{
     #Sys.sleep(period(minute=10,units = 'seconds') %>% as.numeric())
-    Sys.sleep(30) 
+    Sys.sleep(40)
+    
   }
+  print(cont)
+  cont = cont+1
 }
 library(lubridate)
 
