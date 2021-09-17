@@ -37,13 +37,15 @@ while(1){
   roda_busca()
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
   if("Ao Vivo" %in% jogos$Situação){
+    print(cont)
     Sys.sleep(30) 
   }else{
     #Sys.sleep(period(minute=10,units = 'seconds') %>% as.numeric())
+    print(cont)
     Sys.sleep(40)
     
   }
-  print(cont)
+  
   cont = cont+1
 }
 library(lubridate)
