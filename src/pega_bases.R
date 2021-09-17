@@ -23,10 +23,12 @@ pega_bases = function(page){
         str_trim()
       
       image_pre = 'https://e.imguol.com/futebol/brasoes/40x40/'
-       
+      
       imagens = info_jogo[c(2,5)] %>% 
         str_to_lower() %>% 
         str_replace_all(' ','-') %>% 
+        str_replace_all("\\(",'') %>% 
+        str_replace_all("\\)",'') %>% 
         stri_trans_general(str = ., id = "Latin-ASCII") %>% 
         paste0(image_pre,.,'.png')
       

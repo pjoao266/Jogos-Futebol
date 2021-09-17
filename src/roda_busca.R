@@ -38,6 +38,9 @@ while(1){
   if("Ao Vivo" %in% jogos$Situação){
     Sys.sleep(30) 
   }else{
-    break;
+    Sys.sleep(period(minute=10,units = 'seconds') %>% as.numeric())
   }
 }
+library(lubridate)
+
+
