@@ -36,24 +36,23 @@ roda_busca = function(){
 }
 
 
-# cont = 1
-# audio_b = ifelse(args==1,T,F)
-roda_busca()
-# while(1){
-#   roda_busca()
-#   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
-#   if("Ao Vivo" %in% jogos$Situação){
-#     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
-#     print(cont)
-#     Sys.sleep(period(minute=3,units = 'seconds') %>% as.numeric())
-#   }else{
-#     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
-#     print(cont)
-#     Sys.sleep(period(minute=20,units = 'seconds') %>% as.numeric())
-#   }
-# 
-#   cont = cont+1
-# }
-# 
-# 
-# 
+cont = 1
+audio_b = ifelse(args==1,T,F)
+while(1){
+  roda_busca()
+  jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
+  if("Ao Vivo" %in% jogos$Situação){
+    if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
+    print(cont)
+    Sys.sleep(period(minute=3,units = 'seconds') %>% as.numeric())
+  }else{
+    if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
+    print(cont)
+    Sys.sleep(period(minute=20,units = 'seconds') %>% as.numeric())
+  }
+
+  cont = cont+1
+}
+
+
+
