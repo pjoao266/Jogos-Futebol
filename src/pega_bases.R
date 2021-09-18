@@ -52,38 +52,38 @@ pega_bases = function(page){
                                     info_jogo[6] %in% c('encerrado','pós-jogo')~'Encerrado',
                                     T~'Não iniciado'))
       minutos = NA
-      if(base_jogos_Dia$Situação =='Ao Vivo'){
-        proximo_link = jogo %>% 
-          html_nodes('.match-content-score') %>% 
-          html_attr('href') 
-        new_page = acessa_pagina(proximo_link)
-        texto = NULL
-        texto = new_page %>% 
-          html_nodes('.backgroundLabel > div') %>% 
-          html_text()
-        if(isTRUE(all.equal(texto,character(0)))){
-          minutos = new_page %>% 
-            html_nodes('.scoreboard_matchStage_label div') %>% 
-            html_text()
-        }else{
-          if(length(texto)>1){
-            if(texto[2] %>% str_detect('[0-9]+')){
-            adiciona = ifelse(texto[1] == "2º Tempo",45,0)
-            minutos = (texto[2] %>% 
-                         str_split(pattern = '[\\+;]'))[[1]] %>% 
-              str_extract('[0-9]+') %>% 
-              as.numeric() %>%  sum()
-            minutos = minutos + adiciona  
-          }else{
-            minutos = texto[2]  
-          }
-          }
-          else{
-            minutos = texto
-          }
-        }
-        
-      }
+      # if(base_jogos_Dia$Situação =='Ao Vivo'){
+      #   proximo_link = jogo %>% 
+      #     html_nodes('.match-content-score') %>% 
+      #     html_attr('href') 
+      #   new_page = acessa_pagina(proximo_link)
+      #   texto = NULL
+      #   texto = new_page %>% 
+      #     html_nodes('.backgroundLabel > div') %>% 
+      #     html_text()
+      #   if(isTRUE(all.equal(texto,character(0)))){
+      #     minutos = new_page %>% 
+      #       html_nodes('.scoreboard_matchStage_label div') %>% 
+      #       html_text()
+      #   }else{
+      #     if(length(texto)>1){
+      #       if(texto[2] %>% str_detect('[0-9]+')){
+      #       adiciona = ifelse(texto[1] == "2º Tempo",45,0)
+      #       minutos = (texto[2] %>% 
+      #                    str_split(pattern = '[\\+;]'))[[1]] %>% 
+      #         str_extract('[0-9]+') %>% 
+      #         as.numeric() %>%  sum()
+      #       minutos = minutos + adiciona  
+      #     }else{
+      #       minutos = texto[2]  
+      #     }
+      #     }
+      #     else{
+      #       minutos = texto
+      #     }
+      #   }
+      #   
+      # }
       base_jogos_Dia = base_jogos_Dia %>% 
         mutate(Minutos = minutos) %>% 
         relocate(c('ImagemMandante','ImagemVisitante'),.after='Minutos')
