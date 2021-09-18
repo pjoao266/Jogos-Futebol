@@ -151,7 +151,7 @@
 "1118" "18-09-2021" "Série D" "Portuguesa" NA NA "Caxias" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/portuguesa.png" "https://e.imguol.com/futebol/brasoes/40x40/caxias.png"
 "1119" "18-09-2021" "Série B" "Londrina" 0 0 "CSA" "E" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/londrina.png" "https://e.imguol.com/futebol/brasoes/40x40/csa.png"
 "1120" "18-09-2021" "Série B" "Botafogo" 0 1 "Náutico" "V" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/botafogo.png" "https://e.imguol.com/futebol/brasoes/40x40/nautico.png"
-"1121" "18-09-2021" "Brasileirão" "Chapecoense" NA NA "Palmeiras" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/chapecoense.png" "https://e.imguol.com/futebol/brasoes/40x40/palmeiras.png"
+"1121" "18-09-2021" "Brasileirão" "Chapecoense" 0 0 "Palmeiras" "E" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/chapecoense.png" "https://e.imguol.com/futebol/brasoes/40x40/palmeiras.png"
 "1122" "18-09-2021" "Série C" "Altos-PI" NA NA "Paysandu" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/altos-pi.png" "https://e.imguol.com/futebol/brasoes/40x40/paysandu.png"
 "1123" "18-09-2021" "Série C" "Criciúma" NA NA "Mirassol" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/criciuma.png" "https://e.imguol.com/futebol/brasoes/40x40/mirassol.png"
 "1124" "18-09-2021" "Série C" "Botafogo-RP" NA NA "Figueirense" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/botafogo-rp.png" "https://e.imguol.com/futebol/brasoes/40x40/figueirense.png"
