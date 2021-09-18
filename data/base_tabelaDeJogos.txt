@@ -144,7 +144,7 @@
 "1111" "18-09-2021" "Série D" "Joinville" 1 1 "Bangu" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/joinville.png" "https://e.imguol.com/futebol/brasoes/40x40/bangu.png"
 "1112" "18-09-2021" "Italiano" "Salernitana" 0 1 "Atalanta" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/salernitana.png" "https://e.imguol.com/futebol/brasoes/40x40/atalanta.png"
 "1113" "18-09-2021" "La Liga" "Alavés" 0 2 "Osasuna" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/alaves.png" "https://e.imguol.com/futebol/brasoes/40x40/osasuna.png"
-"1114" "18-09-2021" "Francês" "Saint-Étienne" 1 2 "Bordeaux" "V" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/saint-etienne.png" "https://e.imguol.com/futebol/brasoes/40x40/bordeaux.png"
+"1114" "18-09-2021" "Francês" "Saint-Étienne" 1 2 "Bordeaux" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/saint-etienne.png" "https://e.imguol.com/futebol/brasoes/40x40/bordeaux.png"
 "1115" "18-09-2021" "Série D" "4 de Julho-PI" NA NA "Penarol-AM" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/4-de-julho-pi.png" "https://e.imguol.com/futebol/brasoes/40x40/penarol-am.png"
 "1116" "18-09-2021" "Série D" "Juazeirense-BA" NA NA "Atlético-CE" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/juazeirense-ba.png" "https://e.imguol.com/futebol/brasoes/40x40/atletico-ce.png"
 "1117" "18-09-2021" "Série D" "FC Cascavel" NA NA "Cianorte" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/fc-cascavel.png" "https://e.imguol.com/futebol/brasoes/40x40/cianorte.png"
