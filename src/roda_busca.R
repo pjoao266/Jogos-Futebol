@@ -36,8 +36,8 @@ roda_busca = function(){
 }
 
 
-cont = 1
-audio_b = ifelse(args==1,T,F)
+# cont = 1
+# audio_b = ifelse(args==1,T,F)
 roda_busca()
 # while(1){
 #   roda_busca()
