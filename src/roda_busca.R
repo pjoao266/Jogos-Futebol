@@ -42,7 +42,7 @@ while(1){
   roda_busca()
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
   if("Ao Vivo" %in% jogos$Situação){
-    if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
+    if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio2.wav"))
     print(cont)
     Sys.sleep(period(minute=3,units = 'seconds') %>% as.numeric())
   }else{
