@@ -137,7 +137,7 @@
 "1104" "18-09-2021" "Italiano" "Internazionale" 6 1 "Bologna" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/internazionale.png" "https://e.imguol.com/futebol/brasoes/40x40/bologna.png"
 "1105" "18-09-2021" "La Liga" "Elche" 1 1 "Levante" "E" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/elche.png" "https://e.imguol.com/futebol/brasoes/40x40/levante.png"
 "1106" "18-09-2021" "Inglês" "Aston Villa" 2 0 "Everton" "M" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/aston-villa.png" "https://e.imguol.com/futebol/brasoes/40x40/everton.png"
-"1107" "18-09-2021" "Alemão" "Colônia" 1 0 "RB Leipzig" "M" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/colonia.png" "https://e.imguol.com/futebol/brasoes/40x40/rb-leipzig.png"
+"1107" "18-09-2021" "Alemão" "Colônia" 1 1 "RB Leipzig" "E" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/colonia.png" "https://e.imguol.com/futebol/brasoes/40x40/rb-leipzig.png"
 "1108" "18-09-2021" "Série C" "Floresta-CE" NA NA "Volta Redonda" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/floresta-ce.png" "https://e.imguol.com/futebol/brasoes/40x40/volta-redonda.png"
 "1109" "18-09-2021" "Série D" "Campinense" NA NA "Sergipe" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/campinense.png" "https://e.imguol.com/futebol/brasoes/40x40/sergipe.png"
 "1110" "18-09-2021" "Série D" "Santo André" NA NA "Esportivo" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/santo-andre.png" "https://e.imguol.com/futebol/brasoes/40x40/esportivo.png"
