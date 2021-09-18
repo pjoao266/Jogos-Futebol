@@ -27,7 +27,7 @@ roda_busca = function(){
   gitadd(dir)
   hoje = Sys.time() %>% 
     str_sub(1,-4)
-  gitcommit(dir = dir,msg = paste0('Atualização da base. Data: ',hoje))
+  gitcommit(dir = dir,msg = paste0('Atualiza??o da base. Data: ',hoje))
   gitpush(dir)
   
   
@@ -41,10 +41,10 @@ audio_b = ifelse(args==1,T,F)
 while(1){
   roda_busca()
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
-  if("Ao Vivo" %in% jogos$Situação){
+  if("Ao Vivo" %in% jogos$Situa??o){
     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio2.wav"))
     print(cont)
-    Sys.sleep(period(minute=3,units = 'seconds') %>% as.numeric())
+    Sys.sleep(period(minute=1,units = 'seconds') %>% as.numeric())
   }else{
     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
     print(cont)
