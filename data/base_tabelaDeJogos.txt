@@ -148,7 +148,7 @@
 "1115" "18-09-2021" "Série D" "4 de Julho-PI" NA NA "Penarol-AM" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/4-de-julho-pi.png" "https://e.imguol.com/futebol/brasoes/40x40/penarol-am.png"
 "1116" "18-09-2021" "Série D" "Juazeirense-BA" NA NA "Atlético-CE" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/juazeirense-ba.png" "https://e.imguol.com/futebol/brasoes/40x40/atletico-ce.png"
 "1117" "18-09-2021" "Série D" "FC Cascavel" NA NA "Cianorte" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/fc-cascavel.png" "https://e.imguol.com/futebol/brasoes/40x40/cianorte.png"
-"1118" "18-09-2021" "Série D" "Portuguesa" NA NA "Caxias" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/portuguesa.png" "https://e.imguol.com/futebol/brasoes/40x40/caxias.png"
+"1118" "18-09-2021" "Série D" "Portuguesa" 2 0 "Caxias" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/portuguesa.png" "https://e.imguol.com/futebol/brasoes/40x40/caxias.png"
 "1119" "18-09-2021" "Série B" "Londrina" NA NA "CSA" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/londrina.png" "https://e.imguol.com/futebol/brasoes/40x40/csa.png"
 "1120" "18-09-2021" "Série B" "Botafogo" NA NA "Náutico" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/botafogo.png" "https://e.imguol.com/futebol/brasoes/40x40/nautico.png"
 "1121" "18-09-2021" "Brasileirão" "Chapecoense" NA NA "Palmeiras" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/chapecoense.png" "https://e.imguol.com/futebol/brasoes/40x40/palmeiras.png"
