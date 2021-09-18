@@ -127,7 +127,7 @@
 "194" "18-09-2021" "Alemão" "Mainz 05" 0 0 "Freiburg" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/mainz-05.png" "https://e.imguol.com/futebol/brasoes/40x40/freiburg.png"
 "195" "18-09-2021" "Alemão" "Augsburg" 1 0 "Borussia M'gladbach" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/augsburg.png" "https://e.imguol.com/futebol/brasoes/40x40/borussia-m'gladbach.png"
 "196" "18-09-2021" "Alemão" "Arminia Bielefeld" 0 0 "Hoffenheim" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/arminia-bielefeld.png" "https://e.imguol.com/futebol/brasoes/40x40/hoffenheim.png"
-"197" "18-09-2021" "Série C" "Oeste" NA NA "São José-RS" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/oeste.png" "https://e.imguol.com/futebol/brasoes/40x40/sao-jose-rs.png"
+"197" "18-09-2021" "Série C" "Oeste" 0 1 "São José-RS" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/oeste.png" "https://e.imguol.com/futebol/brasoes/40x40/sao-jose-rs.png"
 "198" "18-09-2021" "Inglês" "Burnley" 0 1 "Arsenal" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/burnley.png" "https://e.imguol.com/futebol/brasoes/40x40/arsenal.png"
 "199" "18-09-2021" "Inglês" "Liverpool" 3 0 "Crystal Palace" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/liverpool.png" "https://e.imguol.com/futebol/brasoes/40x40/crystal-palace.png"
 "1100" "18-09-2021" "Inglês" "Manchester City" 0 0 "Southampton" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/manchester-city.png" "https://e.imguol.com/futebol/brasoes/40x40/southampton.png"
