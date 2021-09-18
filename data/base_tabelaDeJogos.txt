@@ -134,7 +134,7 @@
 "1101" "18-09-2021" "Inglês" "Norwich" 1 3 "Watford" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/norwich.png" "https://e.imguol.com/futebol/brasoes/40x40/watford.png"
 "1102" "18-09-2021" "La Liga" "Atlético de Madri" 0 0 "Athletic Bilbao" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/atletico-de-madri.png" "https://e.imguol.com/futebol/brasoes/40x40/athletic-bilbao.png"
 "1103" "18-09-2021" "Francês" "Lens" 1 0 "Lille" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/lens.png" "https://e.imguol.com/futebol/brasoes/40x40/lille.png"
-"1104" "18-09-2021" "Italiano" "Internazionale" 6 0 "Bologna" "M" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/internazionale.png" "https://e.imguol.com/futebol/brasoes/40x40/bologna.png"
+"1104" "18-09-2021" "Italiano" "Internazionale" 6 1 "Bologna" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/internazionale.png" "https://e.imguol.com/futebol/brasoes/40x40/bologna.png"
 "1105" "18-09-2021" "La Liga" "Elche" 1 1 "Levante" "E" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/elche.png" "https://e.imguol.com/futebol/brasoes/40x40/levante.png"
 "1106" "18-09-2021" "Inglês" "Aston Villa" 0 0 "Everton" "E" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/aston-villa.png" "https://e.imguol.com/futebol/brasoes/40x40/everton.png"
 "1107" "18-09-2021" "Alemão" "Colônia" 1 0 "RB Leipzig" "M" "Ao Vivo" NA "https://e.imguol.com/futebol/brasoes/40x40/colonia.png" "https://e.imguol.com/futebol/brasoes/40x40/rb-leipzig.png"
