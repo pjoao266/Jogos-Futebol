@@ -27,7 +27,7 @@ roda_busca = function(){
   gitadd(dir)
   hoje = Sys.time() %>% 
     str_sub(1,-4)
-  gitcommit(dir = dir,msg = paste0('Atualiza??o da base. Data: ',hoje))
+  gitcommit(dir = dir,msg = paste0('Atualização da base. Data: ',hoje))
   gitpush(dir)
   
   
