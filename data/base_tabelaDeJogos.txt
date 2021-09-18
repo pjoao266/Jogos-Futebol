@@ -119,7 +119,7 @@
 "118" "17-09-2021" "Amistosos" "Brasil" 3 1 "Argentina (F)" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/brasil.png" "https://e.imguol.com/futebol/brasoes/40x40/argentina-f.png"
 "119" "17-09-2021" "Série B" "Coritiba" 1 0 "Vila Nova" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/coritiba.png" "https://e.imguol.com/futebol/brasoes/40x40/vila-nova.png"
 "120" "17-09-2021" "Série B" "Confiança" 0 0 "Sampaio Corrêa-MA" "E" "Ao Vivo" "Intervalo" "https://e.imguol.com/futebol/brasoes/40x40/confianca.png" "https://e.imguol.com/futebol/brasoes/40x40/sampaio-correa-ma.png"
-"121" "17-09-2021" "Série B" "Ponte Preta" NA NA "Guarani" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/ponte-preta.png" "https://e.imguol.com/futebol/brasoes/40x40/guarani.png"
+"121" "17-09-2021" "Série B" "Ponte Preta" 0 0 "Guarani" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/ponte-preta.png" "https://e.imguol.com/futebol/brasoes/40x40/guarani.png"
 "122" "18-09-2021" "Inglês" "Wolverhampton" NA NA "Brentford" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/wolverhampton.png" "https://e.imguol.com/futebol/brasoes/40x40/brentford.png"
 "123" "18-09-2021" "La Liga" "Rayo Vallecano" NA NA "Getafe" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/rayo-vallecano.png" "https://e.imguol.com/futebol/brasoes/40x40/getafe.png"
 "124" "18-09-2021" "Italiano" "Genoa" NA NA "Fiorentina" "N" "Não iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/genoa.png" "https://e.imguol.com/futebol/brasoes/40x40/fiorentina.png"
