@@ -1,5 +1,6 @@
 roda_busca = function(rd){
-
+  link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/#/'
+  
   page = acessa_pagina(rd,link)
   jogos = pega_bases(rd,page)
 
@@ -34,7 +35,6 @@ source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\at
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\pega_bases.R')
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\acessa_pagina.R')
 
-link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/#/'
 rd  = cria_navegador()
 
 cont = 1
