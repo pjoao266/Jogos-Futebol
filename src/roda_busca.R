@@ -1,7 +1,7 @@
 roda_busca = function(rd){
   link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/#/'
   
-  page = acessa_pagina(rd,link)
+  page = acessa_pagina(rd,link,espera = 10)
   jogos = pega_bases(rd,page)
 
   
@@ -44,6 +44,7 @@ while(1){
   print(paste0('Rodando vez ',cont))
   roda_busca(rd)
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
+  print(jogos$Situação %>% unique())
   if("Ao Vivo" %in% jogos$Situação){
     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio2.wav"))
     tempo = period(second=10,units = 'seconds')
