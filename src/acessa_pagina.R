@@ -1,4 +1,4 @@
-acessa_pagina = function(rd,link){
+acessa_pagina = function(rd,link,espera=0){
   cliente = rd$client
   servidor = rd$server
   cliente$navigate(link)
@@ -7,6 +7,7 @@ acessa_pagina = function(rd,link){
   while(!wait){
     wait = cliente$executeScript("return document.readyState == 'complete';")[[1]]
   }
+  Sys.sleep(espera)
   page = read_html(cliente$getPageSource()[[1]])
   return(page)
 }
