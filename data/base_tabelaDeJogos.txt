@@ -179,7 +179,7 @@
 "1146" "19-09-2021" "11H15" "La Liga" "Real Sociedad" 0 0 "Sevilla" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/real-sociedad.png" "https://e.imguol.com/futebol/brasoes/40x40/sevilla.png"
 "1147" "19-09-2021" "12H" "Francês" "Olympique" 2 0 "Rennes" "M" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/olympique.png" "https://e.imguol.com/futebol/brasoes/40x40/rennes.png"
 "1148" "19-09-2021" "12H30" "Inglês" "Tottenham" 0 2 "Chelsea" "V" "Ao Vivo" "67" "https://e.imguol.com/futebol/brasoes/40x40/tottenham.png" "https://e.imguol.com/futebol/brasoes/40x40/chelsea.png"
-"1149" "19-09-2021" "12H30" "Alemão" "Borussia Dortmund" 3 0 "Union Berlin" "M" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/borussia-dortmund.png" "https://e.imguol.com/futebol/brasoes/40x40/union-berlin.png"
+"1149" "19-09-2021" "12H30" "Alemão" "Borussia Dortmund" 3 1 "Union Berlin" "M" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/borussia-dortmund.png" "https://e.imguol.com/futebol/brasoes/40x40/union-berlin.png"
 "1150" "19-09-2021" "13H" "Italiano" "Hellas Verona" 0 1 "Roma" "V" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/hellas-verona.png" "https://e.imguol.com/futebol/brasoes/40x40/roma.png"
 "1151" "19-09-2021" "13H" "Italiano" "Lazio" 0 0 "Cagliari" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/lazio.png" "https://e.imguol.com/futebol/brasoes/40x40/cagliari.png"
 "1152" "19-09-2021" "13H30" "La Liga" "Betis" 0 1 "Espanyol" "V" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/betis.png" "https://e.imguol.com/futebol/brasoes/40x40/espanyol.png"
