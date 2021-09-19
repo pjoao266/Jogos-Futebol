@@ -178,7 +178,7 @@
 "1145" "19-09-2021" "11H" "Série C" "Ypiranga-RS" NA NA "Ituano" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/-.png" "https://e.imguol.com/futebol/brasoes/40x40/11h.png"
 "1146" "19-09-2021" "11H15" "La Liga" "Real Sociedad" 0 0 "Sevilla" "E" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/0.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
 "1147" "19-09-2021" "12H" "Francês" "Olympique" 0 0 "Rennes" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/0.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
-"1148" "19-09-2021" "12H30" "Inglês" "Tottenham" 0 0 "Chelsea" "E" "Ao Vivo" "19" "https://e.imguol.com/futebol/brasoes/40x40/0.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
+"1148" "19-09-2021" "12H30" "Inglês" "Tottenham" 0 0 "Chelsea" "E" "Ao Vivo" "20" "https://e.imguol.com/futebol/brasoes/40x40/0.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
 "1149" "19-09-2021" "12H30" "Alemão" "Borussia Dortmund" 1 0 "Union Berlin" "M" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/1.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
 "1150" "19-09-2021" "13H" "Italiano" "Hellas Verona" NA NA "Roma" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/-.png" "https://e.imguol.com/futebol/brasoes/40x40/pre-jogo.png"
 "1151" "19-09-2021" "13H" "Italiano" "Lazio" NA NA "Cagliari" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/-.png" "https://e.imguol.com/futebol/brasoes/40x40/pre-jogo.png"
