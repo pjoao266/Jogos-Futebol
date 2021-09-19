@@ -196,7 +196,7 @@
 "1163" "19-09-2021" "16H" "Série D" "Nova Mutum" 0 2 "Uberlândia" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/nova-mutum.png" "https://e.imguol.com/futebol/brasoes/40x40/uberlandia.png"
 "1164" "19-09-2021" "17H" "Série D" "São Raimundo-RR" 1 2 "Paragominas" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/sao-raimundo-rr.png" "https://e.imguol.com/futebol/brasoes/40x40/paragominas.png"
 "1165" "19-09-2021" "18H" "Série C" "Tombense-MG" NA NA "Santa Cruz-PE" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/tombense-mg.png" "https://e.imguol.com/futebol/brasoes/40x40/santa-cruz-pe.png"
-"1166" "19-09-2021" "18H15" "Brasileirão" "Corinthians" 1 1 "América-MG" "E" "Ao Vivo" 73 "https://e.imguol.com/futebol/brasoes/40x40/corinthians.png" "https://e.imguol.com/futebol/brasoes/40x40/america-mg.png"
+"1166" "19-09-2021" "18H15" "Brasileirão" "Corinthians" 1 1 "América-MG" "E" "Ao Vivo" 74 "https://e.imguol.com/futebol/brasoes/40x40/corinthians.png" "https://e.imguol.com/futebol/brasoes/40x40/america-mg.png"
 "1167" "19-09-2021" "20H" "Série C" "Botafogo-PB" NA NA "Jacuipense-BA" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/botafogo-pb.png" "https://e.imguol.com/futebol/brasoes/40x40/jacuipense-ba.png"
 "1168" "19-09-2021" "20H30" "Brasileirão" "Flamengo" NA NA "Grêmio" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/flamengo.png" "https://e.imguol.com/futebol/brasoes/40x40/gremio.png"
 "1169" "20-09-2021" "15H" "Série D" "Guarany de Sobral" NA NA "Galvez-AC" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/guarany-de-sobral.png" "https://e.imguol.com/futebol/brasoes/40x40/galvez-ac.png"
