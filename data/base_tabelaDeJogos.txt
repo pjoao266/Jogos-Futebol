@@ -174,7 +174,7 @@
 "1141" "19-09-2021" "10H" "Francês" "Troyes" 1 1 "Montpellier" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/1.png" "https://e.imguol.com/futebol/brasoes/40x40/encerrado.png"
 "1142" "19-09-2021" "10H" "Italiano" "Venezia" 1 2 "Spezia" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/1.png" "https://e.imguol.com/futebol/brasoes/40x40/encerrado.png"
 "1143" "19-09-2021" "10H30" "Alemão" "Stuttgart" 1 3 "Bayer Leverkusen" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/1.png" "https://e.imguol.com/futebol/brasoes/40x40/encerrado.png"
-"1144" "19-09-2021" "11H" "Brasileirão" "Internacional" 0 0 "Fortaleza" "E" "Ao Vivo" "87" "https://e.imguol.com/futebol/brasoes/40x40/0.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
+"1144" "19-09-2021" "11H" "Brasileirão" "Internacional" 0 0 "Fortaleza" "E" "Ao Vivo" "88" "https://e.imguol.com/futebol/brasoes/40x40/0.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
 "1145" "19-09-2021" "11H" "Série C" "Ypiranga-RS" NA NA "Ituano" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/-.png" "https://e.imguol.com/futebol/brasoes/40x40/11h.png"
 "1146" "19-09-2021" "11H15" "La Liga" "Real Sociedad" 0 0 "Sevilla" "E" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/0.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
 "1147" "19-09-2021" "12H" "Francês" "Olympique" 0 0 "Rennes" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/0.png" "https://e.imguol.com/futebol/brasoes/40x40/ao-vivo.png"
