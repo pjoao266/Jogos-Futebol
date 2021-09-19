@@ -41,7 +41,7 @@ pega_bases = function(rd,page){
       
       image_pre = 'https://e.imguol.com/futebol/brasoes/40x40/'
       
-      imagens = info_jogo[c(2,5)] %>% 
+      imagens = info_jogo[c(1,4)] %>% 
         str_to_lower() %>% 
         str_replace_all(' ','-') %>% 
         str_replace_all("\\(",'') %>% 
