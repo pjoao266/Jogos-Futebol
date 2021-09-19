@@ -20,8 +20,8 @@ roda_busca = function(rd){
   gitcommit(dir = dir,msg = paste0('Atualização da base. Data: ',hoje))
   gitpush(dir)
 }
-system("taskkill /im java.exe /f", intern=FALSE, ignore.stdout=FALSE)
 
+system("taskkill /im java.exe /f", intern=FALSE, ignore.stdout=FALSE)
 library(RSelenium)
 library(rvest)
 library(tidyverse)
@@ -29,13 +29,14 @@ library(lubridate)
 library(git2r)
 library(stringi)
 library(audio)
-rm(list=ls())
+
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_git.R')
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\pega_bases.R')
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\acessa_pagina.R')
 
 link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/#/'
 rd  = cria_navegador()
+
 cont = 1
 audio_b = ifelse(args==1,T,F)
 
