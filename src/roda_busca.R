@@ -41,18 +41,20 @@ cont = 1
 audio_b = ifelse(args==1,T,F)
 
 while(1){
+  print(paste0('Rodando vez ',cont))
   roda_busca(rd)
-  
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
   if("Ao Vivo" %in% jogos$Situação){
     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio2.wav"))
-    print(cont)
-    Sys.sleep(period(minute=1,units = 'seconds') %>% as.numeric())
+    tempo = period(second=10,units = 'seconds')
+
   }else{
     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio1.wav"))
-    print(cont)
-    Sys.sleep(period(minute=20,units = 'seconds') %>% as.numeric())
+    tempo = period(minute=20,units = 'seconds')
   }
+  
+  print(paste0('Acabou rodar vez ',cont))
+  Sys.sleep(tempo %>% as.numeric())
   cont = cont+1
 }
 

@@ -15,8 +15,7 @@ cria_navegador = function(){
   rsDriver(browser = 'chrome',port=1237L,
                 chromever = '93.0.4577.63',
                 geckover = '0.30.0',
-                # extraCapabilities = list("chromeOptions" = list(args = list('--headless')))
-  ) %>% return()
+                extraCapabilities = list("chromeOptions" = list(args = list('--headless')))) %>% return()
   
 }
 
