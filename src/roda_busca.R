@@ -8,15 +8,27 @@ roda_busca = function(){
   library(audio)
   rm(list=ls())
   ini = Sys.time()
+  
+
+  
+  
   source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_git.R')
   source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\pega_bases.R')
   source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\acessa_pagina.R')
   
+  
   link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/#/'
-  page = acessa_pagina(link)
+  rd  = cria_navegador()
+  page = acessa_pagina(rd,link)
   
   
-  jogos = pega_bases(page)
+  jogos = pega_bases(rd,page)
+  
+  
+  rd$client$close()
+  rd$server$stop()
+  system("taskkill /im java.exe /f", intern=FALSE, ignore.stdout=FALSE)
+  
   write.table(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
   saveRDS(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.RDS')
   dir = 'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol'
@@ -27,7 +39,7 @@ roda_busca = function(){
   gitadd(dir)
   hoje = Sys.time() %>% 
     str_sub(1,-4)
-  gitcommit(dir = dir,msg = paste0('AtualizaÃ§Ã£o da base. Data: ',hoje))
+  gitcommit(dir = dir,msg = paste0('Atualização da base. Data: ',hoje))
   gitpush(dir)
   
   
@@ -41,7 +53,7 @@ audio_b = ifelse(args==1,T,F)
 while(1){
   roda_busca()
   jogos = read.table('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
-  if("Ao Vivo" %in% jogos$SituaÃ§Ã£oo){
+  if("Ao Vivo" %in% jogos$Situação){
     if(audio_b) play(load.wave("C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\www\\audio2.wav"))
     print(cont)
     Sys.sleep(period(minute=1,units = 'seconds') %>% as.numeric())
