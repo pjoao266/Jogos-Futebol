@@ -4,12 +4,6 @@ roda_busca = function(rd){
   
   page = acessa_pagina(rd,link,espera = 10)
   jogos = pega_bases(rd,page)
-  times_especfico = c('Cruzeiro','Brasil','Argentina','Uruguai','Vasco',
-                      'Botafogo')
-  times_champions = c('PSG','Manchester City','Liverpool','Real Madrid',
-                      'Borussia Dortmund','Atlético de Madri', 'Internazionale',
-                      'Bayern de Munique','Barcelona','Manchester United',
-                      'Juventus', 'Chelsea')
   
   atualiza_sql(jogos)
   
