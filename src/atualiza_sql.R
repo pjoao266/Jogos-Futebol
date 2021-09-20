@@ -16,7 +16,7 @@ atualiza_sql = function(jogos) {
   con = DBI::dbConnect(RMySQL::MySQL(), 
                        host = "sql10.freesqldatabase.com",dbname="sql10438482",
                        user = "sql10438482", password = "wm9uL5qCPT")
-  rs <- dbSendQuery(con, 'SET NAMES utf8')
+  
   
   
   jogos_sql = jogos %>% 
@@ -30,7 +30,7 @@ atualiza_sql = function(jogos) {
     unique() %>% 
     mutate(Times = utf8::as_utf8(Times)) %>% 
     anti_join(dbReadTable(con,"Times"),by=c('Times'='Time'))
-  
+  rs <- dbSendQuery(con, 'SET NAMES utf8')
   
   
   querys = sprintf("INSERT INTO Times (Time,Imagem) VALUES('%s','%s')", Times$Times,Times$Imagem)
@@ -93,7 +93,7 @@ atualiza_sql = function(jogos) {
 
   if(nrow(jogos_inserir>0)){
     querys = sprintf("INSERT INTO Jogos (Dia,Horario,id_competicao,id_mand,GolsMandante,GolsVisitante,id_visit,Status,Minutos) VALUES('%s','%s',%d,%d,%d,%d,%d,'%s','%s')",
-                     dmy(jogos_inserir$Dia),jogos_inserir$Horario,jogos_inserir$id_competicao,
+                     ymd(jogos_inserir$Dia),jogos_inserir$Horario,jogos_inserir$id_competicao,
                      jogos_inserir$id_mand,jogos_inserir$GolsMandante,jogos_inserir$GolsVisitante,
                      jogos_inserir$id_visit,jogos_inserir$Status %>% utf8::as_utf8(),ifelse(is.na(jogos_inserir$Minutos),jogos_inserir$Minutos,
                                                                                         jogos_inserir$Minutos %>% as.character() %>% 
