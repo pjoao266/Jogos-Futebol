@@ -95,9 +95,3 @@ atualiza_sql = function(jogos) {
   }
   dbDisconnect(con)
 }
-# con = DBI::dbConnect(RMySQL::MySQL(), 
-#                      host = "sql10.freesqldatabase.com",dbname="sql10438482",
-#                      user = "sql10438482", password = "wm9uL5qCPT")
-# 
-# dbReadTable(con,'Jogos') %>% nrow()
-# jogos_sql %>% nrow()
