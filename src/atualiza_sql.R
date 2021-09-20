@@ -1,17 +1,6 @@
 library(DBI)
 library(RMySQL)
 library(utf8)
-set_utf8 <- function(x) {
-  # Declare UTF-8 encoding on all character columns:
-  chr <- sapply(x, is.character)
-  x[, chr] <- lapply(x[, chr, drop = FALSE], `Encoding<-`, "UTF-8")
-  # Same on column names:
-  Encoding(names(x)) <- "UTF-8"
-  x
-}
-
-
-
 atualiza_sql = function(jogos) {
   con = DBI::dbConnect(RMySQL::MySQL(), 
                        host = "sql10.freesqldatabase.com",dbname="sql10438482",
@@ -67,7 +56,7 @@ atualiza_sql = function(jogos) {
                 rename(id_visit = id), by=c('Visitante' = 'Time')) %>% 
     select(Dia,Horario,id_competicao,id_mand,GolsMandante,GolsVisitante,id_visit, Status = Situação,Minutos) %>% 
     mutate(Dia = as.character(dmy(Dia))) %>%
-    full_join(set_utf8(dbReadTable(con,"Jogos")) %>% 
+    full_join(dbReadTable(con,"Jogos") %>% 
                 select(id_jogo=id,Dia,Horario,id_competicao,id_mand,id_visit,
                        GM = GolsMandante,GV = GolsVisitante,
                        Stat = Status,Minut = Minutos),by=c('Dia','Horario',
@@ -80,7 +69,7 @@ atualiza_sql = function(jogos) {
     filter(is.na(id_jogo))
   
   rs <- dbSendQuery(con, 'SET NAMES utf8')
-  if(nrow(jogos_atualizar>0)){
+  if(nrow(jogos_atualizar)>0){
     querys = sprintf( 'UPDATE Jogos SET GolsMandante = %d, GolsVisitante = %d, Status = "%s", Minutos = "%s" WHERE id = %d',
                       jogos_atualizar$GolsMandante,jogos_atualizar$GolsVisitante,jogos_atualizar$Status %>% utf8::as_utf8(),
                       jogos_atualizar$Minutos %>% utf8::as_utf8(),jogos_atualizar$id_jogo)
@@ -91,7 +80,7 @@ atualiza_sql = function(jogos) {
     }
   }
 
-  if(nrow(jogos_inserir>0)){
+  if(nrow(jogos_inserir)>0){
     querys = sprintf("INSERT INTO Jogos (Dia,Horario,id_competicao,id_mand,GolsMandante,GolsVisitante,id_visit,Status,Minutos) VALUES('%s','%s',%d,%d,%d,%d,%d,'%s','%s')",
                      ymd(jogos_inserir$Dia),jogos_inserir$Horario,jogos_inserir$id_competicao,
                      jogos_inserir$id_mand,jogos_inserir$GolsMandante,jogos_inserir$GolsVisitante,
@@ -106,3 +95,9 @@ atualiza_sql = function(jogos) {
   }
   dbDisconnect(con)
 }
+# con = DBI::dbConnect(RMySQL::MySQL(), 
+#                      host = "sql10.freesqldatabase.com",dbname="sql10438482",
+#                      user = "sql10438482", password = "wm9uL5qCPT")
+# 
+# dbReadTable(con,'Jogos') %>% nrow()
+# jogos_sql %>% nrow()
