@@ -3,8 +3,12 @@ roda_busca = function(rd){
   
   page = acessa_pagina(rd,link,espera = 10)
   jogos = pega_bases(rd,page)
-
   
+  con = DBI::dbConnect(RMySQL::MySQL(), 
+                       host = "sql10.freesqldatabase.com",dbname="sql10438482",
+                       user = "sql10438482", password = "wm9uL5qCPT")
+  dbWriteTable(con,'Jogos',jogos,overwrite=T)
+  dbDisconnect(con)
   write.table(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
   saveRDS(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.RDS')
   
@@ -15,6 +19,9 @@ roda_busca = function(rd){
                 user.name = "pjoao266",user.email = "pjoao266@gmail.com")
   gitstatus(dir)
   gitadd(dir)
+  
+  
+
   
   hoje = Sys.time() %>% 
     str_sub(1,-4)
@@ -30,6 +37,8 @@ library(lubridate)
 library(git2r)
 library(stringi)
 library(audio)
+library(DBI)
+library(RMySQL)
 
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_git.R')
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\pega_bases.R')
