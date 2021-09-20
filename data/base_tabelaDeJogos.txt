@@ -198,7 +198,7 @@
 "1165" "19-09-2021" "18H" "Série C" "Tombense-MG" 2 1 "Santa Cruz-PE" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/tombense-mg.png" "https://e.imguol.com/futebol/brasoes/40x40/santa-cruz-pe.png"
 "1166" "19-09-2021" "18H15" "Brasileirão" "Corinthians" 1 1 "América-MG" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/corinthians.png" "https://e.imguol.com/futebol/brasoes/40x40/america-mg.png"
 "1167" "19-09-2021" "20H" "Série C" "Botafogo-PB" NA NA "Jacuipense-BA" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/botafogo-pb.png" "https://e.imguol.com/futebol/brasoes/40x40/jacuipense-ba.png"
-"1168" "19-09-2021" "20H30" "Brasileirão" "Flamengo" 0 1 "Grêmio" "V" "Ao Vivo" 56 "https://e.imguol.com/futebol/brasoes/40x40/flamengo.png" "https://e.imguol.com/futebol/brasoes/40x40/gremio.png"
+"1168" "19-09-2021" "20H30" "Brasileirão" "Flamengo" 0 1 "Grêmio" "V" "Ao Vivo" 57 "https://e.imguol.com/futebol/brasoes/40x40/flamengo.png" "https://e.imguol.com/futebol/brasoes/40x40/gremio.png"
 "1169" "20-09-2021" "15H" "Série D" "Guarany de Sobral" NA NA "Galvez-AC" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/guarany-de-sobral.png" "https://e.imguol.com/futebol/brasoes/40x40/galvez-ac.png"
 "1170" "20-09-2021" "15H45" "Italiano" "Udinese" NA NA "Napoli" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/udinese.png" "https://e.imguol.com/futebol/brasoes/40x40/napoli.png"
 "1171" "20-09-2021" "16H" "La Liga" "Barcelona" NA NA "Granada-ESP" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/barcelona.png" "https://e.imguol.com/futebol/brasoes/40x40/granada-esp.png"
