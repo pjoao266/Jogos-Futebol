@@ -1,14 +1,18 @@
+
 roda_busca = function(rd){
   link = 'https://www.uol.com.br/esporte/futebol/central-de-jogos/#/'
   
   page = acessa_pagina(rd,link,espera = 10)
   jogos = pega_bases(rd,page)
+  times_especfico = c('Cruzeiro','Brasil','Argentina','Uruguai','Vasco',
+                      'Botafogo')
+  times_champions = c('PSG','Manchester City','Liverpool','Real Madrid',
+                      'Borussia Dortmund','Atlético de Madri', 'Internazionale',
+                      'Bayern de Munique','Barcelona','Manchester United',
+                      'Juventus', 'Chelsea')
   
-  con = DBI::dbConnect(RMySQL::MySQL(), 
-                       host = "sql10.freesqldatabase.com",dbname="sql10438482",
-                       user = "sql10438482", password = "wm9uL5qCPT")
-  dbWriteTable(con,'Jogos',jogos,overwrite=T)
-  dbDisconnect(con)
+  atualiza_sql(jogos)
+  
   write.table(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.txt')
   saveRDS(jogos,'C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\data\\base_tabelaDeJogos.RDS')
   
@@ -37,12 +41,12 @@ library(lubridate)
 library(git2r)
 library(stringi)
 library(audio)
-library(DBI)
-library(RMySQL)
+
 
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_git.R')
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\pega_bases.R')
 source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\acessa_pagina.R')
+source('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\JogosFutebol\\src\\atualiza_sql.R')
 
 rd  = cria_navegador()
 

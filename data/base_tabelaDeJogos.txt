@@ -341,3 +341,7 @@
 "1308" "26-09-2021" "18H15" "Série B" "Botafogo" NA NA "Sampaio Corrêa-MA" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/botafogo.png" "https://e.imguol.com/futebol/brasoes/40x40/sampaio-correa-ma.png"
 "1309" "26-09-2021" "20H30" "Brasileirão" "Atlético-GO" NA NA "Cuiabá" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/atletico-go.png" "https://e.imguol.com/futebol/brasoes/40x40/cuiaba.png"
 "1310" "26-09-2021" "21H" "Brasileirão Feminino A1" "Corinthians" NA NA "Palmeiras" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/corinthians.png" "https://e.imguol.com/futebol/brasoes/40x40/palmeiras.png"
+"1311" "27-09-2021" "15H45" "Italiano" "Venezia" NA NA "Torino" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/venezia.png" "https://e.imguol.com/futebol/brasoes/40x40/torino.png"
+"1312" "27-09-2021" "16H" "La Liga" "Celta" NA NA "Granada-ESP" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/celta.png" "https://e.imguol.com/futebol/brasoes/40x40/granada-esp.png"
+"1313" "27-09-2021" "16H" "Inglês" "Crystal Palace" NA NA "Brighton" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/crystal-palace.png" "https://e.imguol.com/futebol/brasoes/40x40/brighton.png"
+"1314" "27-09-2021" "20H" "Série B" "Vasco" NA NA "Goiás" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/vasco.png" "https://e.imguol.com/futebol/brasoes/40x40/goias.png"
