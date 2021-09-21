@@ -220,7 +220,7 @@
 "1187" "21-09-2021" "15H45" "Copa da Liga Inglesa" "Wigan" 0 2 "Sunderland" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/wigan.png" "https://e.imguol.com/futebol/brasoes/40x40/sunderland.png"
 "1188" "21-09-2021" "16H" "Série B" "Guarani" 2 0 "Remo" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/guarani.png" "https://e.imguol.com/futebol/brasoes/40x40/remo.png"
 "1189" "21-09-2021" "17H" "La Liga" "Athletic Bilbao" 1 1 "Rayo Vallecano" "E" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/athletic-bilbao.png" "https://e.imguol.com/futebol/brasoes/40x40/rayo-vallecano.png"
-"1190" "21-09-2021" "17H" "La Liga" "Levante" 0 1 "Celta" "V" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/levante.png" "https://e.imguol.com/futebol/brasoes/40x40/celta.png"
+"1190" "21-09-2021" "17H" "La Liga" "Levante" 0 2 "Celta" "V" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/levante.png" "https://e.imguol.com/futebol/brasoes/40x40/celta.png"
 "1191" "21-09-2021" "19H" "Série B" "Sampaio Corrêa-MA" NA NA "Brusque" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/sampaio-correa-ma.png" "https://e.imguol.com/futebol/brasoes/40x40/brusque.png"
 "1192" "21-09-2021" "19H" "Série B" "Avaí" NA NA "Goiás" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/avai.png" "https://e.imguol.com/futebol/brasoes/40x40/goias.png"
 "1193" "21-09-2021" "19H" "Série B" "Brasil de Pelotas" NA NA "CRB" "N" "Não Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/brasil-de-pelotas.png" "https://e.imguol.com/futebol/brasoes/40x40/crb.png"
