@@ -228,7 +228,7 @@
 "1195" "21-09-2021" "21H30" "Série B" "Vila Nova" 0 0 "Confiança" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/vila-nova.png" "https://e.imguol.com/futebol/brasoes/40x40/confianca.png"
 "1196" "21-09-2021" "21H30" "Libertadores" "Palmeiras" 0 0 "Atlético-MG" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/palmeiras.png" "https://e.imguol.com/futebol/brasoes/40x40/atletico-mg.png"
 "1197" "22-09-2021" "13H30" "Italiano" "Salernitana" 0 2 "Hellas Verona" "V" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/salernitana.png" "https://e.imguol.com/futebol/brasoes/40x40/hellas-verona.png"
-"1198" "22-09-2021" "13H30" "Italiano" "Spezia" 0 1 "Juventus" "V" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/spezia.png" "https://e.imguol.com/futebol/brasoes/40x40/juventus.png"
+"1198" "22-09-2021" "13H30" "Italiano" "Spezia" 1 1 "Juventus" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/spezia.png" "https://e.imguol.com/futebol/brasoes/40x40/juventus.png"
 "1199" "22-09-2021" "14H" "Francês" "Lille" 0 0 "Reims" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/lille.png" "https://e.imguol.com/futebol/brasoes/40x40/reims.png"
 "1200" "22-09-2021" "14H" "Francês" "Monaco" 0 0 "Saint-Étienne" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/monaco.png" "https://e.imguol.com/futebol/brasoes/40x40/saint-etienne.png"
 "1201" "22-09-2021" "14H" "Francês" "Montpellier" 0 0 "Bordeaux" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/montpellier.png" "https://e.imguol.com/futebol/brasoes/40x40/bordeaux.png"
