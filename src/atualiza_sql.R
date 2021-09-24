@@ -7,14 +7,15 @@ atualiza_sql = function(jogos) {
                        user = "sql10438482", password = "wm9uL5qCPT")
   
   
-  times_especfico = c('Cruzeiro','Brasil','Argentina','Uruguai','Vasco',
-                      'Botafogo')
+  times_especfico = c('Cruzeiro','Brasil')
   times_champions = c('PSG','Manchester City','Liverpool','Real Madrid',
-                      'Borussia Dortmund','Atlético de Madri', 'Internazionale',
+                      'Borussia Dortmund','Atlético de Madri',
                       'Bayern de Munique','Barcelona','Manchester United',
-                      'Juventus', 'Chelsea')
+                      'Chelsea')
+  
+  
   jogos_sql = jogos %>% 
-    filter(Competição %in%  c('Brasileirão','Copa do Brasil', 'Libertadores','Inglês') | 
+    filter(Competição %in%  c('Brasileirão','Copa do Brasil', 'Libertadores') | 
              Mandante %in% times_especfico | Visitante %in% times_especfico | 
              (Competição == 'Liga dos Campeões' & (Mandante %in% times_champions |
                                                      Visitante %in% times_champions))) 
