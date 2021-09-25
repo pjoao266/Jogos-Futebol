@@ -329,7 +329,7 @@
 "1296" "25-09-2021" "15H" "Série C" "Paraná Clube" 4 0 "Oeste" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/parana-clube.png" "https://e.imguol.com/futebol/brasoes/40x40/oeste.png"
 "1297" "25-09-2021" "15H" "Série D" "Atlético-CE" 2 0 "Paragominas" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/atletico-ce.png" "https://e.imguol.com/futebol/brasoes/40x40/paragominas.png"
 "1298" "25-09-2021" "15H45" "Italiano" "Genoa" 3 3 "Hellas Verona" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/genoa.png" "https://e.imguol.com/futebol/brasoes/40x40/hellas-verona.png"
-"1299" "25-09-2021" "16H" "Série B" "Londrina" 1 0 "Vitória" "M" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/londrina.png" "https://e.imguol.com/futebol/brasoes/40x40/vitoria.png"
+"1299" "25-09-2021" "16H" "Série B" "Londrina" 1 0 "Vitória" "M" "Ao Vivo" "Encerrado" "https://e.imguol.com/futebol/brasoes/40x40/londrina.png" "https://e.imguol.com/futebol/brasoes/40x40/vitoria.png"
 "1300" "25-09-2021" "16H" "La Liga" "Real Madrid" 0 0 "Villarreal" "E" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/real-madrid.png" "https://e.imguol.com/futebol/brasoes/40x40/villarreal.png"
 "1301" "25-09-2021" "16H" "Francês" "Lyon" 1 1 "Lorient" "E" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/lyon.png" "https://e.imguol.com/futebol/brasoes/40x40/lorient.png"
 "1302" "25-09-2021" "16H" "Francês" "PSG" 2 0 "Montpellier" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/psg.png" "https://e.imguol.com/futebol/brasoes/40x40/montpellier.png"
