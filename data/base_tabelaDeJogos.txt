@@ -471,7 +471,7 @@
 "1438" "29-09-2021" "16H" "Liga dos Campeões" "Juventus" 1 0 "Chelsea" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/juventus.png" "https://e.imguol.com/futebol/brasoes/40x40/chelsea.png"
 "1439" "29-09-2021" "19H" "Série B" "Guarani" 0 1 "Cruzeiro" "V" "Ao Vivo" "Intervalo" "https://e.imguol.com/futebol/brasoes/40x40/guarani.png" "https://e.imguol.com/futebol/brasoes/40x40/cruzeiro.png"
 "1440" "29-09-2021" "19H" "Série B" "Brasil de Pelotas" 0 0 "Brusque" "E" "Ao Vivo" "Intervalo" "https://e.imguol.com/futebol/brasoes/40x40/brasil-de-pelotas.png" "https://e.imguol.com/futebol/brasoes/40x40/brusque.png"
-"1441" "29-09-2021" "19H15" "Copa Sul-Americana" "Libertad-PAR" 0 1 "Red Bull Bragantino" "V" "Ao Vivo" "41" "https://e.imguol.com/futebol/brasoes/40x40/libertad-par.png" "https://e.imguol.com/futebol/brasoes/40x40/red-bull-bragantino.png"
+"1441" "29-09-2021" "19H15" "Copa Sul-Americana" "Libertad-PAR" 0 1 "Red Bull Bragantino" "V" "Ao Vivo" "43" "https://e.imguol.com/futebol/brasoes/40x40/libertad-par.png" "https://e.imguol.com/futebol/brasoes/40x40/red-bull-bragantino.png"
 "1442" "29-09-2021" "21H30" "Série B" "Vitória" NA NA "Botafogo" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/vitoria.png" "https://e.imguol.com/futebol/brasoes/40x40/botafogo.png"
 "1443" "29-09-2021" "21H30" "Série B" "CSA" NA NA "Ponte Preta" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/csa.png" "https://e.imguol.com/futebol/brasoes/40x40/ponte-preta.png"
 "1444" "29-09-2021" "21H30" "Libertadores" "Barcelona-EQU" NA NA "Flamengo" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/barcelona-equ.png" "https://e.imguol.com/futebol/brasoes/40x40/flamengo.png"
