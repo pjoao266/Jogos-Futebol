@@ -1,31 +1,76 @@
 library(DBI)
 library(RMySQL)
 library(utf8)
+rm_accent <- function(str,pattern="all") {
+  # Rotinas e funções úteis V 1.0
+  # rm.accent - REMOVE ACENTOS DE PALAVRAS
+  # Função que tira todos os acentos e pontuações de um vetor de strings.
+  # Parâmetros:
+  # str - vetor de strings que terão seus acentos retirados.
+  # patterns - vetor de strings com um ou mais elementos indicando quais acentos deverão ser retirados.
+  #            Para indicar quais acentos deverão ser retirados, um vetor com os símbolos deverão ser passados.
+  #            Exemplo: pattern = c("´", "^") retirará os acentos agudos e circunflexos apenas.
+  #            Outras palavras aceitas: "all" (retira todos os acentos, que são "´", "`", "^", "~", "¨", "ç")
+  if(!is.character(str))
+    str <- as.character(str)
+  
+  pattern <- unique(pattern)
+  
+  if(any(pattern=="Ç"))
+    pattern[pattern=="Ç"] <- "ç"
+  
+  symbols <- c(
+    acute = "áéíóúÁÉÍÓÚýÝ",
+    grave = "àèìòùÀÈÌÒÙ",
+    circunflex = "âêîôûÂÊÎÔÛ",
+    tilde = "ãõÃÕñÑ",
+    umlaut = "äëïöüÄËÏÖÜÿ",
+    cedil = "çÇ"
+  )
+  
+  nudeSymbols <- c(
+    acute = "aeiouAEIOUyY",
+    grave = "aeiouAEIOU",
+    circunflex = "aeiouAEIOU",
+    tilde = "aoAOnN",
+    umlaut = "aeiouAEIOUy",
+    cedil = "cC"
+  )
+  
+  accentTypes <- c("´","`","^","~","¨","ç")
+  
+  if(any(c("all","al","a","todos","t","to","tod","todo")%in%pattern)) # opcao retirar todos
+    return(chartr(paste(symbols, collapse=""), paste(nudeSymbols, collapse=""), str))
+  
+  for(i in which(accentTypes%in%pattern))
+    str <- chartr(symbols[i],nudeSymbols[i], str)
+  
+  return(str)
+}
+
 atualiza_sql = function(jogos) {
-  con = DBI::dbConnect(RMySQL::MySQL(), 
-                       host = "sql10.freesqldatabase.com",dbname="sql10438482",
-                       user = "sql10438482", password = "wm9uL5qCPT")
+  con <- dbConnect(RMySQL::MySQL(), host = "db4free.net",
+                   dbname="bolao_shiny",user = "pjoao266", password = "12345678")
   
   
-  times_especfico = c('Cruzeiro','Brasil')
+  times_especfico = c('Cruzeiro','Brasil','Argentina','Uruguai','Vasco',
+                      'Botafogo')
   times_champions = c('PSG','Manchester City','Liverpool','Real Madrid',
                       'Borussia Dortmund','Atlético de Madri',
                       'Bayern de Munique','Barcelona','Manchester United',
-                      'Chelsea')
-  
-  
+                      'Juventus', 'Chelsea')
   jogos_sql = jogos %>% 
     filter(Competição %in%  c('Brasileirão','Copa do Brasil', 'Libertadores') | 
              Mandante %in% times_especfico | Visitante %in% times_especfico | 
              (Competição == 'Liga dos Campeões' & (Mandante %in% times_champions |
-                                                     Visitante %in% times_champions))) 
-  
+                                                     Visitante %in% times_champions))) %>% 
+    mutate(Mandante = rm_accent(Mandante),
+           Visitante = rm_accent(Visitante),
+           Competição = rm_accent(Competição))
   Times = rbind(jogos_sql %>% select(Times = Mandante,Imagem = ImagemMandante),
                 jogos_sql %>% select(Times = Visitante,Imagem = ImagemVisitante)) %>% 
     unique() %>% 
-    mutate(Times = utf8::as_utf8(Times)) %>% 
     anti_join(dbReadTable(con,"Times"),by=c('Times'='Time'))
-  rs <- dbSendQuery(con, 'SET NAMES utf8')
   
   
   querys = sprintf("INSERT INTO Times (Time,Imagem) VALUES('%s','%s')", Times$Times,Times$Imagem)
@@ -33,26 +78,21 @@ atualiza_sql = function(jogos) {
     dbSendQuery(con,query)
   }
   dbDisconnect(con)
-  con = DBI::dbConnect(RMySQL::MySQL(), 
-                       host = "sql10.freesqldatabase.com",dbname="sql10438482",
-                       user = "sql10438482", password = "wm9uL5qCPT")
+  con <- dbConnect(RMySQL::MySQL(), host = "db4free.net",
+                   dbname="bolao_shiny",user = "pjoao266", password = "12345678")
+  
   Competicoes = jogos_sql %>% 
     select(Competição) %>% 
-    mutate(Competição = utf8::as_utf8(Competição)) %>% 
     unique() %>% 
     anti_join(dbReadTable(con,"Competicoes"),by=c('Competição'='Competicao'))
-  
-  rs <- dbSendQuery(con, 'SET NAMES utf8')
   querys = sprintf("INSERT INTO Competicoes (Competicao) VALUES('%s')", Competicoes$Competição)
   for (query in querys) {
     dbSendQuery(con,query)
   }
   
   dbDisconnect(con)
-  con = DBI::dbConnect(RMySQL::MySQL(), 
-                       host = "sql10.freesqldatabase.com",dbname="sql10438482",
-                       user = "sql10438482", password = "wm9uL5qCPT")
-  
+  con <- dbConnect(RMySQL::MySQL(), host = "db4free.net",
+                   dbname="bolao_shiny",user = "pjoao266", password = "12345678")
   jogos_padronizados = jogos_sql %>% 
     left_join(dbReadTable(con,"Competicoes") %>% 
                 rename(id_competicao = id), by=c('Competição' = 'Competicao')) %>% 
@@ -74,7 +114,6 @@ atualiza_sql = function(jogos) {
   jogos_inserir = jogos_padronizados %>%
     filter(is.na(id_jogo))
   
-  rs <- dbSendQuery(con, 'SET NAMES utf8')
   if(nrow(jogos_atualizar)>0){
     querys = sprintf( 'UPDATE Jogos SET GolsMandante = %d, GolsVisitante = %d, Status = "%s", Minutos = "%s" WHERE id = %d',
                       jogos_atualizar$GolsMandante,jogos_atualizar$GolsVisitante,jogos_atualizar$Status %>% utf8::as_utf8(),

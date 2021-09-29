@@ -65,7 +65,7 @@ pega_bases = function(rd,page){
                                      GolsMandante==GolsVisitante~'E'),
                Situação = case_when(info_jogo[5]=='ao vivo'~'Ao Vivo',
                                     info_jogo[5] %in% c('encerrado','pós-jogo')~'Encerrado',
-                                    T~'Não Iniciado'))
+                                    T~'Nao Iniciado'))
       
       
       minutos = NA
