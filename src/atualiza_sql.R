@@ -1,6 +1,5 @@
 library(DBI)
 library(RMySQL)
-library(utf8)
 rm_accent <- function(str,pattern="all") {
   # Rotinas e funções úteis V 1.0
   # rm.accent - REMOVE ACENTOS DE PALAVRAS
@@ -115,8 +114,8 @@ atualiza_sql = function(jogos) {
   
   if(nrow(jogos_atualizar)>0){
     querys = sprintf( 'UPDATE Jogos SET GolsMandante = %d, GolsVisitante = %d, Status = "%s", Minutos = "%s" WHERE id = %d',
-                      jogos_atualizar$GolsMandante,jogos_atualizar$GolsVisitante,jogos_atualizar$Status %>% utf8::as_utf8(),
-                      jogos_atualizar$Minutos %>% utf8::as_utf8(),jogos_atualizar$id_jogo)
+                      jogos_atualizar$GolsMandante,jogos_atualizar$GolsVisitante,jogos_atualizar$Status,
+                      jogos_atualizar$Minutos,jogos_atualizar$id_jogo)
     querys <- gsub("'NA'", "NULL", querys)
     querys <- gsub("NA", "NULL", querys)
     for (query in querys) {
@@ -128,9 +127,8 @@ atualiza_sql = function(jogos) {
     querys = sprintf("INSERT INTO Jogos (Dia,Horario,id_competicao,id_mand,GolsMandante,GolsVisitante,id_visit,Status,Minutos) VALUES('%s','%s',%d,%d,%d,%d,%d,'%s','%s')",
                      ymd(jogos_inserir$Dia),jogos_inserir$Horario,jogos_inserir$id_competicao,
                      jogos_inserir$id_mand,jogos_inserir$GolsMandante,jogos_inserir$GolsVisitante,
-                     jogos_inserir$id_visit,jogos_inserir$Status %>% utf8::as_utf8(),ifelse(is.na(jogos_inserir$Minutos),jogos_inserir$Minutos,
-                                                                                        jogos_inserir$Minutos %>% as.character() %>% 
-                                                                                          utf8::as_utf8()))
+                     jogos_inserir$id_visit,jogos_inserir$Status,ifelse(is.na(jogos_inserir$Minutos),jogos_inserir$Minutos,
+                                                                                        jogos_inserir$Minutos))
     querys <- gsub("'NA'", "NULL", querys)
     querys <- gsub("NA", "NULL", querys)
     for (query in querys) {
