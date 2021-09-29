@@ -445,7 +445,7 @@
 "1412" "28-09-2021" "19H" "Série B" "Náutico" 1 3 "CRB" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/nautico.png" "https://e.imguol.com/futebol/brasoes/40x40/crb.png"
 "1413" "28-09-2021" "21H30" "Série B" "Vila Nova" 1 1 "Operário-PR" "E" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/vila-nova.png" "https://e.imguol.com/futebol/brasoes/40x40/operario-pr.png"
 "1414" "28-09-2021" "21H30" "Série B" "Coritiba" 0 1 "Confiança" "V" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/coritiba.png" "https://e.imguol.com/futebol/brasoes/40x40/confianca.png"
-"1415" "28-09-2021" "21H30" "Libertadores" "Atlético-MG" 1 1 "Palmeiras" "E" "Ao Vivo" "89" "https://e.imguol.com/futebol/brasoes/40x40/atletico-mg.png" "https://e.imguol.com/futebol/brasoes/40x40/palmeiras.png"
+"1415" "28-09-2021" "21H30" "Libertadores" "Atlético-MG" 1 1 "Palmeiras" "E" "Ao Vivo" "95" "https://e.imguol.com/futebol/brasoes/40x40/atletico-mg.png" "https://e.imguol.com/futebol/brasoes/40x40/palmeiras.png"
 "1416" "29-09-2021" "13H45" "Liga dos Campeões" "Atalanta" NA NA "Young Boys" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/atalanta.png" "https://e.imguol.com/futebol/brasoes/40x40/young-boys.png"
 "1417" "29-09-2021" "13H45" "Liga dos Campeões" "Zenit" NA NA "Malmö FF" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/zenit.png" "https://e.imguol.com/futebol/brasoes/40x40/malmo-ff.png"
 "1418" "29-09-2021" "16H" "Liga dos Campeões" "Bayern de Munique" NA NA "Dynamo Kiev" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/bayern-de-munique.png" "https://e.imguol.com/futebol/brasoes/40x40/dynamo-kiev.png"
