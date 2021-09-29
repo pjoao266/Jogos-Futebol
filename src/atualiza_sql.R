@@ -53,8 +53,7 @@ atualiza_sql = function(jogos) {
                    dbname="bolao_shiny",user = "pjoao266", password = "12345678")
   
   
-  times_especfico = c('Cruzeiro','Brasil','Argentina','Uruguai','Vasco',
-                      'Botafogo')
+  times_especfico = c('Cruzeiro','Brasil','Argentina','Uruguai')
   times_champions = c('PSG','Manchester City','Liverpool','Real Madrid',
                       'Borussia Dortmund','Atlético de Madri',
                       'Bayern de Munique','Barcelona','Manchester United',
@@ -138,5 +137,12 @@ atualiza_sql = function(jogos) {
       dbSendQuery(con,query)
     }
   }
+  tabelas = list()
+  for (tables in dbListTables(con)) {
+    tabela = dbReadTable(con,tables)
+    tabelas[[tables]] = tabela
+  }
+  
+  saveRDS(tabelas,paste0('C:\\Users\\JoaoPedro\\Arquivos\\Dados\\Maluquices\\backup_sql\\',str_replace_all(now(),':','-'),' - backup_SQL.RDS'))
   dbDisconnect(con)
 }
