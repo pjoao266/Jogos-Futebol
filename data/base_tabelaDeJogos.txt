@@ -334,7 +334,7 @@
 "1151" "02-10-2021" "13H" "Italiano" "Torino" 0 0 "Juventus" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/torino.png" "https://e.imguol.com/futebol/brasoes/40x40/juventus.png"
 "1152" "02-10-2021" "13H30" "La Liga" "Cádiz" 0 0 "Valencia" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/cadiz.png" "https://e.imguol.com/futebol/brasoes/40x40/valencia.png"
 "1153" "02-10-2021" "13H30" "Inglês" "Brighton" 0 0 "Arsenal" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/brighton.png" "https://e.imguol.com/futebol/brasoes/40x40/arsenal.png"
-"1154" "02-10-2021" "13H30" "Alemão" "RB Leipzig" NA NA "Bochum" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/rb-leipzig.png" "https://e.imguol.com/futebol/brasoes/40x40/bochum.png"
+"1154" "02-10-2021" "13H30" "Alemão" "RB Leipzig" 0 0 "Bochum" "E" "Ao Vivo" "1º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/rb-leipzig.png" "https://e.imguol.com/futebol/brasoes/40x40/bochum.png"
 "1155" "02-10-2021" "15H" "Série D" "Joinville" NA NA "Uberlândia" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/joinville.png" "https://e.imguol.com/futebol/brasoes/40x40/uberlandia.png"
 "1156" "02-10-2021" "15H45" "Italiano" "Sassuolo" NA NA "Internazionale" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/sassuolo.png" "https://e.imguol.com/futebol/brasoes/40x40/internazionale.png"
 "1157" "02-10-2021" "16H" "Série B" "Brusque" NA NA "Guarani" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/brusque.png" "https://e.imguol.com/futebol/brasoes/40x40/guarani.png"
