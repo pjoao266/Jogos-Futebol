@@ -329,7 +329,7 @@
 "1146" "02-10-2021" "11H" "Inglês" "Chelsea" 3 1 "Southampton" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/chelsea.png" "https://e.imguol.com/futebol/brasoes/40x40/southampton.png"
 "1147" "02-10-2021" "11H" "Inglês" "Leeds United" 1 0 "Watford" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/leeds-united.png" "https://e.imguol.com/futebol/brasoes/40x40/watford.png"
 "1148" "02-10-2021" "11H" "Inglês" "Wolverhampton" 2 1 "Newcastle United" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/wolverhampton.png" "https://e.imguol.com/futebol/brasoes/40x40/newcastle-united.png"
-"1149" "02-10-2021" "11H15" "La Liga" "Mallorca" 0 0 "Levante" "E" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/mallorca.png" "https://e.imguol.com/futebol/brasoes/40x40/levante.png"
+"1149" "02-10-2021" "11H15" "La Liga" "Mallorca" 1 0 "Levante" "M" "Ao Vivo" "2º Tempo" "https://e.imguol.com/futebol/brasoes/40x40/mallorca.png" "https://e.imguol.com/futebol/brasoes/40x40/levante.png"
 "1150" "02-10-2021" "12H" "Francês" "Montpellier" 1 1 "Strasbourg" "E" "Ao Vivo" "Intervalo" "https://e.imguol.com/futebol/brasoes/40x40/montpellier.png" "https://e.imguol.com/futebol/brasoes/40x40/strasbourg.png"
 "1151" "02-10-2021" "13H" "Italiano" "Torino" NA NA "Juventus" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/torino.png" "https://e.imguol.com/futebol/brasoes/40x40/juventus.png"
 "1152" "02-10-2021" "13H30" "La Liga" "Cádiz" NA NA "Valencia" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/cadiz.png" "https://e.imguol.com/futebol/brasoes/40x40/valencia.png"
