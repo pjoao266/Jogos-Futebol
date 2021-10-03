@@ -424,7 +424,7 @@
 "1269" "03-10-2021" "16H" "Série C" "Manaus" 5 0 "Novorizontino" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/manaus.png" "https://e.imguol.com/futebol/brasoes/40x40/novorizontino.png"
 "1270" "03-10-2021" "18H" "Série C" "Criciúma" NA NA "Paysandu" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/criciuma.png" "https://e.imguol.com/futebol/brasoes/40x40/paysandu.png"
 "1271" "03-10-2021" "18H15" "Brasileirão" "Palmeiras" 1 1 "Juventude" "E" "Ao Vivo" "" "https://e.imguol.com/futebol/brasoes/40x40/palmeiras.png" "https://e.imguol.com/futebol/brasoes/40x40/juventude.png"
-"1272" "03-10-2021" "18H15" "Série B" "Confiança" 0 0 "Vasco" "E" "Ao Vivo" "37" "https://e.imguol.com/futebol/brasoes/40x40/confianca.png" "https://e.imguol.com/futebol/brasoes/40x40/vasco.png"
+"1272" "03-10-2021" "18H15" "Série B" "Confiança" 0 0 "Vasco" "E" "Ao Vivo" "38" "https://e.imguol.com/futebol/brasoes/40x40/confianca.png" "https://e.imguol.com/futebol/brasoes/40x40/vasco.png"
 "1273" "03-10-2021" "20H30" "Brasileirão" "Grêmio" NA NA "Sport" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/gremio.png" "https://e.imguol.com/futebol/brasoes/40x40/sport.png"
 "1274" "03-10-2021" "20H30" "Série B" "Londrina" NA NA "Sampaio Corrêa-MA" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/londrina.png" "https://e.imguol.com/futebol/brasoes/40x40/sampaio-correa-ma.png"
 "1275" "04-10-2021" "20H" "Série B" "Remo" NA NA "Coritiba" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/remo.png" "https://e.imguol.com/futebol/brasoes/40x40/coritiba.png"
