@@ -643,7 +643,7 @@
 "1610" "13-10-2021" "23H05" "Eliminatórias da Concacaf" "El Salvador" 0 2 "México" "V" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/el-salvador.png" "https://e.imguol.com/futebol/brasoes/40x40/mexico.png"
 "1611" "14-10-2021" "17H" "Eliminatórias Sul-Americanas" "Bolívia" 4 0 "Paraguai" "M" "Encerrado" NA "https://e.imguol.com/futebol/brasoes/40x40/bolivia.png" "https://e.imguol.com/futebol/brasoes/40x40/paraguai.png"
 "1612" "14-10-2021" "18H" "Eliminatórias Sul-Americanas" "Colômbia" 0 0 "Equador" "E" "Ao Vivo" "Intervalo" "https://e.imguol.com/futebol/brasoes/40x40/colombia.png" "https://e.imguol.com/futebol/brasoes/40x40/equador.png"
-"1613" "14-10-2021" "19H" "Brasileirão" "São Paulo" NA NA "Ceará" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/sao-paulo.png" "https://e.imguol.com/futebol/brasoes/40x40/ceara.png"
+"1613" "14-10-2021" "19H" "Brasileirão" "São Paulo" 0 0 "Ceará" "E" "Ao Vivo" "1" "https://e.imguol.com/futebol/brasoes/40x40/sao-paulo.png" "https://e.imguol.com/futebol/brasoes/40x40/ceara.png"
 "1614" "14-10-2021" "19H" "Brasileirão" "Cuiabá" 0 0 "Sport" "E" "Ao Vivo" "1" "https://e.imguol.com/futebol/brasoes/40x40/cuiaba.png" "https://e.imguol.com/futebol/brasoes/40x40/sport.png"
 "1615" "14-10-2021" "20H30" "Eliminatórias Sul-Americanas" "Argentina" NA NA "Peru" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/argentina.png" "https://e.imguol.com/futebol/brasoes/40x40/peru.png"
 "1616" "14-10-2021" "21H" "Eliminatórias Sul-Americanas" "Chile" NA NA "Venezuela" "N" "Nao Iniciado" NA "https://e.imguol.com/futebol/brasoes/40x40/chile.png" "https://e.imguol.com/futebol/brasoes/40x40/venezuela.png"
